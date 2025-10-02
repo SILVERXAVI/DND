@@ -1,4 +1,4 @@
-#dnd/monsterhunter/armas 
+
 ![[arco.png]]
 > El arco es un arma de alcance medio que permite  realizar diversos ataques si bien es fácil de usar, dominarlo requiere un conocimiento detallado de las mejores combinaciones de flechas y recubrimientos
 

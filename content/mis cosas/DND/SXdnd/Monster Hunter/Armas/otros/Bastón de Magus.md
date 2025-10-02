@@ -1,4 +1,4 @@
-#dnd/monsterhunter/armas 
+ 
 ![[baston de magus.png]]
 > Usados ​​más para caminar que para golpear a una criatura, los bastones de mago están finamente elaborados. Con incrustaciones de gemas y tallados intrincados que permiten lanzar y almacenar hechizos en su interior, el Bastón de Mago es el arma predilecta de un lanzador de hechizos.
 

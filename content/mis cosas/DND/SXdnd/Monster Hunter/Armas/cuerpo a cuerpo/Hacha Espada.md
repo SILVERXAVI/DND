@@ -1,4 +1,4 @@
-#dnd/monsterhunter/armas 
+
 ![[hacha espada.png]]
 > El Hacha Cambiante se transforma entre los modos hacha y espada. El modo hacha ofrece largo alcance, mientras que el modo espada ofrece remates explosivos.
 

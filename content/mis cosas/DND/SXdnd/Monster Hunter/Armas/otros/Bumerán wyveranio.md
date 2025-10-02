@@ -1,4 +1,4 @@
-#dnd/monsterhunter/armas 
+
 ![[bumeran wyveriano.png]]
 > Es un bumerán gigante que necesitas guanteletes de poder para empuñarlo.
 

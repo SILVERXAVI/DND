@@ -1,4 +1,4 @@
-#dnd/monsterhunter/armas 
+
 ![[hacha cargada.png]]
 > El modo espada ofrece movilidad y gran capacidad de guardia, mientras que el modo hacha ofrece ataques más potentes. Acumula energía en modo espada y úsala para infligir gran daño en modo hacha.
 
@@ -27,7 +27,7 @@ Obtienes un bonificador de +1 a los ataques y tiradas de daño, y +1 a la CA con
 Esta arma conserva todas las propiedades de las rarezas anteriores, además de las siguientes:
 
 Descarga Elemental (Hacha). Como acción adicional al impactar a una criatura, puedes gastar 1 vial para infligir 1d6 de daño adicional por ácido, frío, fuego o rayo (a tu elección).
-Descarga Elemental Amplificada (Hacha). Como acción, puedes gastar cualquier cantidad de cargas de vial y liberar una onda expansiva de daño por ácido, frío, fuego o rayo (a tu elección) en un cono de 4,5 metros frente a ti. Cada criatura en esa área debe superar una tirada de salvación de Destreza igual a 8 + tu modificador de competencia + tu modificador de Fuerza, recibiendo #d4 del tipo de daño elegido, donde # es la cantidad de viales que has gastado en una tirada de salvación fallida. Si la tirada de salvación es exitosa, la criatura recibe la mitad del daño. Puedes usar esta propiedad tantas veces como tu bonificador de competencia, recuperando todos los usos gastados al terminar un descanso prolongado.
+Descarga Elemental Amplificada (Hacha). Como acción, puedes gastar cualquier cantidad de cargas de vial y liberar una onda expansiva de daño por ácido, frío, fuego o rayo (a tu elección) en un cono de 4,5 metros frente a ti. Cada criatura en esa área debe superar una tirada de salvación de Destreza igual a 8 + tu modificador de competencia + tu modificador de Fuerza, recibiendo d4 del tipo de daño elegido, donde # es la cantidad de viales que has gastado en una tirada de salvación fallida. Si la tirada de salvación es exitosa, la criatura recibe la mitad del daño. Puedes usar esta propiedad tantas veces como tu bonificador de competencia, recuperando todos los usos gastados al terminar un descanso prolongado.
 
 ### Muy Rara
 Obtienes un bonificador de +2 a las tiradas de ataque y daño, y +2 a la CA con el escudo equipado.

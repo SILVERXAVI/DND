@@ -1,4 +1,4 @@
-#dnd/monsterhunter/armas
+
 **_Las armas es unos de los equipamientos mas impórtateme de in cazador, estas son todas las armas que dispones_** 
 
 1. **[[Hacha Acelerada]]**

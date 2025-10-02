@@ -1,4 +1,4 @@
-#dnd/monsterhunter/armas 
+
 ![[espada larga.png]]
 > La Espada Larga, un arma elegante, es un arma ofensiva muy completa. Además de su sólido conjunto de movimientos base, cuenta con un sistema único de Indicador de Espíritu. Cada ataque de la Espada Larga, que no sea de Espíritu, carga un Indicador de Espíritu que aumenta el daño de ataque y desbloquea ataques de Hoja Espiritual.
 

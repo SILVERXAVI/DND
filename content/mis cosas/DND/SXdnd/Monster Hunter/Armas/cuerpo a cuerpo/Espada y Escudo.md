@@ -1,4 +1,4 @@
-#dnd/monsterhunter/armas 
+
 ![[espada y escudo.png]]
 > Ligera y fácil de usar, la espada y el escudo también presumen de una velocidad de ataque excepcional. El escudo puede usarse para protegerse, aunque puede no resistir ciertos ataques.
 

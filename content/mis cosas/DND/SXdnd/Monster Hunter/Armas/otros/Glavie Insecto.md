@@ -1,4 +1,4 @@
-#dnd/monsterhunter/armas 
+
 ![[glavie inseco.png]]
 > La guja insecto permite controlar un Kinsecto, un pequeño insecto que recolecta extractos de monstruos para potenciar tus habilidades.
 

@@ -1,4 +1,4 @@
-#dnd/monsterhunter/armas 
+
 ![[estoque sepadado.png]]
 > Como estoque individual, apoya al grupo. Como estoque entablillado, debilita al enemigo.
 

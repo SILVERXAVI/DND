@@ -1,4 +1,4 @@
-#dnd/monsterhunter/armas 
+
 ![[martillo.jpg]]
 >El martillo es un arma contundente y poderosa con una sorprendente movilidad. También permite aturdir monstruos asestándoles un golpe de martillo en la cabeza.
 

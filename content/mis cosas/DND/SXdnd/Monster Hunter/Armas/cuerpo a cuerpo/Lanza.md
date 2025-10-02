@@ -1,4 +1,4 @@
-#dnd/monsterhunter/armas 
+
 ![[lanza.png]]
 > La lanza ofrece mayor protección que la mayoría de las armas. Además de su largo alcance, sus ataques de estocada se ejecutan con poca exposición a los ataques enemigos. Ideal para el combate defensivo.
 

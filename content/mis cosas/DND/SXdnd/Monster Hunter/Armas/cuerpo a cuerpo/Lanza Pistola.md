@@ -1,4 +1,4 @@
-#dnd/monsterhunter/armas 
+
 ![[lanza pistola.jpg]]
 > La lanza pistola ofrece mayor poder ofensivo que la lanza gracias a la incorporación de ataques de proyectil, y también tiene buenas capacidades de defensa. Puede llevar tiempo dominarla.
 

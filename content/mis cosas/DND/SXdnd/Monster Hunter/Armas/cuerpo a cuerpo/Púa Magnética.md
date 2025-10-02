@@ -1,4 +1,4 @@
-#dnd/monsterhunter/armas 
+
 ![[pua magnetica.png]]
 >Esta arma es pesada, de tipo cuerpo a cuerpo, y puede alternar entre dos modos de arma: Cortante e Impacto. Su principal característica es su magnetismo. Al ser un arma grande y pesada, sería difícil incluso de manejar o usar en combate, pero al manipular la fuerza magnética, se elimina la mayor parte del peso, lo que permite moverse tan rápido que, de otro modo, se consideraría antinatural.
 

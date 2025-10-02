@@ -1,4 +1,4 @@
-#dnd/monsterhunter/armas 
+
 
 >Infundidos con la esencia de los bichos de alambre y la fuerza de la seda de hierro, estos nudillos ofrecen una agilidad incomparable y maniobras elegantes, combinando a la perfección la delicadeza en el combate con su versátil utilidad y capacidades de apoyo.
 

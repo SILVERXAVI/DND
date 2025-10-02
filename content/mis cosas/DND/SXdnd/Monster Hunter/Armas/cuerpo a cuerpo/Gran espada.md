@@ -1,4 +1,4 @@
-#dnd/monsterhunter/armas 
+
 ![[gran espada.png]]
 > Un arma lenta y pesada con un potencial de daño masivo, la Espada Magna es la artillería pesada de las armas cuerpo a cuerpo. Aunque simple al principio, requiere precisión y espaciamiento para sacarle el máximo provecho. En ataque, la Espada Magna ataca con golpes lentos y potentes que impactan con precisión y exactitud.
 

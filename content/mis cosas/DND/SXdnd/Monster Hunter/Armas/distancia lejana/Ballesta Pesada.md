@@ -1,4 +1,4 @@
-#dnd/monsterhunter/armas 
+
 ![[ballesta pasada.png]]
 > La Ballesta Pesada es la artillería de las armas a distancia. Se especializa en proyectiles de alto daño a distancia. Si bien no tiene los mismos efectos especiales que la Ballesta Ligera, la Ballesta Pesada inflige daño con mayor fiabilidad.
 

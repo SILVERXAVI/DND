@@ -1,4 +1,4 @@
-#dnd/monsterhunter/armas 
+
 ![[ballesta ligera.png]]
 > La Ballesta Ligera es el arma a distancia más pequeña. Cuenta con la mayor cadencia de fuego de todas las armas a distancia. Además, se especializa en munición de apoyo, como veneno, parálisis y recuperación, lo que significa que puede infligir diversos efectos de estado al monstruo sin dejar de infligir daño.
 

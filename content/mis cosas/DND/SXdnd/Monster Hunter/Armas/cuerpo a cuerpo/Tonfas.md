@@ -1,4 +1,3 @@
-#dnd/monsterhunter/armas 
 ![[tonfa.png]]
 >La Tonfa se compone de dos varas ligeras y rápidas con un sistema de propulsión. Gracias a esto, los cazadores pueden evadir fácilmente el arma mientras la tienen desenvainada e incluso impulsarse desde el suelo.
 

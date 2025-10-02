@@ -1,4 +1,4 @@
-#dnd/monsterhunter/armas 
+
 
 > Un arma que combina a la perfección maniobras místicas con la danza de su portador. Al girar, manipula el terreno, controla los elementos y, al impactar, libera impresionantes ondas de choque que detonan los elementos cercanos, dejando un rastro de destrucción hipnótica.
 

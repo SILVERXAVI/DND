@@ -1,4 +1,4 @@
-#dnd/monsterhunter/armas 
+
 ![[repetidoras duales.png]]
 > Una opción de alcance completo para los más ágiles. Combina el corto y el largo alcance mientras infliges daño, mejoras y trampas. El daño disminuye considerablemente al alejarte de los colosos. Cuanto más cerca estés, más daño infliges.
 

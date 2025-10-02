@@ -1,4 +1,4 @@
-#dnd/monsterhunter/armas 
+
 
 > Los Puños Explosivos son robustos guanteletes forrados con frascos de ampolla que se llenan de energía con cada golpe, almacenando poder para ataques especiales devastadores. Quienes los empuñan pueden gastar estas cargas en maniobras explosivas, como saltar alturas increíbles, desatar ondas de choque conmocionantes o asestar golpes extremadamente contundentes.
 

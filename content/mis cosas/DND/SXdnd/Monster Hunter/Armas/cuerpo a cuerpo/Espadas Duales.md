@@ -1,4 +1,4 @@
-#dnd/monsterhunter/armas 
+
 ![[espadas duales.png]]
 > Las dobles espadas desatan un torbellino de ataques combinados contra tu enemigo. Aunque son ligeras y relativamente fáciles de usar, no pueden usarse para defenderse.
 

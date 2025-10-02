@@ -1,4 +1,4 @@
-#dnd/monsterhunter/armas 
+
 ![[cornamusa.png]]
 > El cuerno de caza es un arma contundente que puede otorgar efectos de estado positivos a ti y a tus aliados. Úsalo para interpretar melodías que aumentan el poder de ataque y otorgan otros efectos beneficiosos.
 

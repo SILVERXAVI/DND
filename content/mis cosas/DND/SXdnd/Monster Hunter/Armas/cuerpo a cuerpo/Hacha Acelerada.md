@@ -1,4 +1,4 @@
-#dnd/monsterhunter/armas 
+
 ![[hacha acelerada.png]]
 > El Hacha Acelerada, también conocida como "Hacha Axel", es completamente diferente del Hacha Cambiante y la Hoja Cargada descubiertas en otras ruinas antiguas. Su principal característica es el mecanismo de artillería integrado. Es un hacha robusta de un solo filo con alcance corto y una boca mecánica fijada en el lado opuesto a la hoja.
 
