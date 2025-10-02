@@ -4,7 +4,7 @@ nombre: ???
 
 ## Raza
 ### Felyne (WudWud)
-**_Los felynes se reconocen por su pelaje blanco y tienen la capacidad de hablar en lenguaje humano. Se pueden encontrar tanto en aldeas humanas como en la naturaleza. entre ellos, los Wudwuds son una raza lyniana semejante a mustélidos antropomórficos (como nutrias o tejones). Orgullosos, ingeniosos y profundamente conectados con la naturaleza, construyen aldeas en lo profundo de los bosques y usan ropas, herramientas y armas hechas de setas, plantas carnívoras y restos de monstruos. Valoran la comunidad y las fiestas nocturnas tanto como la astucia en la caza._**
+**_Los felynes se reconocen por su pelaje y tienen la capacidad de hablar en lenguaje humano. Se pueden encontrar tanto en aldeas humanas como en la naturaleza. entre ellos, los Wudwuds son una raza lyniana semejante a mustélidos antropomórficos (como nutrias o tejones). Orgullosos, ingeniosos y profundamente conectados con la naturaleza, construyen aldeas en lo profundo de los bosques y usan ropas, herramientas y armas hechas de setas, plantas carnívoras y restos de monstruos. Valoran la comunidad y las fiestas nocturnas tanto como la astucia en la caza._**
 
 - **Aumento de Puntuación de Característica.** Tu puntuación de Carisma e Inteligencia aumenta en 1.
 
@@ -18,7 +18,7 @@ nombre: ???
 
 	Inteligencia, Sabiduría o Carisma es tu habilidad para lanzar estos hechizos cuando los lanzas con este rasgo (selecciona esta opción al seleccionar esta raza).
 
-- **Cocinero Miaustro.** Tienes competencia con los utensilios de cocina.
+- **Cocinero Miauestro.** Tienes competencia con los utensilios de cocina.
 
 - **Recolección Ingeniosa y de cultura.** Obtienes competencia en la habilidad **Naturaleza**, **Supervivencia** y **persuasión**
 

@@ -1,0 +1,79 @@
+![[Pasted image 20251002203155.png]]
+**_Soy el estimado instructor de la Escuela de Entrenamiento Pokke. Actualmente busco a tantos estudiantes como sea posible para unirse a mi escuela de entrenamiento de cazadores. Hace diez años, esta escuela nació con un sueño...**
+**...un sueño de cazadores que arden con los deseos de la juventud, un sueño de quienes desean convertirse en verdaderos cazadores, un sueño de cazadores que buscan perfeccionar sus habilidades, un sueño de cazadores que buscan depositar sus esperanzas en mí en su carrera a tres patas hacia el primer puesto. ¡Las puertas de mi Escuela de Entrenamiento siempre están abiertas, especialmente para mis fans!**
+**-Maestro Azrar de la Escuela de Entrenamiento de Cazadores_**
+## El Gremio de Cazadores
+El Gremio de Cazadores es el órgano rector central del universo de Monster Hunter. Unifica y regula todas las actividades de caza, de las que muchas personas se ganan la vida. El gremio recopila solicitudes de caza y recolección de todas partes y las publica en sus salas de reunión y puestos de avanzada por todo el territorio para que las lleven a cabo cazadores profesionales. Estas misiones pueden tener diversos propósitos, como la defensa de ciudadanos o pueblos, o la investigación de la anatomía y biología de los monstruos. El Gremio de Cazadores también es conocido por prevenir la caza furtiva. Cualquier caza no autorizada es ilegal para el Gremio de Cazadores y puede conllevar numerosos castigos, pero el más común es la muerte a manos de un Caballero del Gremio.
+
+La sede del Gremio de Cazadores se encuentra en la ciudad de Dundorma, y ​​todos los anuncios y acciones importantes se realizan desde aquí. Además, el Gremio de Cazadores controla un extenso territorio que abarca numerosos distritos ubicados en diversas regiones. Cada distrito cuenta con un maestro de gremio que lo gestiona, aunque no todos son los mejores administradores. Se pueden encontrar salas de reunión certificadas por el Gremio de Cazadores en los principales centros urbanos, como los mencionados anteriormente. Los puestos de avanzada más pequeños del Gremio de Cazadores, que suelen establecerse en pueblos y aldeas menos poblados y remotos, como Pokke, Moga o Yukumo, están gestionados por uno o más representantes del Gremio de Cazadores. Estos puestos se consideran parte de los distritos más grandes en los que se ubican.
+
+Aunque el Gremio de Cazadores está conectado, cada distrito prefiere trabajar de forma independiente. Esto significa que no todos los distritos están al tanto de los nuevos descubrimientos de los demás, como ubicaciones y monstruos.
+
+### Las Cuatro Espadas del Gremio
+El escudo del Gremio de Cazadores tiene cuatro símbolos. Cada símbolo tiene un significado que el Gremio sigue. El norte representa el respeto por la naturaleza, el oeste representa la vida en comunidad, el sur representa la artesanía de la naturaleza y el este representa la prosperidad de la naturaleza.
+
+### Destino de los Monstruos Más Capturados
+Normalmente, cuando un monstruo es capturado, la corporación que lo solicitó lo descuartiza fácilmente mientras duerme. Esto se debe a que dicha corporación desea investigar las partes del cuerpo y los órganos de dicho monstruo, lo que les permite comprender mejor a una especie específica. Entre las corporaciones que solicitan la captura de monstruos se encuentran el Equipo de Observación de Dragones Ancianos, la Wycademy y los Escritores Reales de Paleontología. Solo en raras ocasiones, el monstruo es domesticado y se convierte en la mascota de alguien.
+
+### <u>Objetivo del Gremio de Cazadores</u>
+El Gremio de Cazadores no existe para aniquilar a todos los monstruos, sino para armonizar la sociedad con la naturaleza. Su objetivo principal es prevenir mayores daños a las poblaciones de monstruos, para así evitar la extinción de otras especies, como algunas especies antiguas. Sin embargo, si un monstruo amenaza vidas, pueblos, ciudades, etc., los cazadores pueden cazarlo para evitar su destrucción. Si el monstruo es raro, el gremio a veces busca repelerlo en lugar de matarlo.
+
+El Gremio de Cazadores también busca minimizar la caza furtiva. Cualquier matanza o captura no autorizada por el Gremio es ilegal para el gremio. La caza furtiva puede conllevar diversos castigos, pero el más común es la muerte a manos de un Caballero del Gremio.
+
+Además, el Gremio de Cazadores se encarga de descubrir y determinar zonas de caza específicas en todo el territorio. Solo cuando una franja de área está oficialmente bajo la jurisdicción del gremio se puede acceder a ella para realizar misiones. Aun así, el gremio a veces solo permite que los cazadores de una ciudad o región específica acepten ciertas misiones.
+
+Finalmente, el Gremio de Cazadores busca liberar al mundo de los monstruos que sucumben a la corrupción. Estas criaturas reciben la máxima prioridad y son de las pocas criaturas que se pueden matar fuera de un coto de caza.
+
+### <u>Jerarquía del Gremio</u>
+#### Maestros del Gremio
+Los maestros del gremio son los líderes de su distrito. Más allá del trabajo burocrático, principalmente ayudan a los cazadores a registrarse en el Gremio de Cazadores para que puedan cazar legalmente bajo esta corporación y poner a prueba su fuerza. Son conocidos por probar la fuerza de los cazadores con Misiones Urgentes para ver si son dignos de ascender de rango. Los maestros del gremio también son conocidos por brindarles diversos consejos para ayudarlos a superar los desafíos.
+
+Bajo las leyes establecidas por Su Inmensidad, el cargo/título de maestro del gremio está limitado solo a wyverianos y elfos. Actualmente hay cuatro maestros de gremio conocidos ubicados en Dundorma, Loc Lac, Minegarde y Val Harbor, cada uno de ellos un wyveriano, responsable de sus propios distritos.
+
+#### Gerentes de Gremio
+Los gerentes de gremio son muy similares a los maestros de gremio: ayudan a los cazadores a registrarse en el Gremio de Cazadores y les brindan diversos consejos para superar los desafíos. Además de sus responsabilidades en el Gremio de Cazadores, los gerentes de gremio actúan como alcaldes de la ciudad o aldea en la que viven, respondiendo únicamente al maestro de gremio del distrito donde residen. El trabajo de gerente de gremio también se limita a elfos y wyverianos.
+
+#### Caballeros de Gremio
+La función principal de un caballero de gremio es perseguir a cazadores furtivos, otros cazadores ilegales y asesinos buscados; llevarlos ante la justicia, generalmente matándolos. Esto también aplica a los cazadores que infringen las reglas del Gremio de Cazadores. Si ocurre una emergencia durante su puesto, los caballeros de gremio intentan mantener el orden actuando como líderes. También se sabe que los caballeros de gremio actúan como negociadores de acuerdos y recopilan información sobre monstruos desconocidos para el público.
+
+En cada distrito y puesto avanzado del Gremio de Cazadores, puede haber al menos doce caballeros del gremio en un mismo lugar, aunque a veces puede haber menos. Quiénes son los caballeros del gremio es un secreto para los miembros comunes del gremio. Prefiriendo mantener su trabajo en secreto, muchos de ellos realizan otras tareas dentro del gremio, como recepcionistas, cazadores, maestros o comerciantes.
+
+#### Recepcionistas del gremio
+Dado que la caza de monstruos es un trabajo popular en todo el mundo y que la geografía y la historia del mundo son prácticamente desconocidas, un grupo selecto de personas se encarga de recopilar información. Esta información no solo se refiere a una zona, sino también a los monstruos que la habitan. La función del recepcionista del gremio es asignar misiones a los cazadores e informarles sobre cualquier monstruo dentro de su rango. El trabajo permite principalmente a mujeres ser recepcionistas del gremio, aunque algunos hombres también pueden serlo.
+
+Los uniformes de los recepcionistas del gremio varían según el distrito. Algunos uniformes son perfectos para entornos muy diversos, mientras que otros simplemente facilitan el desplazamiento durante el trabajo. Muchos manejadores optaron por la recepcionista tras retirarse del campo.
+
+### <u>Personajes de interés</u>
+#### Felcote
+Caballero del Gremio, Maestro de Batalla Felyne. Un caballero secreto del gremio que se encuentra habitualmente en la aldea Pokke. Felcote es una persona muy reservada, aparentemente tranquila y educada. Su trabajo consiste en buscar cazadores con gran talento en el mundo y enviarlos en misiones secretas para que pongan a prueba sus habilidades. Felcote hace esto para reclutar nuevos cazadores para los rangos más altos del Gremio de Cazadores.
+
+#### Becky
+Caballero del Gremio, Paladín Humana. Es recepcionista del gremio y, en secreto, caballero del gremio que se encuentra en Minegarde y, ocasionalmente, en la aldea Kokoto. No le gusta mucho trabajar, aunque puede ser bastante brusca, dando a quienes no la conocen la impresión de ser grosera. A veces investiga la sala de cazadores y mata a quienes rompen las reglas del Gremio de Cazadores de un solo golpe con su martillo. También sale de cacería sola ocasionalmente.
+
+#### Patty
+Recepcionista del gremio, Clérigo humano. Patty es conocida por su afición al trabajo. También es conocida por su bondad, aunque alguien como Becky puede asustarla o hacerla llorar con facilidad. Aunque solo es recepcionista, Patty ahora cuida de la Aldea Jumbo gracias a que su "padre", el Jefe Jumbo, la dejó viajar por el mundo. Sueña con viajar alrededor del mundo algún día, como él.
+
+#### Jefe Kokoto
+Gerente del gremio, Samurái Wyveriano. En su época, era aventurero y no le temía a los desafíos. Hoy en día, el Jefe Kokoto no muestra muchas emociones. En su juventud, fue un cazador legendario que contribuyó a dar forma a la caza actual. Desde el comienzo de su carrera, le encantaba cazar junto con sus tres compañeros y su esposa, incluso permitiéndole asistir a algunas cacerías. Esto, lamentablemente, condujo a un incidente conocido como los Cinco. Hoy, el Jefe Kokoto está jubilado y cuida de la Aldea Kokoto. El Jefe Kokoto ahora también entrena a la próxima generación de cazadores.
+
+## Personajes del Gremio de Cazadores
+**Alineamiento:** Generalmente legal o bueno, a menudo neutral
+**Razas sugeridas:** Cualquier raza, pero rara vez se unen razas monstruosas
+**Clases sugeridas:** Todas
+
+Considera el Gremio de Cazadores para tu personaje si una o más de las siguientes frases te resultan ciertas:
+
+- Buscas fama y fortuna.
+- Tienes sed de aventura.
+- Disfrutas de la naturaleza, la exploración y el descubrimiento de criaturas raras y desconocidas.
+
+### <u>Unirse al Gremio de Cazadores</u>
+Para realizar misiones patrocinadas por el gremio, primero debes registrarte como Cazador de Monstruos oficial en el Gremio de Cazadores. Después, serás enviado a una escuela de entrenamiento donde te someterás a un riguroso entrenamiento físico y mental. Posteriormente, recibirás una medida específica de habilidad personal o "Rango de Cazador" (a menudo abreviado como HR), según tu desempeño en el entrenamiento.
+
+#### Rango de Cazador
+El rango de cazador es la forma en que el Gremio de Cazadores evalúa la capacidad de un cazador para realizar misiones de caza de diferentes niveles. De acuerdo con esto, el gremio asignará clasificaciones, a menudo basadas en el número de estrellas, a las listas de misiones para garantizar que las misiones peligrosas o difíciles solo las emprendan cazadores expertos que hayan demostrado su aptitud. Esto se hace tanto para garantizar la seguridad de sus cazadores como para asegurar que la misión se complete correctamente.
+
+Si los cazadores son extremadamente hábiles, a veces se les enviará a realizar misiones secretas o investigaciones para monstruos extremadamente peligrosos. Realizarán estas misiones en secreto para no causar pánico entre el público y comprender mejor la situación, ya que en algunos casos se trata de una falsa alarma. Esto permitirá al Gremio de Cazadores tomar las medidas necesarias para proteger la verdad y al público sin generar pánico.
+
+#### Tarjeta del Gremio
+Cada cazador recibe una Tarjeta del Gremio que puede personalizar a su gusto. Sirve como identificación para que los cazadores incluyan su nombre, las recompensas obtenidas y los monstruos que han derrotado. Estas tarjetas pueden estar hechas de diversos materiales, como madera, minerales y materiales de monstruos. Se sabe que las Tarjetas del Gremio de algunos cazadores de élite están hechas de partes de monstruos más peligrosos, como escamas de Nargacuga y el caparazón de Zinogre. Algunos cazadores legendarios tienen tarjetas hechas con materiales de Dragón Anciano. Cada cazador tiene su propio título personalizado, otorgado por su maestro del gremio.
