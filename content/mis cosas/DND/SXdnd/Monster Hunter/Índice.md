@@ -1,0 +1,13 @@
+en este índice están todas las zonas para el dnd
+[[Armas]]
+[[Armaduras]]
+[[Monstruos]]
+[[_Razas]]
+[[_Clases]]
+[[_Hazañas]]
+[[Equipamiento]]
+[[_Hechizos]]
+[[Como cocinar]]
+[[_personajes]]
+[[Tu rol en la caceria]]
+[[Trasfondo]]

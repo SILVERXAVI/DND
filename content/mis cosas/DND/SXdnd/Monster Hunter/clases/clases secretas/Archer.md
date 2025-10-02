@@ -1,0 +1,1 @@
+Se desbloquea al tener multibuild de [[Guardabosques]] y [[Picaro]]
