@@ -76,6 +76,7 @@ modificadores: +3 daño y tirada
 - **Piel de Tsukami:** Mientras estés en sintonía con esta arma, puedes realizar un ataque con ella como acción adicional en cada uno de tus turnos.
 - **Piedra de sangre primordial (mod):** Crítico en cadena. Con cada golpe que haga, aumenta tu alcance crítico en 1 hasta que consigas un golpe crítico.
 - **Orbe de origen (mod):** Cuando realizas un ataque con esta arma y sacas un 20 o superior en la tirada de ataque, desatas una ráfaga de rayos que inflige 8d6 de daño de rayo adicional al objetivo y 4d6 de daño de rayo a todas las criaturas en un radio de 3 metros (excluyéndote a ti).
+- **Ojo Fatalis:** Ojo de la Mente+. Tus ataques con esta arma ignoran las resistencias e inmunidades al daño de cualquier criatura.
 
 **armadura de cuero tachonado legendaria.**
 modificadores: (5) +3AC
@@ -83,7 +84,14 @@ modificadores: (5) +3AC
 - **Alatreon Direwing.** Mejora de Salud +2. Con esta armadura, tu máximo de puntos de vida aumenta en 3 por cada nivel de personaje.
 - **Shara Ishvalda Tenderplate:** Mejora de Defensa (Rayo). Con esta armadura, obtienes +1 a la CA y eres inmune al daño de rayo.
 - **Cola Nergigante.** Con esta armadura, cualquier golpe crítico se convierte en un golpe normal.
-- 
+- **Ojo de Fatalis:** Final Oscuro. Cuando tus puntos de golpe quedan reducidos a 0, pero no mueres directamente, puedes usar tu reacción para ser poseído por las energías malignas de Fatalis y ocurre lo siguiente:
+	- Te curas hasta alcanzar tus puntos de golpe máximos.
+	- Tus ojos brillan rojos y un aura de volutas negras rodea tu cuerpo.
+	- Al comienzo de cada turno, sufres 10 (1d20) de daño necrótico. Este daño ignora resistencias e inmunidades, y no se puede reducir ni evitar por ningún medio.
+	- Mientras estés poseído, no puedes ser agarrado, aturdido ni inmovilizado.
+	- Obtienes un bonificador de +2 a la CA y tienes ventaja en todas las tiradas de salvación.
+	- No puedes curarte por medios normales ni mágicos.
+	- Cuando vuelves a quedar reducido a 0 puntos de golpe, fallas automáticamente 2 tiradas de salvación de muerte y la posesión termina.
 ### Estilo de lucha
 Adoptas un estilo particular de lucha como especialidad. Elija una de las siguientes opciones. No puedes tomar la opción Estilo de lucha más de una vez, incluso si luego puedes elegir nuevamente.
 - **duelo**
