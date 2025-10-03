@@ -1,16 +1,20 @@
 
 
 ### Estadísticas
-Nivel: 20.
-armadura:  21.
-vida: 221.
-velocidad: 35.
+- **Nivel**: 20.
+- **armadura**:  21.
+- **vida**: 221.
+- **velocidad**: 35.
 
 | FUE  | DES  | CON  | INT  | SAB  | CAR  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | 25   | 24   | 22   | 8    | 8    | 8    |
 | (+7) | (+7) | (+6) | (-1) | (-1) | (-1) |
 ### Personalidad 
+- **Rasgo:** Nunca deja que la emocion nuble su juicio
+- **Ideal:** el orden lo es todo
+- **Vinculo:** su lealtad absoluta es hacia su mentora/origen ([[La shogun, Apostol de la Eternidad (CR 30)]] y [[Eternidad (CR 50)]])
+- **Defecto:** Odia ciegamente a quienes rompen la ley
 
 ## Raza
 ### Warforged
@@ -63,10 +67,10 @@ velocidad: 35.
 
 Como luchador, obtienes las siguientes características de clase.
 ##### Competencias
-**Armas:** [[Espada larga]]
-**Armadura:** [[acolchada]], [[cuero]], [[cuero tachonado]]
-**Herramientas:** herramientas de herrero  
-**Habilidades:** acrobacia, percepción y perspicacia
+- **Armas:** [[Espada larga]]
+- **Armadura:** [[acolchada]], [[cuero]], [[cuero tachonado]]
+- **Herramientas:** herramientas de herrero  
+- **Habilidades:** acrobacia, percepción y perspicacia
 ##### Equipo
 **Espada larga legendaria (filo del pensamiento vacío).**
 daño min: 24 max: 57
