@@ -2,7 +2,7 @@
 
 ### Estadísticas
 - **Nivel**: 20.
-- **armadura**:  21.
+- **armadura**:  20.
 - **vida**: 221.
 - **velocidad**: 35.
 
@@ -73,27 +73,28 @@ Como luchador, obtienes las siguientes características de clase.
 - **Habilidades:** acrobacia, percepción y perspicacia
 ##### Equipo
 **Espada larga legendaria (filo del pensamiento vacío).**
-daño min: 26 max: 63
-modificadores: +3 daño y tirada
-- **Brazo de Nakarkos (mod):** furor. Cuando tus puntos de vida estén por debajo de la mitad de tu máximo, tus ataques cuerpo a cuerpo con esta arma infligen el máximo daño.
+- daño Min: 26; daño Max: 63
+- **modificadores:** +3 daño y tirada
+- **Brazo de Nakarkos:** furor. Cuando tus puntos de vida estén por debajo de una decima parte de tu máximo, tus ataques cuerpo a cuerpo con esta arma infligen el máximo daño.
+- **Piel de Tsukami:** Mientras estés en sintonía con esta arma, puedes realizar un ataque con ella como acción adicional en cada uno de tus turnos.
 - **Corazón de la Shogun** _(Artefacto)_
 	- Foco: puedes lanzar _chain lightning_ 1 al dia sin coste.  
 	- Arma: añade a tu arma un +3 en ataque y en tiradas, con críticos que borran un objetivo menor (invocaciones, ilusiones, constructos).
 	- además Tu arma y hechizos infligen 3d6 de daño de trueno adicional.
+	- Con cada golpe que haga, reduce tu dado crítico en 1 hasta que consigas un golpe crítico.
 - **Piel de Tsukami:** Mientras estés en sintonía con esta arma, puedes realizar un ataque con ella como acción adicional en cada uno de tus turnos.
-- **Piedra de sangre primordial (mod):** Crítico en cadena. Con cada golpe que haga, aumenta tu alcance crítico en 1 hasta que consigas un golpe crítico.
-- **Ojo Fatalis:** Ojo de la Mente+. Tus ataques con esta arma ignoran las resistencias e inmunidades al daño de cualquier criatura.
+- **Ojo de Raijin:** Ojo de la Mente+. Tus ataques con esta arma ignoran las resistencias e inmunidades al daño de cualquier criatura.
 
-**armadura de cuero tachonado legendaria.**
+**Túnica legendaria (Nhật Bình).**
 modificadores: (5) +3AC
 - **Musgo de dragón:** Mientras estés en sintonía con esta armadura, tu puntuación de Fuerza cambia a 25. Si tu Fuerza ya es igual o mayor a 25, el material no tiene efecto sobre ti.
 - **Alatreon Direwing.** Mejora de Salud +2. Con esta armadura, tu máximo de puntos de vida aumenta en 3 por cada nivel de personaje.
 - **Shara Ishvalda Tenderplate:** Mejora de Defensa (Rayo). Con esta armadura, obtienes +1 a la CA y eres inmune al daño de rayo.
 - **Cola Nergigante.** Con esta armadura, cualquier golpe crítico se convierte en un golpe normal.
-- **Ojo de Fatalis:** Final Oscuro. Cuando tus puntos de golpe quedan reducidos a 0, pero no mueres directamente, puedes usar tu reacción para ser poseído por las energías malignas de Fatalis y ocurre lo siguiente:
+- **Ojo de Raijin:** Final eterno. Cuando tus puntos de golpe quedan reducidos a 0, pero no mueres directamente, puedes usar tu reacción para ser poseído por las energías electro de la shogun y ocurre lo siguiente:
 	- Te curas hasta alcanzar tus puntos de golpe máximos.
-	- Tus ojos brillan rojos y un aura de volutas negras rodea tu cuerpo.
-	- Al comienzo de cada turno, sufres 10 (1d20) de daño necrótico. Este daño ignora resistencias e inmunidades, y no se puede reducir ni evitar por ningún medio.
+	- Tus ojos brillan morados y un aura de electricidad morada rodea tu cuerpo.
+	- Al comienzo de cada turno, sufres 10 (1d20) de daño eléctrico. Este daño ignora resistencias e inmunidades, y no se puede reducir ni evitar por ningún medio.
 	- Mientras estés poseído, no puedes ser agarrado, aturdido ni inmovilizado.
 	- Obtienes un bonificador de +2 a la CA y tienes ventaja en todas las tiradas de salvación.
 	- No puedes curarte por medios normales ni mágicos.

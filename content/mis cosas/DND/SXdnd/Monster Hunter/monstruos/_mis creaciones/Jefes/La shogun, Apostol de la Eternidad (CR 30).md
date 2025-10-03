@@ -131,18 +131,18 @@ Raiden invoca 4 esferas. Si no son destruidas en 2 turnos, explotan: 35 (10d6) d
 
 _(cuando es derrotada en su dominio o forma de deidad menor)_
 
-| **Tirada d20** | **Material**                           | **Tipo de Uso**    | **Efecto / Habilidad Especial** |
-| -------------- | -------------------------------------- | ------------------ | ------------------------------- |
-| 1–2            | **Fragmento de Eternidad**             | Otro               |                                 |
-| 3–4            | **Eco del Decreto Sakoku**             | Armadura           |                                 |
-| 5–8            | **Carapacho del Shogun**               | Armadura           |                                 |
-| 9–11           | **Esencia Magatsu**                    | Foco con 6 cargas. |                                 |
-| 12–13          | **Núcleo Electro**                     | Arma               |                                 |
-| 14             | **Tela de la Shogunía**                | Armadura           |                                 |
-| 15             | **Garra de Baleful Shadowlord**        | Arma               |                                 |
-| 16–18          | **Cola de Tormenta Funesta**           | Arma/Armadura      | <br>                            |
-| 19             | **Cuerno de Eternidad**                | Arma/Armadura      | <br>                            |
-| 20             | **Corazón de la Shogun** _(Artefacto)_ | Armadura/Foco/Arma | • Armadura:   <br>              |
+| **Tirada d20** | **Material**                           | **Tipo de Uso**          |
+| -------------- | -------------------------------------- | ------------------------ |
+| 1–2            | **Fragmento de Eternidad**             | Otro                     |
+| 3–4            | **Eco del Decreto Sakoku**             | Armadura                 |
+| 5–8            | **Carapacho del Shogun**               | Armadura                 |
+| 9–11           | **Esencia Magatsu**                    | Arma/ Foco con 6 cargas. |
+| 12–13          | **Núcleo Electro**                     | Arma                     |
+| 14             | **Tela de la Shogunía**                | Armadura                 |
+| 15             | **Garra de Baleful Shadowlord**        | Arma                     |
+| 16–18          | **Ojo de Raijin:**                     | Arma/Armadura            |
+| 19             | **Cuerno de Eternidad**                | Arma/Armadura            |
+| 20             | **Corazón de la Shogun** _(Artefacto)_ | Armadura/Foco/Arma       |
 ### EFECTOS DEL MATERIAL DE LA ARMADURA
 **Eco del Decreto Sakoku**
 Mientras la uses, ganas ventaja en tiradas de salvación contra _parálisis_ y _encantamiento_.
@@ -150,8 +150,15 @@ Mientras la uses, ganas ventaja en tiradas de salvación contra _parálisis_ y _
 Una vez por descanso corto, puedes reducir a 0 el daño de un ataque de relámpago o trueno recibido. Si lo haces, liberas una onda que inflige 2d10 de relámpago a todos los enemigos en 10 ft.
 **Tela de la Shogunía**
 Obtienes **evasión** (igual que pícaro).
-**Cola de Tormenta Funesta**
-ventaja en tiradas de salvación contra conjuros de nivel 5 o inferior.
+**Ojo de Raijin:**
+Final eterno. Cuando tus puntos de golpe quedan reducidos a 0, pero no mueres directamente, puedes usar tu reacción para ser poseído por las energías electro de la shogun y ocurre lo siguiente:
+	- Te curas hasta alcanzar tus puntos de golpe máximos.
+	- Tus ojos brillan morados y un aura de electricidad morada rodea tu cuerpo.
+	- Al comienzo de cada turno, sufres 10 (1d20) de daño eléctrico. Este daño ignora resistencias e inmunidades, y no se puede reducir ni evitar por ningún medio.
+	- Mientras estés poseído, no puedes ser agarrado, aturdido ni inmovilizado.
+	- Obtienes un bonificador de +2 a la CA y tienes ventaja en todas las tiradas de salvación.
+	- No puedes curarte por medios normales ni mágicos.
+	- Cuando vuelves a quedar reducido a 0 puntos de golpe, fallas automáticamente 2 tiradas de salvación de muerte y la posesión termina.
 **Cuerno de Eternidad**
 inmunidad al daño de relámpago.
 **Corazón de la Shogun** _(Artefacto)_
@@ -163,14 +170,15 @@ Gasta 1 carga para lanzar _lightning bolt_ o _counterspell_ (nivel 3). Recupera 
 Cuando logras un crítico, infliges +1d8 de daño de relámpago adicional.
 **Garra de Baleful Shadowlord**
 Una vez por descanso corto, al bajar a menos de ¼ de tus PV máx., entras en un estado de furia arcana: durante 1 minuto, todos tus ataques cuerpo a cuerpo infligen +1d8 relámpago y obtienes una acción adicional (como _haste_).
-**Cola de Tormenta Funesta**
-inflige +1d8 de daño radiante adicional.  
+**Ojo de Raijin:**
+Ojo de la Mente+. Tus ataques con esta arma ignoran las resistencias e inmunidades al daño de cualquier criatura.
 **Cuerno de Eternidad**
 +2 a ataques de conjuro y CD de conjuros (+3 si infligen trueno o relámpago).  
 **Corazón de la Shogun** _(Artefacto)_
 - Foco: puedes lanzar _chain lightning_ 1 al dia sin coste.  
 - Arma: añade a tu arma un +3 en ataque y en tiradas, con críticos que borran un objetivo menor (invocaciones, ilusiones, constructos).
 - además Tu arma y hechizos infligen 3d6 de daño de trueno adicional.
+- Con cada golpe que haga, reduce tu dado crítico en 1 hasta que consigas un golpe crítico.
 
 ### OTROS EFECTOS DE MATERIALES
 **Fragmento de Eternidad**
