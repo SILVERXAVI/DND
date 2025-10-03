@@ -1,8 +1,9 @@
 ![[Pasted image 20251002203155.png]]
 
-**_Soy el estimado instructor de la Escuela de Entrenamiento Pokke. Actualmente busco a tantos estudiantes como sea posible para unirse a mi escuela de entrenamiento de cazadores. Hace diez años, esta escuela nació con un sueño...**
+
+**Soy el estimado instructor de la Escuela de Entrenamiento Pokke. Actualmente busco a tantos estudiantes como sea posible para unirse a mi escuela de entrenamiento de cazadores. Hace diez años, esta escuela nació con un sueño...**
 **...un sueño de cazadores que arden con los deseos de la juventud, un sueño de quienes desean convertirse en verdaderos cazadores, un sueño de cazadores que buscan perfeccionar sus habilidades, un sueño de cazadores que buscan depositar sus esperanzas en mí en su carrera a tres patas hacia el primer puesto. ¡Las puertas de mi Escuela de Entrenamiento siempre están abiertas, especialmente para mis fans!**
-**-Maestro Azrar de la Escuela de Entrenamiento de Cazadores_**
+**-Maestro Azrar de la Escuela de Entrenamiento de Cazadores**
 ## El Gremio de Cazadores
 El Gremio de Cazadores es el órgano rector central del universo de Monster Hunter. Unifica y regula todas las actividades de caza, de las que muchas personas se ganan la vida. El gremio recopila solicitudes de caza y recolección de todas partes y las publica en sus salas de reunión y puestos de avanzada por todo el territorio para que las lleven a cabo cazadores profesionales. Estas misiones pueden tener diversos propósitos, como la defensa de ciudadanos o pueblos, o la investigación de la anatomía y biología de los monstruos. El Gremio de Cazadores también es conocido por prevenir la caza furtiva. Cualquier caza no autorizada es ilegal para el Gremio de Cazadores y puede conllevar numerosos castigos, pero el más común es la muerte a manos de un Caballero del Gremio.
 

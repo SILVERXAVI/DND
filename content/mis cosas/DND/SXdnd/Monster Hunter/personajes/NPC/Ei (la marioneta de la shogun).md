@@ -1,10 +1,10 @@
 
 
 ### Estadísticas
-Nivel: 20
-armadura:  21
-vida: 221
-velocidad: 35
+Nivel: 20.
+armadura:  21.
+vida: 221.
+velocidad: 35.
 
 | FUE  | DES  | CON  | INT  | SAB  | CAR  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
