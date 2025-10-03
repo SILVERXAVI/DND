@@ -1,24 +1,44 @@
-
-
+![[Pasted image 20251003224233.png]]
 ### Estadísticas
-- **Nivel**: 20.
-- **armadura**:  20.
-- **vida**: 221.
-- **velocidad**: 35.
+- **Nivel**: 20
+- **armadura**:  20 (22)
+- **vida**: 272
+- **velocidad**: 35
+- **forma base:**
+	- daño mínimo: 13 corte + 5 rayo =18
+	- daño máximo: 29 corte + 32 rayo = 61
+- **forma ascendida:**
+	- daño mínimo: 15 corte + 4 rayo =19
+	- daño máximo: 51 corte + 38 rayo = 89
 
-| FUE  | DES  | CON  | INT  | SAB  | CAR  |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-| 25   | 24   | 22   | 8    | 8    | 8    |
-| (+7) | (+7) | (+6) | (-1) | (-1) | (-1) |
+| FUE | DES  | CON  | INT | SAB | CAR  |
+| --- | ---- | ---- | --- | --- | ---- |
+| 10  | 20   | 24   | 10  | 10  | 20   |
+| (0) | (+5) | (+7) | (0) | (0) | (+5) |
+lv4 duro
+lv6 +2 des
+lv8 +2 des
+lv12 +2 des
+lv14 +2 car
+lv16 +2 fue
+lv19 + random
 ### Personalidad 
 - **Rasgo:** Nunca deja que la emocion nuble su juicio
 - **Ideal:** el orden lo es todo
 - **Vinculo:** su lealtad absoluta es hacia su mentora/origen ([[La shogun, Apostol de la Eternidad (CR 30)]] y [[Eternidad (CR 50)]])
 - **Defecto:** Odia ciegamente a quienes rompen la ley
 
+_"Las emociones son cadenas que atan el juicio. Mi voluntad jamás se nublará por ellas."_
+
+_"El orden es la raíz de toda eternidad. Así como un árbol crece recto cuando se poda con precisión, así también una nación prospera cuando se rige por leyes inmutables."_
+
+_"Todo lo que soy, se lo debo a ella... a mi creadora, a la chispa que encendió mi propósito. Aunque su voz ya no resuene en este mundo, yo mantendré vivo su legado."_
+
+_"Quienes rompen la ley… no merecen clemencia. No hay razón, no hay matiz, no hay perdón. El rayo cae sobre todos por igual, y yo soy ese rayo."_
+
 ## Raza
 ### Warforged
-**Los Warforged fueron creados para luchar en la Última Guerra. Los primeros Warforged eran autómatas sin mente, pero la Casa Cannith dedicó ingentes recursos a mejorar a estos soldados de acero. Un avance inesperado produjo soldados plenamente conscientes, combinando materiales orgánicos e inorgánicos. Los forjados están hechos de madera y metal, pero pueden sentir dolor y emociones. Creados como armas, Eres una imponente máquina de guerra diseñada con una función especializada. Podrías ser un asesino, un sanador o un artista, por nombrar solo algunas posibilidades, ahora deben encontrar un propósito más allá de la guerra. Un Warforged puede ser un aliado fiel, una máquina de matar despiadada o un visionario en busca de propósito y significado.**
+**La mayoria de los Warforged fueron creados para luchar en la Última Guerra. Los primeros Warforged eran autómatas sin mente, pero la Casa Cannith dedicó ingentes recursos a mejorar a estos soldados de acero. Un avance inesperado produjo soldados plenamente conscientes, combinando materiales orgánicos e inorgánicos. Los forjados están hechos de madera y metal, pero pueden sentir dolor y emociones. Creados como armas, Eres una imponente máquina de guerra diseñada con una función especializada. Podrías ser un asesino, un sanador o un artista, por nombrar solo algunas posibilidades, ahora deben encontrar un propósito más allá de la guerra. Un Warforged puede ser un aliado fiel, una máquina de matar despiadada o un visionario en busca de propósito y significado.**
 
 **Aumento de puntuación de habilidad.** Tu puntuación de Constitución aumenta en 2 y la de otra habilidad de tu elección aumenta en 1.
 
@@ -61,9 +81,8 @@
 
 
 ## Clase
-### luchador (Samurái)
-**Los luchadores comparten un dominio incomparable con armas y armaduras, y un conocimiento profundo de las habilidades de combate. Conocen bien la muerte, la descubren y la miran desafiante a la cara.**
-**El Samurái es un luchador que recurre a un espíritu de lucha implacable para vencer a los enemigos. La determinación de un samurái es casi inquebrantable y los enemigos en el camino de un samurái tienen dos opciones: ceder o morir luchando.**
+### Avatar de la Eternidad
+**El Avatar de la Eternidad es un ser tocado por la Eternidad, un guerrero capaz de blandir espada y relámpago con la misma maestría. Forjado entre el deber y la fuerza, este héroe canaliza la energía de tormentas y controla el flujo de la batalla como un semidiós en el campo de combate. Mientras combina ataques cuerpo a cuerpo con control de energía eléctrica y habilidades mágicas. Protege a sus aliados mientras destruye a sus enemigos al mismo tiempo, capaz de castigar enemigos y resurgir más fuerte cuando la batalla parece perdida.**
 
 Como luchador, obtienes las siguientes características de clase.
 ##### Competencias
@@ -73,24 +92,23 @@ Como luchador, obtienes las siguientes características de clase.
 - **Habilidades:** acrobacia, percepción y perspicacia
 ##### Equipo
 **Espada larga legendaria (filo del pensamiento vacío).**
-- daño Min: 26; daño Max: 63
 - **modificadores:** +3 daño y tirada
-- **Brazo de Nakarkos:** furor. Cuando tus puntos de vida estén por debajo de una decima parte de tu máximo, tus ataques cuerpo a cuerpo con esta arma infligen el máximo daño.
+- **Brazo de Nakarkos (modificado):** furor. Cuando tus puntos de vida estén por debajo de una decima parte de tu máximo, tus ataques cuerpo a cuerpo con esta arma infligen el máximo daño, mientras tanto solo hacen el minimo.
 - **Piel de Tsukami:** Mientras estés en sintonía con esta arma, puedes realizar un ataque con ella como acción adicional en cada uno de tus turnos.
-- **Corazón de la Shogun** _(Artefacto)_
+- **Cuero de T.Kirin:** Tu arma inflige 1d8 de daño adicional de rayo.
+- **Corazón de la Shogun:** _(Artefacto)_
 	- Foco: puedes lanzar _chain lightning_ 1 al dia sin coste.  
 	- Arma: añade a tu arma un +3 en ataque y en tiradas, con críticos que borran un objetivo menor (invocaciones, ilusiones, constructos).
 	- además Tu arma y hechizos infligen 3d6 de daño de trueno adicional.
 	- Con cada golpe que haga, reduce tu dado crítico en 1 hasta que consigas un golpe crítico.
-- **Piel de Tsukami:** Mientras estés en sintonía con esta arma, puedes realizar un ataque con ella como acción adicional en cada uno de tus turnos.
 - **Ojo de Raijin:** Ojo de la Mente+. Tus ataques con esta arma ignoran las resistencias e inmunidades al daño de cualquier criatura.
 
-**Túnica legendaria (Nhật Bình).**
+**cuero legendario (Nhật Bình).**
 modificadores: (5) +3AC
-- **Musgo de dragón:** Mientras estés en sintonía con esta armadura, tu puntuación de Fuerza cambia a 25. Si tu Fuerza ya es igual o mayor a 25, el material no tiene efecto sobre ti.
-- **Alatreon Direwing.** Mejora de Salud +2. Con esta armadura, tu máximo de puntos de vida aumenta en 3 por cada nivel de personaje.
+- **Telaraña de Fatalis:** Tu puntuación de Constitución es 24 mientras llevas esta armadura. No tiene efecto sobre ti si tu Constitución ya es 24 o superior.
+- **Alatreon Direwing:** Mejora de Salud +2. Con esta armadura, tu máximo de puntos de vida aumenta en 3 por cada nivel de personaje.
 - **Shara Ishvalda Tenderplate:** Mejora de Defensa (Rayo). Con esta armadura, obtienes +1 a la CA y eres inmune al daño de rayo.
-- **Cola Nergigante.** Con esta armadura, cualquier golpe crítico se convierte en un golpe normal.
+- **Cola Nergigante:** Con esta armadura, cualquier golpe crítico se convierte en un golpe normal.
 - **Ojo de Raijin:** Final eterno. Cuando tus puntos de golpe quedan reducidos a 0, pero no mueres directamente, puedes usar tu reacción para ser poseído por las energías electro de la shogun y ocurre lo siguiente:
 	- Te curas hasta alcanzar tus puntos de golpe máximos.
 	- Tus ojos brillan morados y un aura de electricidad morada rodea tu cuerpo.
@@ -99,18 +117,49 @@ modificadores: (5) +3AC
 	- Obtienes un bonificador de +2 a la CA y tienes ventaja en todas las tiradas de salvación.
 	- No puedes curarte por medios normales ni mágicos.
 	- Cuando vuelves a quedar reducido a 0 puntos de golpe, fallas automáticamente 2 tiradas de salvación de muerte y la posesión termina.
-### Estilo de lucha
-Adoptas un estilo particular de lucha como especialidad. Elija una de las siguientes opciones. No puedes tomar la opción Estilo de lucha más de una vez, incluso si luego puedes elegir nuevamente.
-- **duelo**
-+2 de daño cuerpo a cuerpo
-### Segundo viento
-Tienes un pozo limitado de resistencia al que puedes recurrir para protegerte de cualquier daño. En tu turno, puedes usar una acción de bonificación para recuperar puntos de vida iguales a 1d10 + tu nivel de luchador.
-Una vez que utilice esta función, deberá finalizar un descanso corto o largo antes de poder volver a utilizarla.
-### Oleada de acción
-A partir del segundo nivel, puedes superar tus límites normales por un momento. A tu vez, puedes realizar una acción adicional.
-Una vez que utilice esta función, deberá finalizar un descanso corto o largo antes de poder volver a utilizarla. A partir del nivel 17, puedes usarlo dos veces antes de descansar, pero solo una vez en el mismo turno.
-### Arquetipo marcial
-##### Competencia adicional
-Cuando eliges este samurai en el tercer nivel, obtienes competencia en una de las siguientes habilidades de tu elección: Historia, Perspicacia, Rendimiento o Persuasión. Alternativamente, aprende un idioma de su elección.
-##### Especialización
-Te has especializado en el uso de las espadas largas y armaduras ligeras, dejando de ser competente con el resto, pero obteniendo beneficios, al nivel 3 puedes hacer 1d4 de daño extra, al nivel 7 puedes hacer 1d6, al nivel 10 puedes hacer 1d10, al nivel 15 puedes hacer 2d6 y al nivel 18 puedes hacer 2d8
+## Acciones
+### Hoja de la Eternidad.
+Al nivel 1 obtienes una espada larga etérea de relámpagos (arma mágica). Hace 1d8 cortante + 1d6 rayo, aumenta con el nivel. Puedes invocarla o disiparla como acción gratuita.
+- **Nivel 1–4:** 1d8 cortante + 1d6 rayo
+- **Nivel 5–10:** 1d8 + 2d6 rayo
+- **Nivel 11–16:** 1d8 + 3d6 rayo
+- **Nivel 17–19:** 1d8 + 4d6 rayo
+- **Nivel 20 (Forma Divina):** 3d10 cortante + 3d10 rayo
+
+### Aura de Tormenta.
+Al nivel 2 cada vez que un enemigo comienza su turno a **X** casillas de ti, recibe daño de rayo igual a tu modificador de Carisma.
+
+| Nivel | Daño                | Alcance                   |
+| ----- | ------------------- | ------------------------- |
+| 1–4   | Mod. de Carisma     | 1 casillas                |
+| 5–10  | Mod. de Carisma + 1 | 1 casillas                |
+| 11–16 | Mod. de Carisma + 2 | 2 casillas                |
+| 17–19 | Mod. de Carisma + 3 | 2 casillas                |
+| 20    | Mod. de Carisma + 4 | 3 casillas (Forma Divina) |
+### Corte Celestial. 
+Al nivel 5 en vez un ataque, puedes lanzar un rayo en línea de 6 casillas, 6d10 rayo (DEX save para mitad).
+### Voluntad Inquebrantable. 
+Al nivel 7 obtienes ventaja contra miedo, encanto y aturdimiento.
+### Resonancia Eléctrica. 
+Al nivel 9, Cuando infliges daño de rayo, un segundo enemigo a 3 casillas recibe daño dependiendo del nivel del jugador.
+
+| Nivel | Daño a segundo enemigo                              |
+| ----- | --------------------------------------------------- |
+| 1–4   | 1/4 del daño original                               |
+| 5–10  | 1/3 del daño original                               |
+| 11–16 | 1/2 del daño original                               |
+| 17–19 | Igual al daño original (1:1)                        |
+| 20    | Igual al daño original + 1d6 adicional de relámpago |
+### Mil Cortes Relámpago.
+Al nivel 11 Ganas un segundo ataque al hacer la acción de Atacar.
+### Inmortalidad Efímera. 
+Al nivel 13 Una vez por descanso largo, cuando llegues a la mitad de tu vida maxima, recuperas la un cuarto de tus PV y entras en Fase II
+### Relámpago Instantáneo. 
+Al nivel 15 Como reacción al ser atacada, te teletransportas 30 ft y haces un ataque gratis.
+### Katastrofón (Flor de Recuerdo). 
+Al nivel 17 invocas una flor de energía (CA 18, 50 PV). Si no es destruida en 1 turno, explota causando 10d10 rayo en un área de 60 ft.
+### Avatar de la Eternidad. 
+Al nivel 20 te permite entrar en tu **Forma ascendida** (1/día) durante 4 turnos:
+- Aura de Tormenta aumenta a 6 casillas.
+- Katana de la Eternidad hace 3d10 cortante + 3d10 rayo. 
+- Ganas inmunidad a todo el daño excepto radiante y psíquico durante 4 turnos.

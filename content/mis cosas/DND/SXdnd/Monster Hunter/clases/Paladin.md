@@ -5,7 +5,7 @@ _Debes tener una puntuación de Carisma y una puntuación de Fuerza de 13 o supe
 
 | Nivel | vida | Características                                                         | 1o  | 2do | 3o  | 4to | 5to |
 | ----- | ---- | ----------------------------------------------------------------------- | --- | --- | --- | --- | --- |
-| 1o    | 10   | Sentido Divino, Ponte de Manos                                          | -   | -   | -   | -   | -   |
+| 1o    | 14   | Sentido Divino, Ponte de Manos                                          | -   | -   | -   | -   | -   |
 | 2do   | +4   | Estilo de lucha, lanzamiento de hechizos, Golpe divino                  | 2   | -   | -   | -   | -   |
 | 3o    | +4   | Salud Divina, Juramento Sagrado, _Aprovecha el poder divino (opcional)_ | 3   | -   | -   | -   | -   |
 | 4to   | +4   | Mejora de la puntuación de habilidad, _Versatilidad marcial (opcional)_ | 3   | -   | -   | -   | -   |

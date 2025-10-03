@@ -2,29 +2,29 @@
 
 _Debes tener una puntuación de Carisma de 13 o superior para poder realizar múltiples clases dentro o fuera de esta clase._
 
-|El hechicero|   |   |   |   |   |Tragamonedas de hechizos por nivel de hechizo|   |   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Nivel|Bono de competencia|Puntos de brujería|Características|Cantrips conocidos|Hechizos conocidos|1o|2do|3o|4to|5to|6to|7mo|8vo|9no|
-|1o|+2|-|Lanzamiento de hechizos, origen hechicero|4|2|2|-|-|-|-|-|-|-|-|
-|2do|+2|2|Fuente de Magia|4|3|3|-|-|-|-|-|-|-|-|
-|3o|+2|3|Metamágico|4|4|4|2|-|-|-|-|-|-|-|
-|4to|+2|4|Mejora de la puntuación de habilidad, _Versatilidad hechicera (opcional)_|5|5|4|3|-|-|-|-|-|-|-|
-|5to|+3|5|_Orientación Mágica (Opcional)_|5|6|4|3|2|-|-|-|-|-|-|
-|6to|+3|6|Característica de origen hechicero|5|7|4|3|3|-|-|-|-|-|-|
-|7mo|+3|7||5|8|4|3|3|1|-|-|-|-|-|
-|8vo|+3|8|Mejora de la puntuación de habilidad, _Versatilidad hechicera (opcional)_|5|9|4|3|3|2|-|-|-|-|-|
-|9no|+4|9||5|10|4|3|3|3|1|-|-|-|-|
-|10o|+4|10|Metamágico|6|11|4|3|3|3|2|-|-|-|-|
-|11|+4|11||6|12|4|3|3|3|2|1|-|-|-|
-|12|+4|12|Mejora de la puntuación de habilidad, _Versatilidad hechicera (opcional)_|6|12|4|3|3|3|2|1|-|-|-|
-|13|+5|13||6|13|4|3|3|3|2|1|1|-|-|
-|14|+5|14|Característica de origen hechicero|6|13|4|3|3|3|2|1|1|-|-|
-|15|+5|15||6|14|4|3|3|3|2|1|1|1|-|
-|16|+5|16|Mejora de la puntuación de habilidad, _Versatilidad hechicera (opcional)_|6|14|4|3|3|3|2|1|1|1|-|
-|17|+6|17|Metamágico|6|15|4|3|3|3|2|1|1|1|1|
-|18|+6|18|Característica de origen hechicero|6|15|4|3|3|3|3|1|1|1|1|
-|19|+6|19|Mejora de la puntuación de habilidad, _Versatilidad hechicera (opcional)_|6|15|4|3|3|3|3|2|1|1|1|
-|20|+6|20|Restauración hechicera|6|15|4|3|3|3|3|2|2|1|1|
+| El hechicero |      |                    |                                                                           |                    |                    | Tragamonedas de hechizos por nivel de hechizo |     |     |     |     |     |     |     |     |
+| ------------ | ---- | ------------------ | ------------------------------------------------------------------------- | ------------------ | ------------------ | --------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Nivel        | vida | Puntos de brujería | Características                                                           | Cantrips conocidos | Hechizos conocidos | 1o                                            | 2do | 3o  | 4to | 5to | 6to | 7mo | 8vo | 9no |
+| 1o           | 10   | -                  | Lanzamiento de hechizos, origen hechicero                                 | 4                  | 2                  | 2                                             | -   | -   | -   | -   | -   | -   | -   | -   |
+| 2do          | +1   | 2                  | Fuente de Magia                                                           | 4                  | 3                  | 3                                             | -   | -   | -   | -   | -   | -   | -   | -   |
+| 3o           | +1   | 3                  | Metamágico                                                                | 4                  | 4                  | 4                                             | 2   | -   | -   | -   | -   | -   | -   | -   |
+| 4to          | +1   | 4                  | Mejora de la puntuación de habilidad, _Versatilidad hechicera (opcional)_ | 5                  | 5                  | 4                                             | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 5to          | +1   | 5                  | _Orientación Mágica (Opcional)_                                           | 5                  | 6                  | 4                                             | 3   | 2   | -   | -   | -   | -   | -   | -   |
+| 6to          | +1   | 6                  | Característica de origen hechicero                                        | 5                  | 7                  | 4                                             | 3   | 3   | -   | -   | -   | -   | -   | -   |
+| 7mo          | +1   | 7                  |                                                                           | 5                  | 8                  | 4                                             | 3   | 3   | 1   | -   | -   | -   | -   | -   |
+| 8vo          | +1   | 8                  | Mejora de la puntuación de habilidad, _Versatilidad hechicera (opcional)_ | 5                  | 9                  | 4                                             | 3   | 3   | 2   | -   | -   | -   | -   | -   |
+| 9no          | +1   | 9                  |                                                                           | 5                  | 10                 | 4                                             | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
+| 10o          | +1   | 10                 | Metamágico                                                                | 6                  | 11                 | 4                                             | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
+| 11           | +1   | 11                 |                                                                           | 6                  | 12                 | 4                                             | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 12           | +1   | 12                 | Mejora de la puntuación de habilidad, _Versatilidad hechicera (opcional)_ | 6                  | 12                 | 4                                             | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 13           | +1   | 13                 |                                                                           | 6                  | 13                 | 4                                             | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 14           | +1   | 14                 | Característica de origen hechicero                                        | 6                  | 13                 | 4                                             | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 15           | +1   | 15                 |                                                                           | 6                  | 14                 | 4                                             | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 16           | +1   | 16                 | Mejora de la puntuación de habilidad, _Versatilidad hechicera (opcional)_ | 6                  | 14                 | 4                                             | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 17           | +1   | 17                 | Metamágico                                                                | 6                  | 15                 | 4                                             | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18           | +1   | 18                 | Característica de origen hechicero                                        | 6                  | 15                 | 4                                             | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19           | +1   | 19                 | Mejora de la puntuación de habilidad, _Versatilidad hechicera (opcional)_ | 6                  | 15                 | 4                                             | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20           | +1   | 20                 | Restauración hechicera                                                    | 6                  | 15                 | 4                                             | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
 # Características de la clase
 

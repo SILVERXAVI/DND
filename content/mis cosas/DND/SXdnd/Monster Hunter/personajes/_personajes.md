@@ -1,5 +1,5 @@
 **NPC**
-- [[Ei (la marioneta de la shogun)]]
+- [[bhaal (la marioneta de la shogun)]]
 
 
 
