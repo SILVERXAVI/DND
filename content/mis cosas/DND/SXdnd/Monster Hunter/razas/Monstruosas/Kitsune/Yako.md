@@ -6,8 +6,11 @@ A pesar de estos conflictos con los humanos, los nogitsune ocasionalmente intera
 
 ## Rasgos del Kitsune Yako
 
-- **Aumento de puntuación de habilidad:** Tu puntuación de **Destreza o Fuerza** aumenta en 1.
+##### **Aumento de puntuación de habilidad**
+Tu puntuación de **Destreza o Fuerza** aumenta en 1.
 
-- **Mirada apasionada:** Tus ojos casi brillan cuando miras a las personas atrayéndolas para que crean lo que dices. Ganas competencia en las habilidades de **persuasión y engaño.**
+##### **Mirada apasionada** 
+Tus ojos casi brillan cuando miras a las personas atrayéndolas para que crean lo que dices. Ganas competencia en las habilidades de **persuasión y engaño.**
 
-- **Llama del Alma:** Tu alma está entrelazada con el Fuego de manera tanto agresiva como encantadora. Obtienes la habilidad de lanzar **[[Crear llama]]** como un cantrip. También puedes lanzar **[[Hechizar persona]]** un número de veces igual a tus cruces. Recuperas todos los usos después de un largo descanso.
+##### **Llama del Alma** 
+Tu alma está entrelazada con el Fuego de manera tanto agresiva como encantadora. Obtienes la habilidad de lanzar **[[Crear llama]]** como un cantrip. También puedes lanzar **[[Hechizar persona]]** un número de veces igual a tus cruces. Recuperas todos los usos después de un largo descanso.

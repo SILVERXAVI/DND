@@ -1,4 +1,5 @@
 ![[Pasted image 20251002203155.png]]
+
 **_Soy el estimado instructor de la Escuela de Entrenamiento Pokke. Actualmente busco a tantos estudiantes como sea posible para unirse a mi escuela de entrenamiento de cazadores. Hace diez años, esta escuela nació con un sueño...**
 **...un sueño de cazadores que arden con los deseos de la juventud, un sueño de quienes desean convertirse en verdaderos cazadores, un sueño de cazadores que buscan perfeccionar sus habilidades, un sueño de cazadores que buscan depositar sus esperanzas en mí en su carrera a tres patas hacia el primer puesto. ¡Las puertas de mi Escuela de Entrenamiento siempre están abiertas, especialmente para mis fans!**
 **-Maestro Azrar de la Escuela de Entrenamiento de Cazadores_**
@@ -57,9 +58,9 @@ Recepcionista del gremio, Clérigo humano. Patty es conocida por su afición al 
 Gerente del gremio, Samurái Wyveriano. En su época, era aventurero y no le temía a los desafíos. Hoy en día, el Jefe Kokoto no muestra muchas emociones. En su juventud, fue un cazador legendario que contribuyó a dar forma a la caza actual. Desde el comienzo de su carrera, le encantaba cazar junto con sus tres compañeros y su esposa, incluso permitiéndole asistir a algunas cacerías. Esto, lamentablemente, condujo a un incidente conocido como los Cinco. Hoy, el Jefe Kokoto está jubilado y cuida de la Aldea Kokoto. El Jefe Kokoto ahora también entrena a la próxima generación de cazadores.
 
 ## Personajes del Gremio de Cazadores
-**Alineamiento:** Generalmente legal o bueno, a menudo neutral
-**Razas sugeridas:** Cualquier raza, pero rara vez se unen razas monstruosas
-**Clases sugeridas:** Todas
+- **Alineamiento:** Generalmente legal o bueno, a menudo neutral
+- **Razas sugeridas:** Cualquier raza, pero rara vez se unen razas monstruosas
+- **Clases sugeridas:** Todas
 
 Considera el Gremio de Cazadores para tu personaje si una o más de las siguientes frases te resultan ciertas:
 

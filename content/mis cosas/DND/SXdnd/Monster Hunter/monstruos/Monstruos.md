@@ -1,4 +1,10 @@
 **_Recopilación de todos lo monstruos y enemigos que habrá en el dnd_**
+## Mis Creaciones
+### Jefes
+- [[Eternidad (CR 50)]]
+- [[La shogun, Apostol de la Eternidad (CR 30)]]
+- 
+
 ## Anfibios
 **_Los anfibios son una clase de monstruos con una estructura corporal superficialmente similar a la de una rana, con patas traseras poderosas y elásticas y patas delanteras musculosas. Se sabe que habitan en una amplia gama de entornos y son típicamente carnívoros._**
 - [[Chatacabra (CR 3)]]

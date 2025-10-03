@@ -4,11 +4,14 @@ Sin embargo, todos los Kitsune tienen su propio sentido del bien y del mal y son
 
 ## Rasgos Del Kitsune Zenko
 
-- **Aumento de puntuación de habilidad.** Tu puntuación de **Sabiduría o Inteligencia** aumenta en 1.
+##### **Aumento de puntuación de habilidad.**
+Tu puntuación de **Sabiduría o Inteligencia** aumenta en 1.
 
-- **Conocimiento de los Antiguos.** Los zenkos tienden a caminos religiosos y son benditos más naturales. En el 1er nivel aprendes el cantrip de la **[[llama sagrada]]** y también puedes lanzar **[[calmar emociones]]** un número de veces igual a tus colas. Recuperas todos los usos después de un largo descanso.
+##### **Conocimiento de los Antiguos.** 
+Los zenkos tienden a caminos religiosos y son benditos más naturales. En el 1er nivel aprendes el cantrip de la **[[llama sagrada]]** y también puedes lanzar **[[calmar emociones]]** un número de veces igual a tus colas. Recuperas todos los usos después de un largo descanso.
 
-- **Centinela.** Tu naturaleza es precavida y lista para todo. Obtienes competencia en las pruebas de **Perspicacia y Acrobacias.**
+##### **Centinela.** 
+Tu naturaleza es precavida y lista para todo. Obtienes competencia en las pruebas de **Perspicacia y Acrobacias.**
 
 
 

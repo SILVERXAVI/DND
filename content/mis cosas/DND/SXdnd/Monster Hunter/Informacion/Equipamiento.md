@@ -43,7 +43,8 @@ A continuación, encontrarás un conjunto de reglas que limitan los materiales q
 
 - Tu armadura solo puede tener una reducción de daño, resistencia o inmunidad a cualquier tipo de daño.
 - Tu armadura solo puede tener una ventaja o inmunidad contra una condición como envenenado, asustado o tumbado.
-- Tu armadura solo puede tener un material que otorgue una bonificación a la CA. Tu armadura solo puede tener un efecto que use runas.
+- Tu armadura solo puede tener un material que otorgue una bonificación a la CA. 
+- Tu armadura solo puede tener un efecto que use runas.
 - Un material solo puede reemplazarse por otro. Una vez reemplazado, el material anterior se destruye.
 - Los materiales no se acumulan con versiones mejoradas de sus efectos, incluidos los materiales sin nombre (por ejemplo, detectar no se acumula con detectar+).
 #### Ropa
