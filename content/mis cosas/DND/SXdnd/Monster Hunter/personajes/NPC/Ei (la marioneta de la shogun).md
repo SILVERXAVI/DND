@@ -73,13 +73,15 @@ Como luchador, obtienes las siguientes características de clase.
 - **Habilidades:** acrobacia, percepción y perspicacia
 ##### Equipo
 **Espada larga legendaria (filo del pensamiento vacío).**
-daño min: 24 max: 57
+daño min: 26 max: 63
 modificadores: +3 daño y tirada
 - **Brazo de Nakarkos (mod):** furor. Cuando tus puntos de vida estén por debajo de la mitad de tu máximo, tus ataques cuerpo a cuerpo con esta arma infligen el máximo daño.
-- **Shara Ishvalda Placa tierna:** Tu arma inflige 2d6 de daño de trueno adicional.
+- **Corazón de la Shogun** _(Artefacto)_
+	- Foco: puedes lanzar _chain lightning_ 1 al dia sin coste.  
+	- Arma: añade a tu arma un +3 en ataque y en tiradas, con críticos que borran un objetivo menor (invocaciones, ilusiones, constructos).
+	- además Tu arma y hechizos infligen 3d6 de daño de trueno adicional.
 - **Piel de Tsukami:** Mientras estés en sintonía con esta arma, puedes realizar un ataque con ella como acción adicional en cada uno de tus turnos.
 - **Piedra de sangre primordial (mod):** Crítico en cadena. Con cada golpe que haga, aumenta tu alcance crítico en 1 hasta que consigas un golpe crítico.
-- **Orbe de origen (mod):** Cuando realizas un ataque con esta arma y sacas un 20 o superior en la tirada de ataque, desatas una ráfaga de rayos que inflige 8d6 de daño de rayo adicional al objetivo y 4d6 de daño de rayo a todas las criaturas en un radio de 3 metros (excluyéndote a ti).
 - **Ojo Fatalis:** Ojo de la Mente+. Tus ataques con esta arma ignoran las resistencias e inmunidades al daño de cualquier criatura.
 
 **armadura de cuero tachonado legendaria.**

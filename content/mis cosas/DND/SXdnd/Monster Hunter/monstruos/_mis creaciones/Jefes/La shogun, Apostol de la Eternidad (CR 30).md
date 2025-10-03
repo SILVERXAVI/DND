@@ -131,15 +131,48 @@ Raiden invoca 4 esferas. Si no son destruidas en 2 turnos, explotan: 35 (10d6) d
 
 _(cuando es derrotada en su dominio o forma de deidad menor)_
 
-| **Tirada d20** | **Material**                                                        | **Tipo de Uso**    | **Efecto / Habilidad Especial**                                                                                                                                                                                                                                                                                                             |
-| -------------- | ------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1–2            | **Fragmento de Eternidad**                                          | Otro               | Material raro. Puede usarse para mejorar un objeto mágico existente, dándole resistencia al daño de relámpago.                                                                                                                                                                                                                              |
-| 3–4            | **Eco del Decreto Sakoku**                                          | Armadura           | Mientras la uses, ganas ventaja en tiradas de salvación contra _parálisis_ y _encantamiento_.                                                                                                                                                                                                                                               |
-| 5–8            | **Carapacho del Shogun**                                            | Armadura           | Una vez por descanso corto, puedes reducir a 0 el daño de un ataque de relámpago o trueno recibido. Si lo haces, liberas una onda que inflige 2d10 de relámpago a todos los enemigos en 10 ft.                                                                                                                                              |
-| 9–11           | **Esencia Magatsu** _(Foco arcano: druida, brujo, mago, hechicero)_ | Foco con 6 cargas. | Gasta 1 carga para lanzar _lightning bolt_ o _counterspell_ (nivel 3). Recupera 1d4 cargas al amanecer. Si gastas la última, tira d20: con 1, el objeto se destruye en una descarga.                                                                                                                                                        |
-| 12–13          | **Núcleo de Electroculi**                                           | Arma               | Cuando logras un crítico, infliges +1d8 de daño de relámpago adicional.                                                                                                                                                                                                                                                                     |
-| 14             | **Tela de la Shogunía**                                             | Armadura           | Obtienes **evasión** (igual que pícaro).                                                                                                                                                                                                                                                                                                    |
-| 15             | **Garra de Baleful Shadowlord**                                     | Arma               | Una vez por descanso corto, al bajar a menos de ¼ de tus PV máx., entras en un estado de furia arcana: durante 1 minuto, todos tus ataques cuerpo a cuerpo infligen +1d8 relámpago y obtienes una acción adicional (como _haste_).                                                                                                          |
-| 16–18          | **Cola de Tormenta Funesta**                                        | Arma/Armadura      | • Arma: inflige +1d8 de daño radiante adicional.  <br>• Armadura: ventaja en tiradas de salvación contra conjuros de nivel 5 o inferior.                                                                                                                                                                                                    |
-| 19             | **Cuerno de Eternidad**                                             | Arma/Armadura      | • Arma: +2 a ataques de conjuro y CD de conjuros (+3 si infligen trueno o relámpago).  <br>• Armadura: inmunidad al daño de relámpago.                                                                                                                                                                                                      |
-| 20             | **Corazón de la Shogun** _(Artefacto)_                              | Armadura/Foco/Arma | • Armadura: puedes invocar un **campo de eternidad** 1/día. Durante 1 minuto, todos los aliados a 30 ft tienen resistencia a todo el daño y +2 CA.  <br>• Foco: puedes lanzar _chain lightning_ 1/semana sin coste.  <br>• Arma: convierte tu arma en +3, con críticos que borran un objetivo menor (invocaciones, ilusiones, constructos). |
+| **Tirada d20** | **Material**                           | **Tipo de Uso**    | **Efecto / Habilidad Especial** |
+| -------------- | -------------------------------------- | ------------------ | ------------------------------- |
+| 1–2            | **Fragmento de Eternidad**             | Otro               |                                 |
+| 3–4            | **Eco del Decreto Sakoku**             | Armadura           |                                 |
+| 5–8            | **Carapacho del Shogun**               | Armadura           |                                 |
+| 9–11           | **Esencia Magatsu**                    | Foco con 6 cargas. |                                 |
+| 12–13          | **Núcleo Electro**                     | Arma               |                                 |
+| 14             | **Tela de la Shogunía**                | Armadura           |                                 |
+| 15             | **Garra de Baleful Shadowlord**        | Arma               |                                 |
+| 16–18          | **Cola de Tormenta Funesta**           | Arma/Armadura      | <br>                            |
+| 19             | **Cuerno de Eternidad**                | Arma/Armadura      | <br>                            |
+| 20             | **Corazón de la Shogun** _(Artefacto)_ | Armadura/Foco/Arma | • Armadura:   <br>              |
+### EFECTOS DEL MATERIAL DE LA ARMADURA
+**Eco del Decreto Sakoku**
+Mientras la uses, ganas ventaja en tiradas de salvación contra _parálisis_ y _encantamiento_.
+**Carapacho del Shogun**
+Una vez por descanso corto, puedes reducir a 0 el daño de un ataque de relámpago o trueno recibido. Si lo haces, liberas una onda que inflige 2d10 de relámpago a todos los enemigos en 10 ft.
+**Tela de la Shogunía**
+Obtienes **evasión** (igual que pícaro).
+**Cola de Tormenta Funesta**
+ventaja en tiradas de salvación contra conjuros de nivel 5 o inferior.
+**Cuerno de Eternidad**
+inmunidad al daño de relámpago.
+**Corazón de la Shogun** _(Artefacto)_
+puedes invocar un **campo de eternidad** 1/día. Durante 1 minuto, todos los aliados a 30 ft tienen resistencia a todo el daño y +2 CA.
+### EFECTOS DEL MATERIAL DEL ARMA
+**Esencia Magatsu** _(Foco arcano: druida, brujo, mago, hechicero)_
+Gasta 1 carga para lanzar _lightning bolt_ o _counterspell_ (nivel 3). Recupera 1d4 cargas al amanecer. Si gastas la última, tira d20: con 1, el objeto se destruye en una descarga.
+**Núcleo Electro**
+Cuando logras un crítico, infliges +1d8 de daño de relámpago adicional.
+**Garra de Baleful Shadowlord**
+Una vez por descanso corto, al bajar a menos de ¼ de tus PV máx., entras en un estado de furia arcana: durante 1 minuto, todos tus ataques cuerpo a cuerpo infligen +1d8 relámpago y obtienes una acción adicional (como _haste_).
+**Cola de Tormenta Funesta**
+inflige +1d8 de daño radiante adicional.  
+**Cuerno de Eternidad**
++2 a ataques de conjuro y CD de conjuros (+3 si infligen trueno o relámpago).  
+**Corazón de la Shogun** _(Artefacto)_
+- Foco: puedes lanzar _chain lightning_ 1 al dia sin coste.  
+- Arma: añade a tu arma un +3 en ataque y en tiradas, con críticos que borran un objetivo menor (invocaciones, ilusiones, constructos).
+- además Tu arma y hechizos infligen 3d6 de daño de trueno adicional.
+
+### OTROS EFECTOS DE MATERIALES
+**Fragmento de Eternidad**
+Material raro. Puede usarse para mejorar un objeto mágico existente, dándole resistencia al daño de relámpago.
+
