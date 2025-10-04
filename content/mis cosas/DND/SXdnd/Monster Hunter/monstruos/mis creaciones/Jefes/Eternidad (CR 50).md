@@ -1,5 +1,3 @@
-# Diosa de la Eternidad
-
 **Nivel de Desafío (CR): 50**  
 **Alineamiento:** Legal Neutral (la Eternidad ante todo)  
 **Tipo:** Deidad (Humanoide divino)

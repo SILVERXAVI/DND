@@ -3,9 +3,10 @@
 ### Jefes
 - [[Eternidad (CR 50)]]
 - [[La shogun, Apostol de la Eternidad (CR 30)]]
-- 
-
-## Anfibios
+- [[ESA-PERSONA]]
+### normales
+## Monster Hunter
+### Anfibios
 **_Los anfibios son una clase de monstruos con una estructura corporal superficialmente similar a la de una rana, con patas traseras poderosas y elásticas y patas delanteras musculosas. Se sabe que habitan en una amplia gama de entornos y son típicamente carnívoros._**
 - [[Chatacabra (CR 3)]]
 - [[Gelidron (CR 1-8)]]
@@ -17,7 +18,7 @@
 - [[Zamtrios (CR 5)]]
 	- [[Zamtrios Atigrado (CR 10)]]
 
-## Wyverns Pajaro
+### Wyverns Pajaro
 **_Los Wyverns Pájaro son, como su nombre indica, de naturaleza aviar, con cuerpos esbeltos y delicados. A pesar de su estatura comparativamente pequeña, los Wyverns Pájaro suelen aprovechar su agilidad para neutralizar ataques y presas por igual. Los Wyverns Pájaro Voladores presentan características similares a los Wyverns Verdaderos, con una postura bípeda y alas desarrolladas y funcionales. Muchos poseen un pico duro y afilado que puede usar para picotear a sus atacantes y, en general, se comportan como pájaros._**
 - [[Aknosom (CR 6)]]
 - [[Gypceros (CR 8)]]
@@ -37,7 +38,7 @@
 	- [[Yian Kut-Ku Temperamental (CR 10)]]
 	- [[Yian Kut-Ku Azul (CR 5)]]
 
-## Wyverns Brutos
+### Wyverns Brutos
 **Los Wyverns Brutos se consideran Wyverns adaptados a la vida terrestre, e incluso a veces se les llama terópodos por su gran parecido con algunos dinosaurios depredadores. Estos monstruos suelen ser terópodos grandes y bípedos, propensos a vivir en zonas con abundantes fuentes de alimento. Los Wyverns Brutos presentan una amplia variedad de hábitos alimenticios; algunos son estrictamente herbívoros o carnívoros, mientras que otros se alimentan de insectos o incluso minerales. Estos monstruos suelen usar sus cuerpos pesados ​​y musculosos para embestir a ciegas por el entorno y dañar a sus atacantes o presas, e incluyen numerosas adaptaciones defensivas, como garrotes en la cola, cuernos e incluso barbillas y puños con forma de martillo. Los Wyverns Brutos se pueden encontrar en casi cualquier tipo de entorno.**
 - [[Anjanath (CR 7)]]
 	- [[Fulgur Anjanath (CR 15)]]
@@ -63,7 +64,7 @@
 	- [[Pumpkin Uragaan (CR 10)]]
 	- [[Crystalbeard Uragaan (CR 14)]]
 	- [[Steel Uragaan (CR 18)]]
-## Carapaceon
+### Carapaceon
 Los Carapaceon son monstruos parecidos a crustáceos que tienen caparazones duros y exoesqueletos o cuerpos similares a los de los cangrejos. Cuando se debilitan por daños físicos, muestran hemorragias internas a través de la espuma de burbujas moradas que salen de sus bocas. Se sabe que los Carapaceon se esconden bajo tierra y atacan a sus presas cuando están al alcance. La mayoría de estos crustáceos se asemejan a cangrejos, langostas o escorpiones.
 - [[Ceanataur (CR 1/2)]]
 - [[Shogun Ceanataur (CR 13)]]
@@ -77,11 +78,11 @@ Los Carapaceon son monstruos parecidos a crustáceos que tienen caparazones duro
 - [[Plum Daimyo Hermitaur (CR 15)]]
 - [[Stonefist Hermitaur (CR 18)]]
 - [[Shen Gaoren (CR 30)]]
-## Cefalopodos
+### Cefalopodos
 Los cefalópodos se encuentran en la cima de sus ecosistemas y se caracterizan por ocho apéndices prensiles. En la práctica, solo seis son completamente utilizables; el par más cercano a los ojos está muy atrofiado. Sus cuerpos sin huesos les permiten deslizarse por espacios reducidos y deslizarse sobre rocas, madera o lodo resbaladizo. Trepan bien, se mueven con sorprendente gracia y pueden atacar desde casi cualquier ángulo. La mayoría de los cefalópodos tienen mala visión incluso con ojos. Dependen de otros sentidos (el tacto, la vibración y las señales químicas) para encontrar presas y desplazarse por el terreno. En la caza, controlan el espacio con su alcance y palanca, agarrando objetivos y reposicionándose rápidamente antes de terminar con el pico.
 - [[Nu Udra (CR 13)]]
 - [[Xu Wu (CR 15)]]
-## Dragones Antiguos
+### Dragones Antiguos
 **_Un término muy amplio. Lo único que todos los dragones ancianos tienen en común es su poder, que parece rozar lo místico, a diferencia de los wyverns, que se limitan a las leyes naturales. Se dice que un dragón anciano es lo suficientemente poderoso como para destruir un ecosistema por sí solo. En la antigüedad, se les confundía con dioses. Muchos dragones ancianos tienen cuatro patas y alas, que son extremidades separadas, a diferencia de los wyverns, que tienen dos patas y extremidades anteriores aladas. Aunque a todos se les llama dragones, el género no se limita a criaturas aladas de cuatro patas. Abarca bestias como Kirin y Yama Tsukami, así como los más tradicionales Fatalis. Además de estas, existen razas de "segunda generación" con una constitución similar: los Teostra y los Kushala Daora pertenecen a este tipo, y todos poseen algún tipo de barrera o aura que los protege_.**
 - [[Elder Dragons Alatreon (CR 21)]]
 	- [[Tempered Alatreon (MHW) (CR 30)]]
@@ -143,7 +144,7 @@ Los cefalópodos se encuentran en la cima de sus ecosistemas y se caracterizan p
 - [[Yama Tsukami (CR 18)]]
 - [[Zoh Shia (CR 26)]]
 - [[Zorah Magdaros (CR Event)]]
-## Bestias de colmillos
+### Bestias de colmillos
 **_Antiguamente conocidas como Pelagus, las bestias con colmillos son criaturas mamíferas sin alas. Suelen ser mucho más rápidas que otras amenazas mayores, pero no todas son agresivas. Muchas ignoran a los aventureros a menos que se den a conocer o las asusten. Otras, en cambio, atacan en el lugar, aprovechando el entorno y la velocidad. Las bestias con colmillos presentan una amplia variedad de hábitos alimenticios; algunas son estrictamente herbívoras o carnívoras, mientras que otras se alimentan de insectos. La mayoría posee atributos únicos para la supervivencia, como poderosas extremidades anteriores o grandes colmillos, y están bien adaptadas al entorno en el que viven. Otras forman manadas, siendo la más fuerte la del Alfa._**
 - [[Ajarakan (CR 10)]]
 - [[Arzuros (CR 4)]]
@@ -183,7 +184,7 @@ Los cefalópodos se encuentran en la cima de sus ecosistemas y se caracterizan p
 - [[Volvidon Pup (CR 1/2)]]
 - [[Wulg (CR 1)]]
 - [[Wulg Pup (CR 1/8)]]
-## Wyverns de Colmillos
+### Wyverns de Colmillos
 **_Los Wyverns Colmilludos son conocidos por ser monstruos Wyvern similares a Bestias Colmilludas, con extremidades muy desarrolladas. Suelen ser ignorados por pueblos y ciudades debido a que sus territorios preferidos están alejados de la civilización. Hasta hace poco, los estudiosos solo clasificaban al Zinogre como la única especie conocida de estos wyverns. Se han descubierto nuevas especies en regiones remotas, aunque su naturaleza es más reptiliana que la de sus parientes._**
 - [[Dodogama (CR 7)]]
 - [[Dodogama, Juvenile (CR 1)]]
@@ -210,7 +211,7 @@ Los cefalópodos se encuentran en la cima de sus ecosistemas y se caracterizan p
 - [[Juvenile Zinogre (CR 3)]]
 - [[Thunderlord Zinogre (CR 16)]]
 - [[Stygian Zinogre (CR 20)]]
-## Wyverns Voladores
+### Wyverns Voladores
 
 [[Flying Wyverns Flying Wyverns Akantor (CR 20)]]
 [[Adolescent Akantor (CR 11)]]
@@ -281,7 +282,7 @@ Los cefalópodos se encuentran en la cima de sus ecosistemas y se caracterizan p
 [[Grimclaw Tigrex (CR 22)]]
 [[Molten Tigrex (CR 23)]]
 [[Ukanlos (CR 20)]]
-## Leviatanes
+### Leviatanes
 
 [[Leviathans Almudron (CR 15)]]
 [[Magma Almudron (CR 17)]]
@@ -315,7 +316,7 @@ Los cefalópodos se encuentran en la cima de sus ecosistemas y se caracterizan p
 [[Uroktor (CR 1-2)]]
 [[Agnaktor (CR 6)]]
 [[Glacial Agnaktor (CR 9)]]
-## Neopterones
+### Neopterones
 
 [[Ahtal-Ka (CR 23)]]
 [[Ahtal-Neset (CR 23)]]
@@ -333,7 +334,7 @@ Los cefalópodos se encuentran en la cima de sus ecosistemas y se caracterizan p
 [[Vespoid (CR 1-4)]]
 [[Vespoid Princess (CR 1-2)]]
 [[Vespoid Queen (CR 1)]]
-## Wyverns de piscina
+### Wyverns de piscina
 
 [[Beotodus (CR 12)]]
 [[Cephadrome (CR 7)]]
@@ -344,13 +345,13 @@ Los cefalópodos se encuentran en la cima de sus ecosistemas y se caracterizan p
 [[Lavasioth (CR 13)]]
 [[Plesioth (CR 9)]]
 [[Green Plesioth (CR 13)]]
-## Wyverns Serpiente
+### Wyverns Serpiente
 
 [[Najarala (CR 9)]]
 [[Tidal Najarala (CR 18)]]
 [[Remobra (CR 1-4)]]
 [[Wingdrake (CR 1-8)]]
-## Temnoceran
+### Temnoceran
 
 [[Lala Barina (CR 8)]]
 [[Nerscylla (CR 6)]]
@@ -360,7 +361,7 @@ Los cefalópodos se encuentran en la cima de sus ecosistemas y se caracterizan p
 [[Rachnoid (CR 1)]]
 [[Rakna-Kadaki (CR 17)]]
 [[Pyre Rakna-Kadaki (CR 19)]]
-## Theropodos
+### Theropodos
 
 [[Baggi (CR 1)]]
 [[Great Baggi (CR 2)]]
@@ -389,7 +390,7 @@ Los cefalópodos se encuentran en la cima de sus ecosistemas y se caracterizan p
 [[White Velociprey (CR 3)]]
 [[Wroggi (CR 1)]]
 [[Great Wroggi (CR 2)]]
-## Desconocidos
+### Desconocidos
 **_Los desconocidos son una clase de monstruos que han sido identificados por los eruditos pero a los que aún no se les ha dado una clasificación adecuada._**
 - [[Gore Magala (CR 21)]]
 	- [[Adolescent Magala (CR 11)]]
@@ -403,7 +404,7 @@ Los cefalópodos se encuentran en la cima de sus ecosistemas y se caracterizan p
 	- [[Ancient Leshen (CR 21)]]
 - [[Qurio (CR 1-8)]]
 	- [[Qurio Swarm (CR 2)]]
-## Herbívoros
+### Herbívoros
 
 [[Apceros (CR 1-4)]]
 [[Aptonoth (CR 1-8)]]
@@ -425,7 +426,7 @@ Los cefalópodos se encuentran en la cima de sus ecosistemas y se caracterizan p
 [[Rafma (CR 1-2)]]
 [[Rhenoplos (CR 2)]]
 [[Slagtoth (CR 1-8)]]
-## lynians
+### lynians
 
 [[Lynians Lynians Boaboa (CR 1-4)]]
 [[Felyne (CR 1)]]
@@ -435,7 +436,7 @@ Los cefalópodos se encuentran en la cima de sus ecosistemas y se caracterizan p
 [[Wild Melynx (CR 1-8)]]
 [[Shakalaka (CR 1-8)]]
 [[King Shakalaka (CR 1)]]
-## vida Endemica
+### vida Endemica
 
 [[Dung Beetle (CR 0)]]
 [[Bomb Beetle (CR 0)]]
@@ -448,8 +449,9 @@ Los cefalópodos se encuentran en la cima de sus ecosistemas y se caracterizan p
 [[Vigorwasp (CR 0)]]
 [[Giant Vigorwasp (CR 0)]]
 [[Wiggler (CR 0)]]
-## Monster Templates 
+### Monster Templates 
 Guardian Template 
-## Appendix A: Monster Lists 
+### Appendix A: Monster Lists 
 Monster By Environment
 Monster by Challenge Rating
+## otras franquicias

@@ -1,5 +1,7 @@
 **El Avatar de la Eternidad es un ser tocado por la Eternidad, un guerrero capaz de blandir espada y relámpago con la misma maestría. Forjado entre el deber y la fuerza, este héroe canaliza la energía de tormentas y controla el flujo de la batalla como un semidiós en el campo de combate. Mientras combina ataques cuerpo a cuerpo con control de energía eléctrica y habilidades mágicas. Protege a sus aliados mientras destruye a sus enemigos al mismo tiempo, capaz de castigar enemigos y resurgir más fuerte cuando la batalla parece perdida.**
 
+Se desbloquea al conseguir lv 10 de [[Heraldo de la Tempestad]] y lv 5 de [[Samurái]]
+
 | Nivel | vida | Rasgos de Clase         | lv 1 | lv 2 | lv 3 | lv 4 | lv 5 |
 | ----- | ---- | ----------------------- | ---- | ---- | ---- | ---- | ---- |
 | 1     | 20   | Hoja de la Eternidad    | —    | —    | —    | —    | —    |
@@ -21,7 +23,7 @@
 | 17    | +8   | Katastrofón             | 4    | 3    | 3    | 3    | 1    |
 | 18    | +8   | —                       | 4    | 3    | 3    | 3    | 1    |
 | 19    | +8   | Hazaña                  | 4    | 3    | 3    | 3    | 2    |
-| 20    | +8   | Diosa de la Eternidad   | 4    | 3    | 3    | 3    | 2    |
+| 20    | +8   | Avatar de la Eternidad  | 4    | 3    | 3    | 3    | 2    |
 # Características de la clase
 
 Como Avatar de la eternidad, obtienes las siguientes características de clase.

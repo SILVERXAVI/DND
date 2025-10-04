@@ -1,5 +1,3 @@
-# Raiden Shogun, La shogun, Apostol de la Eternidad
-
 **Tipo:** Deidad Menor, Caótica-Legal (la paradoja de eternidad y cambio)  
 **Nivel de desafío (CR):** 30 (sí, nivel dios, estilo Tarrasque+)
 
