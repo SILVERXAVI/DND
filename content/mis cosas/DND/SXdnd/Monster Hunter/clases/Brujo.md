@@ -56,26 +56,26 @@ Comienza con el siguiente equipo, además del equipo otorgado por su experiencia
 
 En el primer nivel, has llegado a un acuerdo con un ser de otro mundo de tu elección. Tu elección te otorga funciones en el 1er nivel y nuevamente en los niveles 6, 10 y 14.
 
-| Patrón                             |
-| ---------------------------------- |
-| [[Archfey]]                        |
-| [[Celestial]]                      |
-| [[Insondable]]                     |
-| [[Demonio]]                        |
-| [[genio]]                          |
-| [[Gran viejo]]                     |
-| [[Hoja Hexagonal]]                 |
-| [[No-muertos]]                     |
-| [[Eterno]]                         |
-| [[Mago de Lorehold]]               |
-| [[Mago de Silverquill]]            |
-| [[Mago de Witherbloom]]            |
-| [[Fantasma en la máquina]]         |
-| [[Acechador en las profundidades]] |
-| [[Noble genio]]                    |
-| [[Reina Cuervo]]                   |
-| [[Buscador]]                       |
-| [[Luz eterna]]                     |
+| Patrón                             |                    |
+| ---------------------------------- | ------------------ |
+| [[Archfey]]                        | [[Archfey]]        |
+| [[Celestial]]                      | [[Gran viejo]]     |
+| [[Insondable]]                     | [[Hoja Hexagonal]] |
+| [[Demonio]]                        |                    |
+| [[genio]]                          |                    |
+| [[Gran viejo]]                     |                    |
+| [[Hoja Hexagonal]]                 |                    |
+| [[No-muertos]]                     |                    |
+| [[Eterno]]                         |                    |
+| [[Mago de Lorehold]]               | mago de silverhold |
+| [[Mago de Silverquill]]            |                    |
+| [[Mago de Witherbloom]]            |                    |
+| [[Fantasma en la máquina]]         |                    |
+| [[Acechador en las profundidades]] |                    |
+| [[Noble genio]]                    |                    |
+| [[Reina Cuervo]]                   |                    |
+| [[Buscador]]                       |                    |
+| [[Luz eterna]]                     |                    |
 
 
 

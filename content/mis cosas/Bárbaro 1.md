@@ -58,7 +58,7 @@ En el tercer nivel, eliges un camino que da forma a la naturaleza de tu ira. Su 
 | ----------------------------- |
 | [[Guardián Ancestral]]        |
 | [[Battlerager]] (solo enanos) |
-| [[Corazone Salvaje]]          |
+| [[Corazon Salvaje]]          |
 | [[Berserker]]                 |
 | [[Gigante]]                   |
 | [[Heraldo de la tormenta]]    |

@@ -1,5 +1,5 @@
 **NPC**
-- [[lamar ioneta]]
+- [[lamar ionetta]]
 
 
 
