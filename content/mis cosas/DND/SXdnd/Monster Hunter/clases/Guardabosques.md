@@ -32,8 +32,8 @@ Como guardabosques, obtienes las siguientes características de clase.
 
 ##### Competencias
 
+**Armas:** Arco, ballesta ligera, espadas duales, repetidoras duales  
 **Armadura:** Armadura ligera, armadura media, escudos  
-**Armas:** Arcos largos, Arcos cortos, Espadas duales  
 **Herramientas:** Ninguno  
 **Guardando lanzamientos:** Fuerza, Destreza  
 **Habilidades:** Elija tres entre Manejo de animales, Atletismo, Perspectiva, Investigación, Naturaleza, Percepción, Sigilo y Supervivencia

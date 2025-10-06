@@ -34,8 +34,8 @@ Como druida, obtienes las siguientes características de clase.
 
 ##### Competencias
 
+**Armas:** glaive insecto, bumerán wyveriano, bastón de magus
 **Armadura:** Armadura ligera, armadura media, escudos (los druidas no usarán armadura ni usarán escudos hechos de metal)  
-**Armas:** Mazas, dagas, dardos, jabalinas, mazas, bastones, cimitarras, hoces, hondas, lanzas  
 **Herramientas:** Kit de herboristería  
 **Guardando lanzamientos:** Inteligencia, Sabiduría  
 **Habilidades:** Elija dos entre Arcanos, Manejo de animales, Perspectiva, Medicina, Naturaleza, Percepción, Religión y Supervivencia

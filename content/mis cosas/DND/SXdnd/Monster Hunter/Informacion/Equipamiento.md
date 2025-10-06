@@ -28,7 +28,7 @@ En el universo de Monster Hunter, la armadura se compone de todas las armaduras 
 #### Rareza
 En Monster Hunter, existen 5 rarezas de armadura: común, poco común, rara, muy rara y legendaria. Cada rareza tiene un número de ranuras que el cazador puede usar para colocar materiales de monstruos. Estos materiales encantan su armadura con efectos mágicos.
 
-Cuando la rareza de tu armadura aumenta a rara o superior, elige una de las siguientes propiedades: +1 a tu CA, +1 a dos habilidades a tu elección, +1 a una tirada de salvación elegida o +1 a todas las tiradas de salvación en las que no seas competente. Puedes elegir la misma bonificación cada vez que aumente la rareza de tu armadura o una diferente si así lo prefieres.
+Cuando la rareza de tu armadura aumenta a rara o superior, elige una de las siguientes propiedades: +1 a tu CA, +3 a una habilidad a tu elección, +1 a una tirada de salvación elegida o +1 a todas las tiradas de salvación en las que no seas competente. Puedes elegir la misma bonificación cada vez que aumente la rareza de tu armadura o una diferente si así lo prefieres.
 
 | rareza     | Ranuras   |
 | ---------- | --------- |

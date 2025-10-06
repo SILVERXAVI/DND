@@ -38,8 +38,9 @@ Como hechicero, obtienes las siguientes características de clase.
 
 ##### Competencias
 
+**Armas:** Gran Chakram, púa magnética, bastón de magus
 **Armadura:** Ninguno  
-**Armas:** Dagas, dardos, hondas, bastones, ballestas ligeras  
+  
 **Herramientas:** Ninguno  
 **Sav****ing Lanzamientos:** Constitución, Carisma  
 **Habilidades:** Elija dos entre Arcanos, Engaño, Perspicacia, Intimidación, Persuasión y Religión

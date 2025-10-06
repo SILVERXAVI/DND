@@ -1,4 +1,6 @@
 nombre: ???
+
+a ruben le tiene qeu infectar la rabia un khezu
 ![[Pasted image 20250929194206.png]]
 ### Personalidad
 

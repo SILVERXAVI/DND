@@ -39,7 +39,7 @@ Como brujo, obtienes las siguientes características de clase.
 ##### Competencias
 
 **Armadura:** Armadura ligera  
-**Armas:** Armas simples  
+**Armas:** Estoque astillado, bastón de magus, Púa magnética
 **Herramientas:** Ninguno  
 **Guardando lanzamientos:** Sabiduría, Carisma  
 **Habilidades:** Elija dos entre Arcanos, Engaño, Historia, Intimidación, Investigación, Naturaleza y Religión

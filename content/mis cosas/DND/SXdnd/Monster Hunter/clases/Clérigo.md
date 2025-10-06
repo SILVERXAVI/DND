@@ -39,8 +39,8 @@ Como clérigo, obtienes las siguientes características de clase.
 
 ##### Competencias
 
-**Armadura:** Armadura ligera, armadura media, escudos  
-**Armas:** Todas las armas simples  
+**Armas:** martillo, espada y escudo, hacha cargada, lanza
+**Armadura:** Armadura ligera, armadura media, escudos    
 **Herramientas:** Ninguno  
 **Guardando lanzamientos:** Sabiduría, Carisma  
 **Habilidades:** Elija dos entre Historia, Perspicacia, Medicina, Persuasión y Religión

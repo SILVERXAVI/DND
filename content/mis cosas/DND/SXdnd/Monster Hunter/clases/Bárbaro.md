@@ -26,8 +26,8 @@
 
 Como bárbaro, obtienes las siguientes características de clase.
 ##### Competencias
-**Armas:** Armas simples, armas marciales
-**Armadura:** Armadura ligera, armadura media, escudos  
+**Armas:** martillo, hacha acelerada, puños explosivos, gran espada
+**Armadura:** Armadura ligera, armadura media  
 **Herramientas:** Ninguno  
 **lanzamientos:** Fuerza, Constitución  
 **Habilidades:** Elija dos entre Manejo de animales, Atletismo, Intimidación, Naturaleza, Percepción y Supervivencia

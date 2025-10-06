@@ -39,7 +39,7 @@ Como bardo, obtienes las siguientes características de clase.
 ##### Competencias
 
 **Armadura:** Armadura ligera  
-**Armas:** Armas simples, ballestas de mano, espadas largas, estoques, espadas cortas  
+**Armas:** Cornamusa, espada y escudo, gran chakram 
 **Herramientas:** Tres instrumentos musicales de tu elección  
 **Guardando lanzamientos:** Destreza, Carisma  
 **Habilidades:** Elija tres

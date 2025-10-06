@@ -1,5 +1,5 @@
 **NPC**
-- [[bhaal (la marioneta de la shogun)]]
+- [[lamar ioneta]]
 
 
 

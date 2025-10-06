@@ -27,7 +27,7 @@
 
 Como luchador, obtienes las siguientes características de clase.
 ##### Competencias
-**Armas:** Armas simples, armas marciales
+**Armas:** gran espada, hacha cargada, lanza pistola, espada y escudo, hacha espada
 **Armadura:** Todas las armaduras  
 **Herramientas:** Ninguno  
 **Guardando lanzamientos:** Fuerza, Constitución  

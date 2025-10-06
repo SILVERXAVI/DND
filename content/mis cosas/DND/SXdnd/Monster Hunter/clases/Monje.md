@@ -29,7 +29,7 @@ Como monje, obtienes las siguientes características de clase.
 ##### Competencias
 
 **Armadura:** Ninguno  
-**Armas:** Armas simples, espadas cortas  
+**Armas:** tonfas, puños de alambre, puños explosivos
 **Herramientas:** Elija un tipo de herramientas artesanales o un instrumento musical  
 **Guardando lanzamientos:** Fuerza, Destreza  
 **Habilidades:** Elija dos entre Acrobacia, Atletismo, Historia, Perspectiva, Religión y Sigilo
