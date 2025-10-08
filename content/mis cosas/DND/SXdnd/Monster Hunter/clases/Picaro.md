@@ -32,7 +32,7 @@ Como pícaro, obtienes las siguientes características de clase.
 ##### Competencias
 
 **Armadura:** Armadura ligera  
-**Armas:** espadas duales, espadas largas, gran chakram, bumerán Wyveriano  
+**Armas:** [[espadas duales]], [[Estoque Astillado]], [[gran chakram]], [[Arco]]  
 **Herramientas:** Herramientas de ladrones  
 **Guardando lanzamientos:** Destreza, Inteligencia  
 **Habilidades:** Elija cuatro entre Acrobacia, Atletismo, Engaño, Perspectiva, Intimidación, Investigación, Percepción, Rendimiento, Persuasión, Juego de manos y Sigilo

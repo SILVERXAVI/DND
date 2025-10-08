@@ -34,8 +34,8 @@ Como asistente, obtienes las siguientes características de clase.
 
 ##### Competencias
 
+**Armas:** [[glavie insecto]], [[púa magnética]], [[bastón de magus]], [[tonfas]]
 **Armadura:** Ninguno  
-**Armas:** glaive insecto, púa magnética, bastón de magus
 **Herramientas:** Ninguno  
 **Guardando lanzamientos:** Inteligencia, Sabiduría  
 **Habilidades:** Elija dos entre Arcanos, Historia, Perspectiva, Investigación, Medicina y Religión

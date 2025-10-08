@@ -2,13 +2,13 @@
 
 **_Eliges la especie de tu cliente o la determinas al azar, utilizando la tabla Genie Kind._**
 
-|Genie amable|
-|---|---|---|
-|d4|Amable|Elemento|
-|1|dao|Tierra|
-|2|Djinni|Aire|
-|3|Efreeti|Fuego|
-|4|Marid|Agua|
+| Genie amable |         |          |
+| ------------ | ------- | -------- |
+| d4           | Amable  | Elemento |
+| 1            | dao     | Tierra   |
+| 2            | Djinni  | Aire     |
+| 3            | Efreeti | Fuego    |
+| 4            | Marid   | Agua     |
 
 Fuente: Caldero de todo de Tasha
 
@@ -24,7 +24,7 @@ En el primer nivel, el Genio te permite elegir entre una lista ampliada de hechi
 | 3o                          | [Crea comida y agua](http://dnd5e.wikidot.com/spell:create-food-and-water)       | [Fusionar en piedra](http://dnd5e.wikidot.com/spell:meld-into-stone) | [Muro de viento](http://dnd5e.wikidot.com/spell:wind-wall)                 | [Bola de fuego](http://dnd5e.wikidot.com/spell:fireball)        | [Tormenta de aguanieve](http://dnd5e.wikidot.com/spell:sleet-storm) |
 | 4to                         | [Asesino fantasmal](http://dnd5e.wikidot.com/spell:phantasmal-killer)            | [Forma de piedra](http://dnd5e.wikidot.com/spell:stone-shape)        | [Mayor invisibilidad](http://dnd5e.wikidot.com/spell:greater-invisibility) | [Escudo de fuego](http://dnd5e.wikidot.com/spell:fire-shield)   | [Controlar el agua](http://dnd5e.wikidot.com/spell:control-water)   |
 | 5to                         | [Creación](http://dnd5e.wikidot.com/spell:creation)                              | [Muro de piedra](http://dnd5e.wikidot.com/spell:wall-of-stone)       | [Pareciendo](http://dnd5e.wikidot.com/spell:seeming)                       | [Golpe de llama](http://dnd5e.wikidot.com/spell:flame-strike)   | [Cono de frío](http://dnd5e.wikidot.com/spell:cone-of-cold)         |
-| 9no                         | [Deseo](http://dnd5e.wikidot.com/spell:wish)                                     | —                                                                    | —                                                                          | —                                                               | —                                                                   |
+
 
 ### El barco del genio
 

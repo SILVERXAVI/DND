@@ -29,7 +29,7 @@
 
 Como artífice, obtienes las siguientes características de clase.
 ##### Competencias
-**Armas:** Repetidoras Duales, Ballesta pesada, lanza pistola
+**Armas:** [[Repetidoras Duales]], [[Ballesta pesada]], [[lanza pistola]], [[ballesta ligera]]
 **Armadura:** Armadura ligera, armadura media  
 **Herramientas:** Herramientas ladrón, herramientas de calderero, un tipo de herramientas artesanales de tu elección  
 **lanzamientos:** Constitución, Inteligencia  

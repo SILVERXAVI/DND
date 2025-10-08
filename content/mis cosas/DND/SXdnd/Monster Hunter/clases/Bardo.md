@@ -29,17 +29,10 @@ _Debes tener una puntuación de Carisma de 13 o superior para poder realizar mú
 # Características de la clase
 
 Como bardo, obtienes las siguientes características de clase.
-
-##### Puntos de vida
-
-**Loviți Dice:** 1d8 por nivel de bardo  
-**Puntos de vida en el 1er nivel:** 8 + tu modificador de Constitución  
-**Puntos de vida en niveles superiores:** 1d8 (o 5) + su modificador de Constitución por nivel de bardo después del 1er
-
 ##### Competencias
 
+**Armas:** [[Cornamusa]], [[espada y escudo]], [[gran chakram]], [[estoque astillado]]
 **Armadura:** Armadura ligera  
-**Armas:** Cornamusa, espada y escudo, gran chakram 
 **Herramientas:** Tres instrumentos musicales de tu elección  
 **Guardando lanzamientos:** Destreza, Carisma  
 **Habilidades:** Elija tres

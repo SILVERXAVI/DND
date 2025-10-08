@@ -29,18 +29,10 @@ _Debes tener una puntuación de Carisma de 13 o superior para poder realizar mú
 # Características de la clase
 
 Como hechicero, obtienes las siguientes características de clase.
-
-##### Puntos de vida
-
-**Loviți Dice:** 1d6 por nivel de hechicero  
-**Puntos de vida en el 1er nivel:** 6 + tu modificador de Constitución  
-**Puntos de vida en niveles superiores:** 1d6 (o 4) + su modificador de Constitución por nivel de hechicero después del 1er
-
 ##### Competencias
 
-**Armas:** Gran Chakram, púa magnética, bastón de magus
+**Armas:** [[Gran Chakram]], [[púa magnética]], [[bastón de magus]], [[puños alambre]]
 **Armadura:** Ninguno  
-  
 **Herramientas:** Ninguno  
 **Sav****ing Lanzamientos:** Constitución, Carisma  
 **Habilidades:** Elija dos entre Arcanos, Engaño, Perspicacia, Intimidación, Persuasión y Religión

@@ -1,6 +1,5 @@
-**_Los magos de Lorehold están particularmente preocupados por las fuerzas que subyacen e impulsan la historia. Inspirándose en los eruditos y aventureros de la antigüedad, manifiestan el poder arcano del pasado a través de dioramas etéreos y fantásticas destrezas de batalla. Los magos de la tradición a menudo se encuentran con un espíritu muerto hace mucho tiempo convocado a su lado—, ¿de quién es mejor aprender la historia antigua que uno que la ha experimentado de primera mano?_**
+**_Los magos de Lorehold están particularmente preocupados por las fuerzas que subyacen e impulsan la historia. Inspirándose en los eruditos y aventureros de la antigüedad, manifiestan el poder arcano del pasado a través del poder de las palabras. Canalizan la magia de las luces y las sombras a través de palabras, ya sean habladas en voz alta, escritas o firmadas mediante gestos. Los magos de la tradición a menudo se encuentran con un espíritu muerto hace mucho tiempo convocado a su lado—, ¿de quién es mejor aprender la historia antigua que uno que la ha experimentado de primera mano?_**
 
-Fuente: Arcanos desenterrados 79 - Magos de Strixhaven  
 Clases: [[Bardo]], [[Brujo]], [[Mago]]
 ### Usando esta subclase
 

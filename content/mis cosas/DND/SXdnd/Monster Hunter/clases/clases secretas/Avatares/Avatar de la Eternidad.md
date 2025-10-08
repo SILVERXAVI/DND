@@ -1,6 +1,6 @@
 **El Avatar de la Eternidad es un ser tocado por la Eternidad, un guerrero capaz de blandir espada y relámpago con la misma maestría. Forjado entre el deber y la fuerza, este héroe canaliza la energía de tormentas y controla el flujo de la batalla como un semidiós en el campo de combate. Mientras combina ataques cuerpo a cuerpo con control de energía eléctrica y habilidades mágicas. Protege a sus aliados mientras destruye a sus enemigos al mismo tiempo, capaz de castigar enemigos y resurgir más fuerte cuando la batalla parece perdida.**
 
-Se desbloquea al conseguir lv 10 de [[Heraldo de la Tempestad]] y lv 5 de [[Samurái]]
+Se desbloquea al conseguir lv 10 de [[Heraldo de la Electricidad]] y lv 5 de [[Samurái]]
 
 | Nivel | vida | Rasgos de Clase         | lv 1 | lv 2 | lv 3 | lv 4 | lv 5 |
 | ----- | ---- | ----------------------- | ---- | ---- | ---- | ---- | ---- |

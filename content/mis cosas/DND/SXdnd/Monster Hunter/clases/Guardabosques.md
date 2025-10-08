@@ -32,7 +32,7 @@ Como guardabosques, obtienes las siguientes características de clase.
 
 ##### Competencias
 
-**Armas:** Arco, ballesta ligera, espadas duales, repetidoras duales  
+**Armas:** [[Arco]], [[espadas duales]], [[repetidoras duales]], [[Bumerán wyveranio]]
 **Armadura:** Armadura ligera, armadura media, escudos  
 **Herramientas:** Ninguno  
 **Guardando lanzamientos:** Fuerza, Destreza  

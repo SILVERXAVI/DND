@@ -69,7 +69,7 @@ Competencia compatible: Garrote, Mayal, Hacha de mano, Martillo ligero, Maza, Ba
 Arma cuerpo a cuerpo marcial
 Compatible con espada larga, estoque y espada corta
 
-18. **[[puños de Alambre]]**
+18. **[[puños Alambre]]**
 Arma cuerpo a cuerpo simple
 Competencia compatible: Cualquiera
 

@@ -144,7 +144,7 @@ Competencia compatible: Garrote, Mayal, Hacha de mano, Martillo ligero, Maza, Ba
 Arma cuerpo a cuerpo marcial
 Compatible con espada larga, estoque y espada corta
 
-18. **[[puños de Alambre]]**
+18. **[[puños Alambre]]**
 Arma cuerpo a cuerpo simple
 Competencia compatible: Cualquiera
 
@@ -233,7 +233,7 @@ Puedes encontrar muchos materiales al cazar monstruos. Estos materiales cosméti
 | [[Hacha Espada]]       | 30 gp | Varies, see Appendix B. | —            | 7 lb.  | heavy, two-handed                                                |
 | [[Espada y Escudo]]    | 20 gp | 1d6 slashing            | +2           | 8 lb.  | finesse, light                                                   |
 | [[Tonfas]]             | 25 gp | 1d6 bludgeoning         | —            | 6 lb.  | light, comes with a main & offhand weapon                        |
-| [[puños de Alambre]]   | 30 gp | 1d4 bludgeoning         | —            | 2 lb.  | light, comes with a main & offhand weapon                        |
+| [[puños Alambre]]   | 30 gp | 1d4 bludgeoning         | —            | 2 lb.  | light, comes with a main & offhand weapon                        |
 | [[Puños Explosivos]]   | 30 gp | 1d6 contundente         | —            | 5 lb   | light, comes with a main & offhand weapon                        |
 | [[Bumerán wyveranio]]  | 40 gp | 1d10 slashing           | —            | 8 lb.  | two-handed, thrown (60/180)                                      |
 | [[Arco]]               | 24 gp | 1d8 piercing            | —            | 2 lb.  | ammunition (range 150/600), two-handed                           |

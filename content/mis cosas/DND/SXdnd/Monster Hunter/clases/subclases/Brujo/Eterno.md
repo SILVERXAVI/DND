@@ -8,14 +8,14 @@ Fuente: Guía del aventurero de Sword Coast
 
 The Undying te permite elegir entre una lista ampliada de hechizos cuando aprendes un hechizo de brujo. Los siguientes hechizos se agregan a la lista de hechizos de brujo para usted.
 
-|Hechizos expandidos eternos|   |
-|---|---|
-|Nivel de hechizo|Hechizos|
-|1o|[Vida falsa](http://dnd5e.wikidot.com/spell:false-life), [Rayo de enfermedad](http://dnd5e.wikidot.com/spell:ray-of-sickness)|
-|2do|[Ceguera/Sordera](http://dnd5e.wikidot.com/spell:blindness-deafness), [Silencio](http://dnd5e.wikidot.com/spell:silence)|
-|3o|[Fingir muerte](http://dnd5e.wikidot.com/spell:feign-death), [Habla con los muertos](http://dnd5e.wikidot.com/spell:speak-with-dead)|
-|4to|[Aura de vida](http://dnd5e.wikidot.com/spell:aura-of-life), [Sala de muerte](http://dnd5e.wikidot.com/spell:death-ward)|
-|5to|[Contagio](http://dnd5e.wikidot.com/spell:contagion), [Historia de la leyenda](http://dnd5e.wikidot.com/spell:legend-lore)|
+| Hechizos expandidos eternos |                                                                                                                                      |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Nivel de hechizo            | Hechizos                                                                                                                             |
+| 1o                          | [Vida falsa](http://dnd5e.wikidot.com/spell:false-life), [Rayo de enfermedad](http://dnd5e.wikidot.com/spell:ray-of-sickness)        |
+| 2do                         | [Ceguera/Sordera](http://dnd5e.wikidot.com/spell:blindness-deafness), [Silencio](http://dnd5e.wikidot.com/spell:silence)             |
+| 3o                          | [Fingir muerte](http://dnd5e.wikidot.com/spell:feign-death), [Habla con los muertos](http://dnd5e.wikidot.com/spell:speak-with-dead) |
+| 4to                         | [Aura de vida](http://dnd5e.wikidot.com/spell:aura-of-life), [Sala de muerte](http://dnd5e.wikidot.com/spell:death-ward)             |
+| 5to                         | [Contagio](http://dnd5e.wikidot.com/spell:contagion), [Historia de la leyenda](http://dnd5e.wikidot.com/spell:legend-lore)           |
 
 ### Entre los muertos
 

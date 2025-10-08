@@ -1,22 +1,19 @@
 **_Has hecho un pacto con un ser inmortal, una criatura que desafía el ciclo, la vida y la muerte, abandonando su caparazón mortal para poder perseguir eternamente sus insondables ambiciones. Para tales seres, el tiempo y la moralidad son cosas fugaces, las preocupaciones de aquellos para quienes los granos de arena todavía corren a través del reloj de arena de la vida. Habiendo sido ellos mismos mortales, estos antiguos muertos vivientes conocen de primera mano los caminos de la ambición y las rutas más allá de las puertas de la muerte. Comparten con entusiasmo este conocimiento profano, junto con otros secretos, con quienes trabajan su voluntad entre los vivos._**
 
-**_Los seres de este tipo incluyen al demilich Acererak, el tirano vampiro Kas el Maldito Manos, la reina githyanki lich Vlaakith, el dracolich Dragotha, el faraón no-muerto Ankhtepot y el esquivo Señor Oscuro, Azalin Rex._**
-
-Fuente: Guía de Ravenloft de Van Richten
 
 ### Lista de hechizos ampliada
 
 En el primer nivel, Undead te permite elegir entre una lista ampliada de hechizos cuando aprendes un hechizo de brujo. Los siguientes hechizos se agregan a la lista de hechizos de brujo para usted.
 
-|Hechizos expandidos no muertos|   |
-|---|---|
-|Nivel de hechizo|Hechizos|
-|1o|[Perdición](http://dnd5e.wikidot.com/spell:bane), [Vida falsa](http://dnd5e.wikidot.com/spell:false-life)|
-|2do|[Ceguera/Sordera](http://dnd5e.wikidot.com/spell:blindness-deafness), [Fuerza fantasma](http://dnd5e.wikidot.com/spell:phantasmal-force)|
-|3o|[Corcel fantasma](http://dnd5e.wikidot.com/spell:phantom-steed), [Habla con los muertos](http://dnd5e.wikidot.com/spell:speak-with-dead)|
-|4to|[Sala de muerte](http://dnd5e.wikidot.com/spell:death-ward), [Mayor invisibilidad](http://dnd5e.wikidot.com/spell:greater-invisibility)|
-|5to|[Concha antivida](http://dnd5e.wikidot.com/spell:antilife-shell), [Matanza de nubes](http://dnd5e.wikidot.com/spell:cloudkill)|
+**Hechizos expandidos no muertos**
 
+| Nivel de hechizo | Hechizos                                                                                                                                                                                                                                                   |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1o               | [Perdición](http://dnd5e.wikidot.com/spell:bane), [Vida falsa](http://dnd5e.wikidot.com/spell:false-life), [Rayo de enfermedad](http://dnd5e.wikidot.com/spell:ray-of-sickness)                                                                            |
+| 2do              | [Ceguera/Sordera](http://dnd5e.wikidot.com/spell:blindness-deafness), [Fuerza fantasma](http://dnd5e.wikidot.com/spell:phantasmal-force), [Silencio](http://dnd5e.wikidot.com/spell:silence)                                                               |
+| 3o               | [Corcel fantasma](http://dnd5e.wikidot.com/spell:phantom-steed), [Habla con los muertos](http://dnd5e.wikidot.com/spell:speak-with-dead),[Fingir muerte](http://dnd5e.wikidot.com/spell:feign-death)                                                       |
+| 4to              | [Sala de muerte](http://dnd5e.wikidot.com/spell:death-ward), [Mayor invisibilidad](http://dnd5e.wikidot.com/spell:greater-invisibility),[Aura de vida](http://dnd5e.wikidot.com/spell:aura-of-life)                                                        |
+| 5to              | [Concha antivida](http://dnd5e.wikidot.com/spell:antilife-shell), [Matanza de nubes](http://dnd5e.wikidot.com/spell:cloudkill), [Contagio](http://dnd5e.wikidot.com/spell:contagion), [Historia de la leyenda](http://dnd5e.wikidot.com/spell:legend-lore) |
 ### Forma de pavor
 
 En el primer nivel, manifiestas un aspecto del terrible poder de tu patrón. Como acción extra, te transformas durante 1 minuto. Obtienes los siguientes beneficios mientras estás transformado:
@@ -35,7 +32,7 @@ La apariencia de tu Forma de Terror refleja algún aspecto de tu patrón. Por ej
 
 En el sexto nivel, los poderes de tu patrón tienen un profundo efecto en tu cuerpo y magia. No necesitas comer, beber ni respirar.
 
-Además, una vez durante cada uno de tus turnos, cuando golpeas a una criatura con un ataque y haces rodar daño contra la criatura, puedes reemplazar el tipo de daño con daño necrótico. Mientras usa su Form of Dread, puede lanzar un dado de daño adicional al determinar el daño necrótico que recibe el objetivo.
+Además, una vez durante cada uno de tus turnos, cuando golpeas a una criatura con un ataque y haces rodar daño contra la criatura, puedes reemplazar el tipo de daño con daño necrótico. Mientras usa su Forma de pavor, puede lanzar un dado de daño adicional al determinar el daño necrótico que recibe el objetivo.
 
 ### Cáscara necrótica
 
@@ -60,3 +57,9 @@ Mientras proyectas tu espíritu, obtienes los siguientes beneficios:
 - Mientras usas tu Form of Dread, una vez durante cada uno de tus turnos, cuando infliges daño necrótico a una criatura, recuperas puntos de vida equivalentes a la mitad de la cantidad de daño necrótico infligido.
 
 Una vez que utilices esta función, no podrás volver a hacerlo hasta que termines un largo descanso.
+
+### Vida indestructible
+
+Cuando llegas al nivel 18, participas de algunos de los verdaderos secretos de los Eternos. En tu turno, puedes usar una acción de bonificación para recuperar puntos de vida iguales a 1d8 + tu nivel de brujo. Además, si vuelves a colocar una parte del cuerpo cortada cuando usas esta función, la parte se vuelve a unir.
+
+Una vez que utilice esta función, no podrá volver a utilizarla hasta que termine un descanso corto o largo.

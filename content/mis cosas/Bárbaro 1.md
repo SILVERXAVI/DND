@@ -56,12 +56,12 @@ En el tercer nivel, eliges un camino que da forma a la naturaleza de tu ira. Su 
 
 | Camino                        |
 | ----------------------------- |
-| [[Guardián Ancestral]]        |
+| [[Fanático Ancestral]]        |
 | [[Battlerager]] (solo enanos) |
 | [[Corazon Salvaje]]          |
 | [[Berserker]]                 |
 | [[Gigante]]                   |
-| [[Heraldo de la tormenta]]    |
+| [[guerrero de la tormenta]]    |
 | [[Guerrero tótem]]            |
 | [[Magia Salvaje (barbaro)]]             |
 | [[Fanático]]                  |

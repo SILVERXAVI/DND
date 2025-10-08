@@ -26,7 +26,7 @@
 
 Como bárbaro, obtienes las siguientes características de clase.
 ##### Competencias
-**Armas:** martillo, hacha acelerada, puños explosivos, gran espada
+**Armas:** [[martillo]], [[hacha acelerada]],[[ puños explosivos]], [[gran espada]]
 **Armadura:** Armadura ligera, armadura media  
 **Herramientas:** Ninguno  
 **lanzamientos:** Fuerza, Constitución  
@@ -58,17 +58,16 @@ En el segundo nivel, obtienes una extraña sensación de cuando las cosas cercan
 ##### Camino Primordial
 En el tercer nivel, eliges un camino que da forma a la naturaleza de tu ira. Su elección le otorga funciones en el tercer nivel y nuevamente en los niveles 6, 10 y 14.
 
-| Camino                        |                             |
-| ----------------------------- | --------------------------- |
-| [[Guardián Ancestral]]        | [[Berserker]]               |
-| [[Battlerager]] (solo enanos) | [[Gigante]]                 |
-| [[Corazon Salvaje]]           | [[Magia Salvaje (barbaro)]] |
-| [[Berserker]]                 | [[Corazon Salvaje]]         |
-| [[Gigante]]                   |                             |
-| [[Heraldo de la tormenta]]    |                             |
-| [[Guerrero tótem]]            |                             |
-| [[Magia Salvaje (barbaro)]]   |                             |
-| [[Fanático]]                  |                             |
+| Camino                      |
+| --------------------------- |
+| [[Corazon Salvaje]]         |
+| [[Berserker]]               |
+| [[Gigante]]                 |
+| [[Magia Salvaje (barbaro)]] |
+| [[guerrero de la tormenta]] |
+| [[Fanático Ancestral]]      |
+
+
 ##### Ataque imprudente
 A partir del segundo nivel, puedes dejar de lado toda preocupación por la defensa para atacar con feroz desesperación. Cuando realizas tu primer ataque en tu turno, puedes decidir atacar imprudentemente. Hacerlo te da ventaja en las tiradas de ataque con armas cuerpo a cuerpo usando Fuerza durante este turno, pero las tiradas de ataque en tu contra tienen ventaja hasta el siguiente turno.
 ##### Ataque extra

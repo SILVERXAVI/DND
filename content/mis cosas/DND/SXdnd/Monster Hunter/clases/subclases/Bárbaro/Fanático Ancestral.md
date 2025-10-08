@@ -1,9 +1,10 @@
 **Algunos bárbaros provienen de culturas que veneran a sus antepasados. Estas tribus enseñan que los guerreros del pasado permanecen en el mundo como espíritus poderosos, que pueden guiar y proteger a los vivos. Cuando un bárbaro que sigue este camino se enfurece, el bárbaro contacta al mundo de los espíritus y pide ayuda a estos espíritus guardianes.**
 
 **_Los bárbaros que recurren a sus guardianes ancestrales pueden luchar mejor para proteger a sus tribus y sus aliados. Para cimentar los lazos con sus guardianes ancestrales, los bárbaros que siguen este camino se cubren con elaborados tatuajes que celebran las hazañas de sus antepasados’. Estos tatuajes cuentan sagas de victorias contra terribles monstruos y otros temibles rivales._**
-### Protectores Ancestrales
 
-Comenzando cuando eliges este camino en el tercer nivel, aparecen guerreros espectrales cuando entras en tu ira. Mientras estás furioso, la primera criatura a la que golpeas con un ataque a tu turno se convierte en el objetivo de los guerreros, que obstaculizan sus ataques. Hasta el comienzo de tu siguiente turno, ese objetivo tiene desventaja en cualquier tirada de ataque que no esté en tu contra, y cuando el objetivo golpea a una criatura que no sea tú con un ataque, esa criatura tiene resistencia al daño infligido por el ataque. El efecto sobre el objetivo termina temprano si tu ira termina.
+### Furia Ancestral
+
+Comenzando cuando eliges este camino en el tercer nivel, , puedes canalizar la furia divina en los golpes de tus armas. Mientras estás furioso, la primera criatura que golpees en cada uno de tus turnos con un ataque con arma recibe un daño adicional equivalente a 1d6 + la mitad de tu nivel bárbaro. El daño adicional es necrótico, además cuando golpeas por primera vez en combate aparecen guerreros espectrales cuando entras en tu ira. Mientras estás furioso, la primera criatura a la que golpeas con un ataque a tu turno se convierte en el objetivo de los guerreros, que obstaculizan sus ataques. Hasta el comienzo de tu siguiente turno, ese objetivo tiene desventaja en cualquier tirada de ataque que no esté en tu contra, y cuando el objetivo golpea a una criatura que no sea tú con un ataque, esa criatura tiene resistencia al daño infligido por el ataque. El efecto sobre el objetivo termina temprano si tu ira termina.
 
 ### Escudo espiritual
 

@@ -1,11 +1,15 @@
-**Los Heraldo de la Tempestad son guerreros que encarnan la furia y la majestuosidad de la tormenta. No son solo luchadores ni meros magos: son la fusión perfecta entre espada y rayo, uniendo disciplina marcial con un poder eléctrico que parece provenir de un dios mismo.**
+básate en esto para hacer una clase personalizada:
+
+sabiendo que se basa en una combinacion de hechicera (dominó del agua) y guerrero (estilo de esgrima elegante)
+# Heraldo de la Electricidad
+**Los Heraldo de la Electricidad son guerreros que encarnan la furia y la majestuosidad de la tormenta. No son solo luchadores ni meros magos: son la fusión perfecta entre espada y rayo, uniendo disciplina marcial con un poder eléctrico que parece provenir de un dios mismo.**
 
 **Estos héroes canalizan la electricidad a través de su cuerpo y sus armas, creando un halo de energía chispeante alrededor de ellos. Sus pasos retumban como truenos, sus ataques cortan el aire y liberan descargas que pueden atravesar filas de enemigos. Su entrenamiento combina fuerza, agilidad y control mágico. Pueden levitar brevemente, teletransportarse como un destello eléctrico, o generar una aura de tormenta que daña a quienes se atreven a acercarse. Al alcanzar la maestría, un Heraldo de la Tempestad puede transformarse en una tempestad viviente, volando entre relámpagos, golpeando con su espada mientras cada enemigo cercano recibe la furia de la tormenta.**
 
 **Los Heraldo de la Tempestad son respetados y temidos: algunos son guardianes de antiguas deidades, otros aventureros que buscan desatar su poder y proteger a los inocentes. Dondequiera que haya tormenta, dondequiera que haya un rayo cruzando el cielo, allí podría estar un Heraldo, implacable y magnífico, llevando la electricidad como su arma y su sello.**
 
 
-Se desbloquea al conseguir lv 5 en paladin de la [[Venganza]] y level 5 en hechicero de la [[Hechicería de tormenta]]
+
 
 | Nivel | vida | Rasgos de Clase          | lv 1 | lv 2 | lv 3 | lv 4 | lv 5 |
 | ----- | ---- | ------------------------ | ---- | ---- | ---- | ---- | ---- |
@@ -44,9 +48,7 @@ Como Heraldo de la Tempestad, obtienes las siguientes características de clase.
 ---
 
 ## Progresión de Magia
-
-- Usa **la progresión de un paladín** (semicaster).
-    
+   
 - Lista de conjuros: ⚡eléctricos, trueno, control, invocación espiritual, movilidad mágica.
     
 - Ejemplo: _Thunderwave, Witch Bolt, Shatter, Lightning Bolt, Storm Sphere, Destructive Wave_.
@@ -72,27 +74,12 @@ Ganas acceso a conjuros como un paladín. Tu lista se centra en electricidad, tr
 ---
 
 ### **Nivel 3 – Sendero del Heraldo**
+obtienes los siguientes veneficios:
+   - puedes usar [[Llamar al relámpago]] hasta 2 veces por descanso largo
 
-Escoge tu estilo de tormenta (subclases internas):
+   - Puedes colocar hasta 3 **Símbolos de Tormenta** que cada turno lanzan rayos automáticos.
 
-1. **Avatar del Relámpago (Raiden Shogun)** – Combinas espada y magia en ataques definitivos.
-    
-    - Invocas una **Espada Relámpago** que potencia tus ataques (similar a un _Smite_ de rayo).
-        
-    - Acción definitiva: liberas una descarga que inflige daño eléctrico en área y restaura puntos de magia (referencia a su ulti).
-        
-2. **Sacerdote de Kitsune (Yae Miko)** – Usas tótems y símbolos mágicos.
-    
-    - Puedes colocar hasta 3 **Símbolos de Tormenta** que cada turno lanzan rayos automáticos.
-        
-    - Tu magia gana un estilo más de invocador.
-        
-3. **Escudo de la Tormenta (Trailblazer)** – Mezclas defensa con golpes eléctricos.
-    
-    - Ganas **resistencia a trueno y rayo**.
-        
-    - Puedes desviar parte del daño a un aura protectora de tormenta que daña a los que te atacan.
-        
+   - Ganas **resistencia a trueno y rayo**.
 
 ---
 
@@ -135,4 +122,4 @@ Una vez por descanso largo, puedes invocar tu forma de **Avatar de la Tormenta*
     
 - Al inicio de tu turno, puedes elegir hasta 2 enemigos que reciban un rayo automático de 4d8.
     
-- Aura de 6 m que inflige 2d8 eléctrico a enemigos hostiles al inicio de sus turnos.
+- Aura de 6 m que inflige 2d8 eléctrico a enemigo

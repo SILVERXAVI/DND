@@ -3,43 +3,38 @@
 _Debes tener una puntuación de Carisma de 13 o superior para poder realizar múltiples clases dentro o fuera de esta clase._
 
 
-| Nivel | vida | Características                                                          | Cantrips conocidos | Hechizos conocidos | Tragamonedas de hechizos | Nivel de ranura | Invocaciones conocidas |
-| ----- | ---- | ------------------------------------------------------------------------ | ------------------ | ------------------ | ------------------------ | --------------- | ---------------------- |
-| 1o    |      | Patrón de otro mundo, Pact Magic                                         | 2                  | 2                  | 1                        | 1o              | -                      |
-| 2do   |      | Invocaciones sobrenaturales                                              | 2                  | 3                  | 2                        | 1o              | 2                      |
-| 3o    |      | Pacto Bendición                                                          | 2                  | 4                  | 2                        | 2do             | 2                      |
-| 4to   |      | Mejora de la puntuación de habilidad, _Versatilidad Eldritch (opcional)_ | 3                  | 5                  | 2                        | 2do             | 2                      |
-| 5to   |      |                                                                          | 3                  | 6                  | 2                        | 3o              | 3                      |
-| 6to   |      | Característica del patrón de otro mundo                                  | 3                  | 7                  | 2                        | 3o              | 3                      |
-| 7mo   |      |                                                                          | 3                  | 8                  | 2                        | 4to             | 4                      |
-| 8vo   |      | Mejora de la puntuación de habilidad, _Versatilidad Eldritch (opcional)_ | 3                  | 9                  | 2                        | 4to             | 4                      |
-| 9no   |      |                                                                          | 3                  | 10                 | 2                        | 5to             | 5                      |
-| 10o   |      | Característica del patrón de otro mundo                                  | 4                  | 10                 | 2                        | 5to             | 5                      |
-| 11    |      | Arcano Místico (sexto nivel)                                             | 4                  | 11                 | 3                        | 5to             | 5                      |
-| 12    |      | Mejora de la puntuación de habilidad, _Versatilidad Eldritch (opcional)_ | 4                  | 11                 | 3                        | 5to             | 6                      |
-| 13    |      | Arcano Místico (séptimo nivel)                                           | 4                  | 12                 | 3                        | 5to             | 6                      |
-| 14    |      | Característica del patrón de otro mundo                                  | 4                  | 12                 | 3                        | 5to             | 6                      |
-| 15    |      | Arcano Místico (8vo nivel)                                               | 4                  | 13                 | 3                        | 5to             | 7                      |
-| 16    |      | Mejora de la puntuación de habilidad, _Versatilidad Eldritch (opcional)_ | 4                  | 13                 | 3                        | 5to             | 7                      |
-| 17    |      | Arcano Místico (nivel 9)                                                 | 4                  | 14                 | 4                        | 5to             | 7                      |
-| 18    |      |                                                                          | 4                  | 14                 | 4                        | 5to             | 8                      |
-| 19    |      | Mejora de la puntuación de habilidad, _Versatilidad Eldritch (opcional)_ | 4                  | 15                 | 4                        | 5to             | 8                      |
-| 20    |      | Maestro sobrenatural                                                     | 4                  | 15                 | 4                        | 5to             | 8                      |
+| Nivel | vida | Características                         | Cantrips conocidos | Hechizos conocidos | Tragamonedas de hechizos | Nivel de ranura | Invocaciones conocidas |
+| ----- | ---- | --------------------------------------- | ------------------ | ------------------ | ------------------------ | --------------- | ---------------------- |
+| 1o    |      | Patrón de otro mundo, Pacto Magico      | 2                  | 2                  | 1                        | 1o              | -                      |
+| 2do   |      | Invocaciones sobrenaturales             | 2                  | 3                  | 2                        | 1o              | 2                      |
+| 3o    |      | Pacto Bendición                         | 2                  | 4                  | 2                        | 2do             | 2                      |
+| 4to   |      | Mejora de la puntuación de habilidad    | 3                  | 5                  | 2                        | 2do             | 2                      |
+| 5to   |      |                                         | 3                  | 6                  | 2                        | 3o              | 3                      |
+| 6to   |      | Característica del patrón de otro mundo | 3                  | 7                  | 2                        | 3o              | 3                      |
+| 7mo   |      |                                         | 3                  | 8                  | 2                        | 4to             | 4                      |
+| 8vo   |      | Mejora de la puntuación de habilidad    | 3                  | 9                  | 2                        | 4to             | 4                      |
+| 9no   |      |                                         | 3                  | 10                 | 2                        | 5to             | 5                      |
+| 10o   |      | Característica del patrón de otro mundo | 4                  | 10                 | 2                        | 5to             | 5                      |
+| 11    |      | Arcano Místico (sexto nivel)            | 4                  | 11                 | 3                        | 5to             | 5                      |
+| 12    |      | Mejora de la puntuación de habilidad    | 4                  | 11                 | 3                        | 5to             | 6                      |
+| 13    |      | Arcano Místico (séptimo nivel)          | 4                  | 12                 | 3                        | 5to             | 6                      |
+| 14    |      | Característica del patrón de otro mundo | 4                  | 12                 | 3                        | 5to             | 6                      |
+| 15    |      | Arcano Místico (8vo nivel)              | 4                  | 13                 | 3                        | 5to             | 7                      |
+| 16    |      | Mejora de la puntuación de habilidad    | 4                  | 13                 | 3                        | 5to             | 7                      |
+| 17    |      | Arcano Místico (nivel 9)                | 4                  | 14                 | 4                        | 5to             | 7                      |
+| 18    |      |                                         | 4                  | 14                 | 4                        | 5to             | 8                      |
+| 19    |      | Mejora de la puntuación de habilidad,   | 4                  | 15                 | 4                        | 5to             | 8                      |
+| 20    |      | Maestro sobrenatural                    | 4                  | 15                 | 4                        | 5to             | 8                      |
 
 # Características de la clase
 
+[[_Lista de hechizos de brujo]]
 Como brujo, obtienes las siguientes características de clase.
-
-##### Puntos de vida
-
-**Loviți Dice:** 1d8 por nivel de brujo  
-**Puntos de vida en el 1er nivel:** 8 + tu modificador de Constitución  
-**Puntos de vida en niveles superiores:** 1d8 (o 5) + su modificador de Constitución por nivel de brujo después del 1er
 
 ##### Competencias
 
 **Armadura:** Armadura ligera  
-**Armas:** Estoque astillado, bastón de magus, Púa magnética
+**Armas:** [[Estoque astillado]], [[bastón de magus]], [[glavie insecto]], [[espada larga]]
 **Herramientas:** Ninguno  
 **Guardando lanzamientos:** Sabiduría, Carisma  
 **Habilidades:** Elija dos entre Arcanos, Engaño, Historia, Intimidación, Investigación, Naturaleza y Religión
@@ -56,26 +51,27 @@ Comienza con el siguiente equipo, además del equipo otorgado por su experiencia
 
 En el primer nivel, has llegado a un acuerdo con un ser de otro mundo de tu elección. Tu elección te otorga funciones en el 1er nivel y nuevamente en los niveles 6, 10 y 14.
 
-| Patrón                             |                    |
-| ---------------------------------- | ------------------ |
-| [[Archfey]]                        | [[Archfey]]        |
-| [[Celestial]]                      | [[Gran viejo]]     |
-| [[Insondable]]                     | [[Hoja Hexagonal]] |
-| [[Demonio]]                        |                    |
-| [[genio]]                          |                    |
-| [[Gran viejo]]                     |                    |
-| [[Hoja Hexagonal]]                 |                    |
-| [[No-muertos]]                     |                    |
-| [[Eterno]]                         |                    |
-| [[Mago de Lorehold]]               | mago de silverhold |
-| [[Mago de Silverquill]]            |                    |
-| [[Mago de Witherbloom]]            |                    |
-| [[Fantasma en la máquina]]         |                    |
-| [[Acechador en las profundidades]] |                    |
-| [[Noble genio]]                    |                    |
-| [[Reina Cuervo]]                   |                    |
-| [[Buscador]]                       |                    |
-| [[Luz eterna]]                     |                    |
+|                            | Patrón                   |
+| -------------------------- | ------------------------ |
+|                            | [[Archfey]]              |
+|                            | [[Gran viejo]]           |
+|                            | [[Hoja Hexagonal]]       |
+|                            | [[Demonio]]              |
+|                            | [[Noble genio]]          |
+|                            | [[No-muerto Eterno]]     |
+|                            |                          |
+|                            | [[Mago de Witherbloom]]  |
+|                            | [[Reina Cuervo]]         |
+|                            | [[Acechador Insoldable]] |
+|                            |                          |
+| [[Mago de Lorehold]]       | mago de silverhold       |
+| [[Mago de Silverquill]]    |                          |
+|                            |                          |
+| [[Fantasma en la máquina]] | informante de la maquina |
+| [[Buscador]]               |                          |
+|                            |                          |
+| [[Luz eterna]]             | luz celestial            |
+| [[Celestial]]              |                          |
 
 
 
@@ -155,17 +151,6 @@ En el tercer nivel, tu patrón de otro mundo te otorga un regalo por tu leal ser
 
 Cuando llegas al cuarto nivel, y nuevamente en los niveles 8, 12, 16 y 19, puedes aumentar una puntuación de habilidad de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de habilidad superior a 20 usando esta función.
 
-### Versatilidad Eldritch (opcional)
-
-Siempre que alcances un nivel en esta clase que otorgue la función Mejora del puntaje de habilidad, puedes hacer uno de los siguientes, lo que representa un cambio de enfoque en tus estudios de ocultismo:
-
-- Reemplace un cantrip que aprendió de la función Pact Magic de esta clase con otro cantrip de la lista de hechizos de brujo.
-
-- Reemplace la opción que eligió para la función Pact Boon con una de las otras opciones de esa función.
-
-- Si estás en el nivel 12 o superior, reemplaza un hechizo de tu función Mystic Arcanum por otro hechizo de brujo del mismo nivel.
-
-Si este cambio lo hace no elegible para cualquiera de sus invocaciones de Eldritch, también debe reemplazarlas ahora, eligiendo invocaciones para las cuales califica.
 ### Arcano místico
 
 En el nivel 11, tu patrón te otorga un secreto mágico llamado arcano. Elija un hechizo de sexto nivel de la lista de hechizos de brujo como este arcano.

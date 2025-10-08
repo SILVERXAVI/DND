@@ -32,7 +32,7 @@ Como paladín, obtienes las siguientes características de clase.
 ##### Competencias
 
 **Armadura:** Todas las armaduras, escudos  
-**Armas:** gran espada, hacha cargada, lanza pistola, espada y escudo, hacha espada
+**Armas:** [[gran espada]], [[hacha cargada]], [[lanza]], [[Hacha Acelerada]], [[hacha espada]]
 **Herramientas:** Ninguno  
 **Guardando lanzamientos:** Sabiduría, Carisma  
 **Habilidades:** Elija dos entre Atletismo, Perspicacia, Intimidación, Medicina, Persuasión y Religión

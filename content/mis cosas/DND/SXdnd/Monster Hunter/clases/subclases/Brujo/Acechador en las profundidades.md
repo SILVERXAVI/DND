@@ -6,14 +6,14 @@ Fuente: Arcanos desenterrados 61 - Hechicero y brujo
 
 The Lurker in the Deep te permite elegir entre una lista ampliada de hechizos cuando aprendes un hechizo de brujo. Los siguientes hechizos se agregan a la lista de hechizos de brujo para usted.
 
-|Hechizos ampliados de Lurker|   |
-|---|---|
-|Nivel de hechizo|Hechizos|
-|1o|[Crea o destruye agua](http://dnd5e.wikidot.com/spell:create-or-destroy-water), [Onda de trueno](http://dnd5e.wikidot.com/spell:thunderwave)|
-|2do|[Ráfaga de viento](http://dnd5e.wikidot.com/spell:gust-of-wind), [Destrozar](http://dnd5e.wikidot.com/spell:shatter)|
-|3o|[Perno relámpago](http://dnd5e.wikidot.com/spell:lightning-bolt), [Tormenta de aguanieve](http://dnd5e.wikidot.com/spell:sleet-storm)|
-|4to|[Controlar el agua](http://dnd5e.wikidot.com/spell:control-water), [Los tentáculos negros de Evard](http://dnd5e.wikidot.com/spell:evards-black-tentacles)|
-|5to|[Comuna con la Naturaleza](http://dnd5e.wikidot.com/spell:commune-with-nature), [Cono de frío](http://dnd5e.wikidot.com/spell:cone-of-cold)|
+| Hechizos ampliados de Lurker |                                                                                                                                                            |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Nivel de hechizo             | Hechizos                                                                                                                                                   |
+| 1o                           | [Crea o destruye agua](http://dnd5e.wikidot.com/spell:create-or-destroy-water), [Onda de trueno](http://dnd5e.wikidot.com/spell:thunderwave)               |
+| 2do                          | [Ráfaga de viento](http://dnd5e.wikidot.com/spell:gust-of-wind), [Destrozar](http://dnd5e.wikidot.com/spell:shatter)                                       |
+| 3o                           | [Perno relámpago](http://dnd5e.wikidot.com/spell:lightning-bolt), [Tormenta de aguanieve](http://dnd5e.wikidot.com/spell:sleet-storm)                      |
+| 4to                          | [Controlar el agua](http://dnd5e.wikidot.com/spell:control-water), [Los tentáculos negros de Evard](http://dnd5e.wikidot.com/spell:evards-black-tentacles) |
+| 5to                          | [Comuna con la Naturaleza](http://dnd5e.wikidot.com/spell:commune-with-nature), [Cono de frío](http://dnd5e.wikidot.com/spell:cone-of-cold)                |
 
 ### Agarre de las profundidades
 

@@ -30,16 +30,9 @@ _Debes tener una puntuación de Sabiduría de 13 o superior para poder realizar 
 # Características de la clase
 
 Como clérigo, obtienes las siguientes características de clase.
-
-##### Puntos de vida
-
-**Loviți Dice:** 1d8 por nivel de clérigo  
-**Puntos de vida en el 1er nivel:** 8 + tu modificador de Constitución  
-**Puntos de vida en niveles superiores:** 1d8 (o 5) + su modificador de Constitución por nivel de clérigo después del 1er
-
 ##### Competencias
 
-**Armas:** martillo, espada y escudo, hacha cargada, lanza
+**Armas:** [[martillo]], [[espada y escudo]], [[hacha cargada]], [[cornamusa]]
 **Armadura:** Armadura ligera, armadura media, escudos    
 **Herramientas:** Ninguno  
 **Guardando lanzamientos:** Sabiduría, Carisma  
