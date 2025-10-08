@@ -1,5 +1,7 @@
 ![[Pasted image 20251008123004.png]]
-![[furina de fonta namielle.png]]
+![[furina de fonta narkardos2.png]]
+
+![[furina de fonta narkardos3.png]]
 ![[furina de fonta narkardos.png]]
 
 ### Estadísticas
