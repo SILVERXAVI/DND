@@ -1,3 +1,6 @@
+---
+title: hechizos de brujo
+---
 trucos
 - [[descarga sobrenatural]]
 - [[Ilusión menor]]

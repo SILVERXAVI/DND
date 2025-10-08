@@ -15,18 +15,18 @@ Se desbloquea al conseguir lv 5 en brujo del [[Acechador Insoldable]] y lv 5 en 
 | 4     | +5   | Mejora de Característica   | 3    | —    | —    | —    | —    |
 | 5     | +5   | Ataque Extra               | 4    | 2    | —    | —    | —    |
 | 6     | +5   | Flujo Vital                | 4    | 2    | —    | —    | —    |
-| 7     | +5   | Rasgo de Forma Elegida     | 4    | 3    | —    | —    | —    |
+| 7     | +5   | —                          | 4    | 3    | —    | —    | —    |
 | 8     | +5   | Mejora de Característica   | 4    | 3    | —    | —    | —    |
 | 9     | +5   | —                          | 4    | 3    | 2    | —    | —    |
 | 10    | +5   | Paso de las Olas           | 4    | 3    | 2    | —    | —    |
 | 11    | +5   | Aura de Marea (3 m)        | 4    | 3    | 3    | —    | —    |
 | 12    | +5   | Mejora de Característica   | 4    | 3    | 3    | —    | —    |
 | 13    | +5   | —                          | 4    | 3    | 3    | 1    | —    |
-| 14    | +5   | Rasgo de Forma Elegida     | 4    | 3    | 3    | 1    | —    |
+| 14    | +5   | —                          | 4    | 3    | 3    | 1    | —    |
 | 15    | +5   | —                          | 4    | 3    | 3    | 2    | —    |
 | 16    | +5   | Mejora de Característica   | 4    | 3    | 3    | 2    | —    |
 | 17    | +5   | —                          | 4    | 3    | 3    | 3    | 1    |
-| 18    | +5   | Marea Eterna               | 4    | 3    | 3    | 3    | 1    |
+| 18    | +5   | —                          | 4    | 3    | 3    | 3    | 1    |
 | 19    | +5   | Mejora de Característica   | 4    | 3    | 3    | 3    | 2    |
 | 20    | +5   | Juicio de las Olas         | 4    | 3    | 3    | 3    | 2    |
 
@@ -46,7 +46,7 @@ Se desbloquea al conseguir lv 5 en brujo del [[Acechador Insoldable]] y lv 5 en 
 Tu lista de conjuros incluye hechizos de **agua, curación, control y movimiento**.  
 Ejemplos:  
 [[_hechizos de agua]]
-_Create or Destroy Water, Healing Word, Misty Step, Wall of Water, Control Water, Mass Cure Wounds._
+[[crear-destruir agua]], [[palabra de curación]], [[paso brumoso]], [[muro de hielo]], [[controlar agua]], [[palabra de curación en masa]], [[Forma gaseosa]](agua), [[Curar Heridas]]
 
 ## Rasgos de Nivel
 
@@ -62,22 +62,51 @@ Además, puedes usar tu Carisma en lugar de Fuerza o Destreza para las tiradas d
 ### Nivel 2 – Magia de la Marea
 
 Obtienes acceso a conjuros centrados en curación y control del agua.  
-Puedes lanzar [[Curar Heridas]] y [[Forma graseosa]](agua) sin gastar espacios 1 vez por descanso largo.
+Puedes lanzar [[Curar Heridas]] y [[crear-destruir agua]] sin gastar espacios 1 vez por descanso largo.
 
 Puedes lanzar conjuros incluso si tus manos están ocupadas, siempre que lleves un arma, escudo o símbolo sagrado.
 
-### **Nivel 3 – Forma Serena / Forma Furia**
+### Nivel 3 – Juicio de los Coros
 
-Puedes cambiar de forma como una acción bonus una vez por turno:
+Puedes cambiar entre forma Serena y forma Furia como una acción bonus una vez por turno:
+
+Ganas **Juicio de los Coros**: puedes invocar **3** espíritus acuáticos que dependiendo de la forma que haya pueden afectar a lo de distinta manera:
 
 **Forma Serena:**
 
-- Ganas resistencia a daño de frío.
-- Ganas **Juicio de los Coros**: puedes invocar **3** espíritus acuáticos que pueden afectar a los:
-    - **Aliados:** sanan 6 por turno + tu mod de Inteligencia una vez por turno.
-    - **Enemigos:** reciben 6 de daño frío + tu mod de Inteligencia una vez por turno.
+- Ganas resistencia a daño de frío. (solo tu)
+- cualquier aliado que este a 1 casilla del espíritu sanan 6 por turno + tu mod de Inteligencia una vez por turno.
 
 **Forma Furia:**
 
+- cualquier enemigo que este a 1 casilla del espíritu recibe 6 de daño frío + tu mod de Inteligencia una vez por turno.
 - Tus ataques infligen +1d6 daño de agua.
-- Puedes empujar 1,5 m a un enemigo cuando lo golpeas.
+- Puedes empujar 1 casilla a un enemigo cuando tu o uno de tus espíritus lo golpean.
+
+### Nivel 6 – Flujo Vital
+
+Cuando te golpean en combate cuerpo a cuerpo, puedes hacer que el atacante reciba **1d6 de daño de frío o agua**.  
+Además, si estás en contacto con agua, recuperas 4 PV al final de tu turno (una vez por turno).
+
+### Nivel 10 – Paso de las Olas
+
+Cuando lanzas un conjuro de agua o curación, puedes teletransportarte hasta 6 m a un espacio que contenga agua o niebla.
+
+### Nivel 11 – Aura de Marea (3 m)
+
+Mientras estés consciente, todas las criaturas hostiles a 3 m sufren **1d6 de daño frío** al inicio de su turno.  
+Aliados dentro del aura recuperan 1 PV si comienzan su turno allí.
+
+### Nivel 20 – Juicio de las Olas
+
+Durante 5 turnos (1 vez por descanso largo):
+ 
+- Inmunidad al daño de frío y ácido.
+
+- Los ataques cuerpo a cuerpo que te fallen provocan una **salpicadura** que inflige 1d8 daño de agua.
+
+- Puedes hablar con criaturas acuáticas.
+
+- Puedes respirar bajo el agua y caminar sobre ella.
+
+- Cuando lanzas un conjuro de agua, puedes dividir sus efectos entre dos objetivos diferentes.

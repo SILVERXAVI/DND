@@ -1,2 +1,2 @@
 
-Se desbloquea al conseguir lv 10 de [[Dread Overlord]] y lv 5 de ( [[]] )
+Se desbloquea al conseguir lv 10 de [[Heraldo de la muerte]] y lv 5 de ( [[]] )
