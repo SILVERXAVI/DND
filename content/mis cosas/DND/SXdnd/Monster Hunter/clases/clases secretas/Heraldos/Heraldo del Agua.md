@@ -52,7 +52,7 @@ Infliges **1d4 de daño de frio adicional**, y recuperas la misma cantidad de P
 - Aumenta a **1d6** en nivel 5, **1d8** en 11, **1d10** en 17.
 - Si el enemigo está en terreno acuático o mojado, el daño aumenta en +1d4 adicional.
 
-Además, puedes usar tu Carisma en lugar de Fuerza o Destreza para las tiradas de ataque con floretes o armas elegantes.
+Además, puedes usar tu Inteligencia en lugar de Fuerza o Destreza para las tiradas de ataque con floretes o armas elegantes.
 
 ### Nivel 2 – Magia de la Marea
 
