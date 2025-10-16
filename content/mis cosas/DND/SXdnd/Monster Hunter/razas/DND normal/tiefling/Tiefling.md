@@ -17,13 +17,16 @@
 - **Idiomas.** Puedes hablar, leer y escribir Common e Infernal.
 
 - Subrazas:
-	-  [[Linaje de Baalzebul]]
-	- [[Linaje de Dispater]]
-	- [[Linaje de Mammon]]
-	- [[Linaje de Zariel]]
+	- [[Linaje de Asmodeo]] int
+	-  [[Linaje de Baalzebul]] int
+	- [[Linaje de Mammon]] int
+	 [[Linaje de Mefistófeles]] int
 
+	- [[Linaje de Dispater]] des
+	 	- [[Linaje de Glasya]] des
 
-	- [[Linaje de Levisto]]
-	 [[Linaje de Mefistófeles]]
-	 	- [[Linaje de Fierna]]
-	 	- [[Linaje de Glasya]]
+	- [[Linaje de Zariel]] fue
+
+	- [[Linaje de Levisto]] con
+
+	 	- [[Linaje de Fierna]] sab
