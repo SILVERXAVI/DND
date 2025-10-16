@@ -1,6 +1,8 @@
 
 ![[Pasted image 20250925194125.jpg]]
-Los boaboa tienen la forma básica de un Grimalkyne, pero presentan un pelaje blanco mucho más grueso y una complexión más robusta. Llevan imitaciones rudimentarias de cabezas de popo como máscaras, con las puntas de los colmillos pintadas con colores que corresponden a la dolencia de estado que cada boaboa usa en combate.
+***Primos de los shakalaka, los boaboa son de los pocos lynianos que toleran el frío. Consideran las regiones árticas del mundo su hogar y, curiosamente, veneran al popo como a un dios. Durante la Gran Guerra del Dragón, los boaboa se aliaron con la Madre Oscura cuando los goliats y los forjados vinieron a por la piel y la carne del popo. A petición de la Madre Oscura, los boaboa recibieron la tarea de matar a sus enemigos de la forma más tortuosa posible. A cambio, la Madre Oscura prometió proteger al popo. Los boaboa sobresalieron en su tarea, y no fue hasta su destierro que se dieron cuenta de su traición. El mar del norte había sido envenenado, lleno de los cadáveres de los goliats que los boaboa habían matado. Esto lo contaminó todo, matando tanto al popo como a los boaboa. Tras el resurgimiento, los boaboa veneran a los Señores Salvajes. Fue por su gracia que el popo regresó al mundo. Todavía sienten un gran odio por los goliats, al igual que estos los sienten por ellos. Son lentos para confiar, pero una vez que se ganan la confianza, el boaboa puede ser un amigo invaluable para toda la vida.***
+
+***Los boaboa tienen la forma básica de un Grimalkyne, pero presentan un pelaje blanco mucho más grueso y una complexión más robusta. Llevan imitaciones rudimentarias de cabezas de popo como máscaras, con las puntas de los colmillos pintadas con colores que corresponden a la dolencia de estado que cada boaboa usa en combate.***
 
 **Aumento de puntuación de característica.** Tu puntuación de Constitución aumenta en 1.
 

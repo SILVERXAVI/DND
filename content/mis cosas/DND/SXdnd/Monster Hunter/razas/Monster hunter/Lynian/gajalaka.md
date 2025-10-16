@@ -1,7 +1,8 @@
 
 ![[Pasted image 20250925194218.jpg]]
-Grimalkyne
-Los Grimalkyne se asemejan a linces bípedos. Tienen orejas peludas y presentan una variedad de colores según la tribu.
+***Los gajalaka adoran al Señor del Asesinato y respondieron a su llamado a la guerra durante la Gran Guerra del Dragón. Son forasteros, al igual que sus primos, los shakalaka, pero agresivos con todos los monstruos y cazadores que entran en su territorio. Tras el resurgimiento, los pocos que quedaron tras la guerra se escondieron para intentar recuperar su número. No fue hasta la historia reciente que los gajalaka reaparecieron. Un gajalaka rara vez colabora con alguien del mundo civilizado, a menos que esté exiliado o si les beneficia. Además, rara vez son aceptados debido a que muchos de ellos son acólitos del Señor del Asesinato, nigromantes, criminales o ladrones.***
+
+***Los Grimalkyne se asemejan a linces bípedos. Tienen orejas peludas y presentan una variedad de colores según la tribu.***
 
 Aumento de Puntuación de Característica. Tu puntuación de Sabiduría aumenta en 1.
 

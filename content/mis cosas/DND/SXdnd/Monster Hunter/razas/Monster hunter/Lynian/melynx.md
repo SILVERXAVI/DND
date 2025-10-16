@@ -1,7 +1,8 @@
 
 ![[Pasted image 20250925194146.jpg]]
-Melynx
-Los melynx son conocidos por su pelaje negro y su capacidad de hablar en lenguaje humano, además de realizar actividades humanas como sus congéneres lynianos, los felynes.
+***Los felyne y los melynx son las subespecies lynianas más comunes del Viejo Mundo. Si bien ambos se adaptan fácilmente a estilos de vida con otras razas que aceptan trabajos como cocineros, ayudantes de herrero y otros trabajos ocasionales, los melynx tienden a volver a su naturaleza más... salvaje. Se sabe que ocasionalmente "aparecen" objetos de valor en sus manos sin saber cómo llegaron allí. Por supuesto, con gusto los devuelven si se les pide, pero los que no son reclamados se llevan a sus hogares para su custodia hasta que su dueño venga a recuperarlos. Aquellos felyne y melynx que buscan mayor respeto suelen unirse a los cazadores como sus camaradas o como merodeadores. Los felyne y melynx que viven en la naturaleza se consideran una cultura propia debido a su inteligencia, estilo de vida y grupos. Se sabe que forman aldeas en zonas apartadas, donde la mayoría de los monstruos no se atreverían a aventurarse. Se sabe que estas aldeas mantienen intercambios tribales con otros lynianos y otras culturas. También se sabe que veneran a los Señores Salvajes, y muchos druidas felyne y melynx, así como exploradores, provienen de estos asentamientos.***
+
+***Los melynx son conocidos por su pelaje negro y su capacidad de hablar en lenguaje humano, además de realizar actividades humanas como sus congéneres lynianos, los felynes.***
 
 Aumento de puntuación de característica. Tu puntuación de inteligencia aumenta en 1.
 

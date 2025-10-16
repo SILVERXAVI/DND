@@ -6,7 +6,7 @@
 [[Enano]]
 [[Draconico]]
 [[Gnomo]]
-[[Duende]]
+[[Mediano]]
 
 ## MH
 - [[Wyverianos]]
