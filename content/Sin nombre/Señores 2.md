@@ -66,16 +66,16 @@
 
 ## 🌸 Divinas / Mitológicas
 
-|Nombre|Título|Dominio / Concepto|
-|---|---|---|
-|Amaterasu|Lord of Shimmering Flame|Manipulación de luz y fuego divino.|
-|Susanoo|Lord of Tyranny|Control del clima y combate físico total.|
-|Helios|God of Blinding Radiance|Luz cegadora y calor destructivo.|
-|Selene|Lady of Moonlit Grace|Control de mareas, sueños y reflejos.|
-|Odin|Lord of Eternal Wisdom|Predicción de acciones y estrategias.|
-|Hathor|Lady of Life’s Embrace|Regeneración masiva y barreras vivientes.|
-|Kali|Goddess of Infinite Decay|Desgaste y destrucción de esencia vital.|
-|Fenrir|Lord of Devouring Fang|Destruye defensas físicas con fuerza pura.|
+| Nombre    | Título                    | Dominio / Concepto                         |
+| --------- | ------------------------- | ------------------------------------------ |
+| Amaterasu | Lord of Shimmering Flame  | Manipulación de luz y fuego divino.        |
+| Susanoo   | Lord of Tyranny           | Control del clima y combate físico total.  |
+| Helios    | God of Blinding Radiance  | Luz cegadora y calor destructivo.          |
+| Selene    | Lady of Moonlit Grace     | Control de mareas, sueños y reflejos.      |
+| Odin      | Lord of Eternal Wisdom    | Predicción de acciones y estrategias.      |
+| Hathor    | Lady of Life’s Embrace    | Regeneración masiva y barreras vivientes.  |
+| Kali      | Goddess of Infinite Decay | Desgaste y destrucción de esencia vital.   |
+| Fenrir    | Lord of Devouring Fang    | Destruye defensas físicas con fuerza pura. |
 
 ---
 

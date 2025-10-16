@@ -1,6 +1,6 @@
+
+## normales
 [[Humano]]
-[[Lynian]]
-[[Kitsune]]
 [[Elfo]]
 [[Semiorco]]
 [[Enano]]
@@ -8,4 +8,15 @@
 [[Gnomo]]
 [[Duende]]
 
+## MH
+- [[Wyverianos]]
+- [[Lynian]]
+- [[Trovieriano]]
+- [[Malfestian]]
+- [[Kechaborn]]
+- [[Neopteroid]]
+- [[_draconico antiguo]]
 
+## Monstruosas
+[[Kitsune]]
+[[Warforge]]

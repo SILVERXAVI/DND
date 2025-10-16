@@ -1,5 +1,6 @@
 ![[furina de fonta narkardos3.png]]
 
+forma npc de [[La jueza, apóstol de la justicia y la marea (CR 30)]]
 ### Estadísticas
 - **Nivel**: 20
 - **armadura**:  20 (22)

@@ -1,0 +1,6 @@
+Fiebre Frenética
+La investigación vuelve a ir un paso más allá con la invención de una medicina que te contagiará el virus del frenesí.
+Aumenta tu Constitución en 1, hasta un máximo de 20.
+Estás infectado con una versión mutada del virus del frenesí. Obtienes todos los efectos de la plantilla de raza consciente del virus del frenesí de la página 80 del Manual de Monstruos de Monster Hunter, excepto el efecto de curación reducido. Aún puedes curarte por medios no mágicos.
+A discreción de tu DM, siempre que golpees a una criatura con tus ataques de armas naturales (principalmente garras o mordisco), esta puede hacer que la criatura realice una tirada de salvación de Constitución igual a 8 + tu bonificador de competencia + tu modificador de Constitución. Si falla la tirada de salvación, la criatura queda infectada con el virus del frenesí (consulta la página 379 del Manual de Monstruos de Monster Hunter). Si la tirada de salvación tiene éxito, el objetivo es inmune a tu versión mutada del virus del frenesí para siempre. Nota del creador
+Maestros de mazmorras, no permitan que sus jugadores infecten intencionalmente a los personajes de otros jugadores. Esto podría ser una gran historia y una gran proeza mecánica, pero podría arruinar una campaña si lo permiten.

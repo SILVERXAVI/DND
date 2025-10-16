@@ -1,5 +1,5 @@
 ---
-title: hechizos de agua
+aliases: hechizos de agua
 ---
 - [[crear o destruir agua]]
 - [[palabra de curación]]

@@ -1,0 +1,7 @@
+***Descendientes de una comunidad de gnomos de roca que se teletransportaron inadvertidamente a las Tierras Bestiales mientras experimentaban durante la antigua civilización. Incapaces de encontrar la manera de regresar al plano material, los gnomos de roca se adaptaron lentamente a su nuevo entorno. Para cuando regresaron al Viejo Mundo, habían pasado generaciones. Los gnomos del bosque, como se les llamaba ahora, se habían establecido en las Colinas Verdes. Prefiriendo vivir en la naturaleza que en las bulliciosas ciudades como sus parientes, los gnomos del bosque están encantados de ayudar a sus parientes gnomos de roca en su búsqueda para comprender cómo funciona la naturaleza y cómo manipularla. Suelen ser buenos amigos de la gente afable del bosque, ayudándolos en sus esfuerzos. Los gnomos del bosque son excelentes exploradores para el Gremio de Cazadores y el Equipo de Observación del Dragón Anciano debido a su capacidad para entablar amistad con pequeños animales del bosque. Gracias a estos animales, los gnomos del bosque pueden transmitir información sobre las amenazas que podrían acechar sus tierras.***
+
+- **Aumento de la puntuación de habilidad.** Tu puntuación de destreza aumenta en 1.
+
+- **Ilusionista natural.** Ya sabes el truco [[Ilusión menor]]. La inteligencia es su modificador de lanzamiento de hechizos.
+
+- **Habla con pequeñas bestias.** A través de sonidos y gestos, puedes comunicar ideas simples con Bestias pequeñas o más pequeñas.

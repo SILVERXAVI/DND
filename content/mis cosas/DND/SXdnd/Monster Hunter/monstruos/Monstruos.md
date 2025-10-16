@@ -3,7 +3,10 @@
 ### Jefes
 - [[Eternidad (CR 50)]]
 - [[La shogun, Apostol de la Eternidad (CR 30)]]
+- 
+- [[La jueza, apóstol de la justicia y la marea (CR 30)]]
 - [[ESA-PERSONA]]
+- 
 ### normales
 ## Monster Hunter
 ### Anfibios

@@ -1,12 +1,13 @@
 **NPC**
 - [[lamar ionetta]]
+- [[furina de fontine]]
 
 
 
 **Rubén**
 - [[Ruben]]
 **Erik**
-- [[Erik]]
+- [[Eric conlak]]
 
 
 
