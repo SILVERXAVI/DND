@@ -9,7 +9,7 @@ Los wyverianos Únicos suelen tener entre mas de 1000 años sin embargo debido a
 - **Aumento de Puntuación de Característica mágica.** Tu puntuación de Inteligencia, Sabiduría o Carisma aumenta en 2. (esto remplaza el +2 de sabiduría del wyveriano normal)
  
 - **Cambia formas.** Un Wyveriano Único se adapta de forma natural y desarrolla ese don, lo que le permite cambiar entre forma humanoide y su Forma Verdadera como acción indefinidamente.
-	- Tu Forma Verdadera es un wyveriano moderno con rasgos de otras razas. 
+	- Tu Forma Verdadera es un wyveriano moderno con pequeños rasgos de otras razas. 
 	- Tu forma humanoide es la de un wyveriano moderno. 
 > Todas las formas conservan un rasgo distintivo, como el color de ojos, el color de pelo o una cicatriz. 
 
@@ -64,6 +64,9 @@ Una vez que uses este rasgo, no podrás volver a usarlo hasta que termines un de
 - **Veloz.** tu velocidad aumenta en +10 pies.
 - **Anfibio.** Puedes respirar aire y agua.
 - **Parpadeo de Niebla de Sangre.** Como acción adicional, puedes teletransportarte mágicamente hasta 9 metros a un espacio desocupado que puedas ver. Puedes usar este rasgo tantas veces como tu bonificador de competencia y recuperas todos los usos gastados al terminar un descanso prolongado. Al alcanzar el nivel 3, puedes realizar un ataque con Cola contra una criatura a 1,5 metros o menos de ti inmediatamente después de usar tu Parpadeo de Niebla de Sangre.
+- **Vuelo.** Tiene una velocidad de vuelo igual a su velocidad al caminar. No puede usar esta velocidad de vuelo si lleva armadura media o pesada.
+- **Brazos Alados.** Tienes dos garras en tus alas extremadamente prensiles. Estas garras pueden manipular un objeto, abrir o cerrar una puerta o un contenedor, recoger o dejar un objeto Diminuto o empuñar un arma con la propiedad ligera.
+
 
 
 ### temp HP
