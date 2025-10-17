@@ -1,4 +1,4 @@
-Los almudrones tienen una piel escamosa que varía en color desde gris hasta amarillo cremoso y rojo rosado. Su vientre está cubierto de anchas escamas rosadas. La cabeza de Almudrón presenta rasgos similares a los de los mamíferos, con un hocico corto, un par de ojos rojos y varios zarcillos similares a bigotes. Tanto la parte posterior de su cuerpo como sus patas están cubiertas por un caparazón gris con reflejos más oscuros. El caparazón forma dos crestas en su cuello que recuerdan a la capucha de Lagiacrus.
+***Los almudrones tienen una piel escamosa que varía en color desde gris hasta amarillo cremoso y rojo rosado. Su vientre está cubierto de anchas escamas rosadas. La cabeza de Almudrón presenta rasgos similares a los de los mamíferos, con un hocico corto, un par de ojos rojos y varios zarcillos similares a bigotes. Tanto la parte posterior de su cuerpo como sus patas están cubiertas por un caparazón gris con reflejos más oscuros. El caparazón forma dos crestas en su cuello que recuerdan a la capucha de Lagiacrus.***
 
 Aumento de la puntuación de característica. Tu puntuación de Constitución aumenta en 2 y tu Fuerza en 1.
 

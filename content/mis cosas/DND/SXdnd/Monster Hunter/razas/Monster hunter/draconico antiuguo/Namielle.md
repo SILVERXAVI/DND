@@ -6,8 +6,7 @@ Un dracónido Namielle usa los rasgos de dracónido del Manual del Jugador, y lo
 Tu puntuación de Constitución aumenta en 2 y tu puntuación de Destreza en 1.
 Velocidad: Tu velocidad base al caminar es de 9 metros y tu velocidad de natación es de 9 metros.
 
-**Anfibio.**
-Puedes respirar aire y agua. Arma de aliento. Tu arma de aliento es una línea de 1,5 x 9 metros (salvación de Con.) que inflige daño por frío.
+**Anfibio.** Puedes respirar aire y agua. Arma de aliento. Tu arma de aliento es una línea de 1,5 x 9 metros (salvación de Con.) que inflige daño por frío.
 
 **Resistencia dracónica.**
 Tienes resistencia a uno de los siguientes tipos de daño: daño por frío o daño por rayo.

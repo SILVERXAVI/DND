@@ -4,6 +4,9 @@ Un dracónido Shara Ishvalda usa los rasgos de dracónido del Manual del Jugador
 Aumento de Puntuación de Característica. Tu puntuación de Sabiduría aumenta en 2 y tu puntuación de Fuerza en 1.
 
 Arma de Aliento. Tu arma de aliento inflige daño de trueno en una línea de 1,5 m de ancho por 9 m de largo (salvación de CON).
+
 Resistencia Dracónica. Tienes resistencia al daño de trueno.
+
 Perceptivo. Obtienes competencia en la habilidad Percepción.
-Caparazón de Piedra. Como acción, obtienes 1d4 + 4 puntos de golpe temporales durante 1 hora. A nivel 3, obtienes 5 puntos de golpe temporales adicionales. Una vez que uses este rasgo, no podrás volver a usarlo hasta que termines un descanso prolongado.
+
+**Caparazón de Piedra**. Como acción, obtienes 1d4 + 4 puntos de golpe temporales durante 1 hora. A nivel 3, obtienes 5 puntos de golpe temporales adicionales. Una vez que uses este rasgo, no podrás volver a usarlo hasta que termines un descanso prolongado.

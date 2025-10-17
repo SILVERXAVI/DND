@@ -6,6 +6,9 @@ Aumento de Puntuación de Característica. Tu puntuación de Carisma aumenta en 
 Regio. Tienes ventaja en las pruebas de Carisma al interactuar con nobles.
 
 Poder Latente. Al alcanzar el nivel 3, puedes usar una acción adicional para liberar la energía latente del dragón anciano en tu interior. Tu transformación dura 1 minuto, hasta que la finalizas gastando las cargas que acumulaste o como acción adicional. Una vez que te transformas, no puedes volver a usarla hasta que termines un descanso prolongado. Una luz abrasadora irradia temporalmente desde tus ojos y boca. Mientras dura, puedes esparcir grandes cantidades de pólvora explosiva hecha con tus propias escamas y, al final de cada turno, cada criatura a 3 metros o menos de ti recibe daño por fuego igual a tu bonificador de competencia. Hasta que la transformación termine, obtienes una carga al final de cada turno. Como acción, puedes gastar todas las cargas (mínimo 0) para liberar el poder latente almacenado en tu interior, creando una explosión similar a una supernova. Cada criatura a 3 metros o menos de ti debe realizar una tirada de salvación de Destreza igual a 8 + tu bonificador de competencia + tu modificador de Constitución. La criatura recibe fuego igual a tu nivel + 1d6 de daño por fuego adicional por cada carga obtenida en una tirada de salvación fallida, o la mitad de daño en una tirada exitosa.
+
 Resistencia al daño. Tienes resistencia al daño por fuego.
+
 Visión en la oscuridad. Puedes ver en la penumbra a menos de 18 metros de ti como si fuera luz brillante, y en la oscuridad como si fuera luz tenue. No puedes discernir colores en la oscuridad, solo tonos de gris.
+
 Idiomas. Puedes hablar, leer y escribir en común y dracónico.

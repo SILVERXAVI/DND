@@ -1,7 +1,3 @@
----
-title: draconico antiguo
----
-
 ***Los Dragonborn Ancianos son una variante de los Dragonborn. Puedes permitir que un jugador elija una de las siguientes ascendencias de Dragonborn. Estas ascendencias reemplazan la ascendencia dracónica normal que un Dragonborn puede elegir, además de reemplazar otros rasgos mencionados. Estas ascendencias también proporcionan el daño al que son resistentes, si el rasgo de resistencia dracónica no se reemplaza.***
 
 **Armas de Aliento**

@@ -1,5 +1,5 @@
-La personalidad de un alatreon dracónido solo es comparable a su capacidad para dominar los elementos. Prefieren vivir en soledad, pero se sabe que colaboran o se involucran en situaciones cuando les conviene. Sus cuerpos están cubiertos de escamas invertidas que utilizan para controlar el frío, el fuego, el rayo o los elementos necróticos. Sobre la cabeza de un alatreon dracónido se encuentran dos grandes cuernos que actúan como conducto para sus poderes elementales.
-Un alatreon dracónido usa los rasgos de dracónido del Manual del Jugador, con los siguientes rasgos reemplazando el Aumento de Puntuación de Característica y el Arma de Aliento.
+***La personalidad de un alatreon dracónido solo es comparable a su capacidad para dominar los elementos. Prefieren vivir en soledad, pero se sabe que colaboran o se involucran en situaciones cuando les conviene. Sus cuerpos están cubiertos de escamas invertidas que utilizan para controlar el frío, el fuego, el rayo o los elementos necróticos. Sobre la cabeza de un alatreon dracónido se encuentran dos grandes cuernos que actúan como conducto para sus poderes elementales.***
+Un alatreon dracónido usa los rasgos de dracónido, con los siguientes rasgos reemplazando el Aumento de Puntuación de Característica y el Arma de Aliento.
 
 **Aumento de Puntuación de Característica.** Tu puntuación de Fuerza aumenta en 2, y otra puntuación de característica a elegir entre Inteligencia, Sabiduría o Carisma aumenta en 1.
 
