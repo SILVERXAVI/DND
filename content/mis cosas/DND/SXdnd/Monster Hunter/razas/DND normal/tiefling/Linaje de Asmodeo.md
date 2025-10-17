@@ -1,0 +1,5 @@
+**_Los tieflings conectados a Nessus dominan el poder del fuego y la oscuridad, guiados por un intelecto más agudo de lo normal, como corresponde a los vinculados al propio Asmodeo._**
+
+- **Aumento de la puntuación de habilidad.** Tu puntuación de inteligencia aumenta en 1.
+
+- **Legado infernal.** Ya conoces el cantrip de [la taumaturgia](http://dnd5e.wikidot.com/spell:thaumaturgy). Una vez que alcances el nivel 3, puedes lanzar el hechizo [Reprimenda infernal](http://dnd5e.wikidot.com/spell:hellish-rebuke) una vez como un hechizo de nivel 2. Una vez que alcances el nivel 5, también puedes lanzar el hechizo [de Oscuridad](http://dnd5e.wikidot.com/spell:darkness) una vez. Debes terminar un largo descanso para volver a lanzar estos hechizos con este rasgo. El carisma es tu habilidad de lanzamiento de hechizos para estos hechizos.
