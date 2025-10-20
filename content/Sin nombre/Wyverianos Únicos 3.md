@@ -1,113 +1,127 @@
-## 🐲 **Forma Verdadera**
+Si, añade una tercera forma evolutiva, además añade esto junto con mas opciones para evolución primigenia:
+### 🌫️ **Evolución Primigenia**
 
-Tu forma auténtica irradia poder ancestral.  
-Escamas brillantes, cuernos retorcidos y alas como cuchillas de cristal revelan tu herencia híbrida.  
-Mantienes todos los beneficios de tu forma humanoide y obtienes los siguientes:
+Cada vez que derrotes a una criatura legendaria o dracónica, tu sangre se adapta. Elige uno de los siguientes efectos permanentes:
 
-### Rasgos de la Forma Verdadera
+- +5 a tu velocidad.
+    
+- Resistencia permanente a un tipo de daño elemental.
+    
+- Aumenta tu CA natural en 1.
+    
+- Tu **Parpadeo de Niebla de Sangre** deja un rastro de energía: las criaturas que pasen por él sufren 1d6 de daño necrótico.
+    
+- Ganas visión a través de la niebla, humo o polvo.
+-
+## 🌫️ **Evolución Primigenia**
 
-- **Planeo y Suspensión.**  
-    Flotas a unos centímetros del suelo; el terreno difícil no mágico no te afecta.
+Cada vez que derrotes a una criatura **legendaria o dracónica**, la energía vital de su esencia es absorbida por tu sangre ancestral.  
+Tu cuerpo se adapta, tu alma se fortalece y tu forma verdadera muta.  
+Obtienes **uno de los siguientes efectos permanentes** (elige o tira aleatoriamente):
+
+- **+5 a tu velocidad de movimiento.**
     
-- **Vuelo Majestuoso.**  
-    Obtienes una velocidad de vuelo igual a tu velocidad de movimiento + 3 metros.  
-    No puedes volar si llevas armadura media o pesada.
+- **Resistencia permanente** a un tipo de daño elemental (fuego, frío, rayo, ácido o necrótico).
     
-- **Anfibio.**  
-    Puedes respirar aire y agua.
+- **Aumenta tu CA natural en 1.**
     
-- **Veloz.**  
-    Tu velocidad aumenta en 3 metros.
+- Tu **Parpadeo de Niebla de Sangre** deja un rastro ardiente: las criaturas que lo atraviesen sufren **1d6 de daño necrótico**.
     
-- **Brazos Alados.**  
-    Tus alas poseen garras prensiles capaces de empuñar armas ligeras o manipular objetos.
+- Ganas **visión perfecta a través de niebla, humo o polvo.**
     
-- **Cola Primal.**  
-    Tus ataques con cola infligen **1d6 + tu modificador de Fuerza** de daño contundente y **1d6 + tu modificador de Fuerza** de daño cortante.  
-    Cada vez que impactas con tu cola, puedes empujar al objetivo 3 metros (CD 8 + tu bonif. de competencia + tu mod. de Fuerza).
+- Tus ataques naturales infligen **+1d4 de daño elemental** del tipo que elijas.
     
-- **Afilar.**  
-    Como acción adicional, puedes afilar tus armas o garras.  
-    El siguiente ataque que realices inflige daño doble (tira los dados dos veces y elige el mayor resultado).  
-    Usable un número de veces igual a tu bonificador de competencia (recuperas con descanso prolongado).
+- Puedes **respirar bajo lava o ácido** sin sufrir daño durante un número de minutos igual a tu nivel.
+    
+- Obtienes una **memoria genética** del enemigo derrotado: una vez por descanso prolongado, puedes usar una de sus habilidades legendarias o ataques especiales (si el DM lo permite).
+    
+- Tu cuerpo se fortalece: obtienes **+1 permanente a Constitución o Fuerza.**
+    
+- Tus alas se expanden: tu **velocidad de vuelo aumenta en +6 metros.**
+    
+- Tu aura primigenia se vuelve visible: criaturas hostiles que comiencen su turno a 3 metros deben superar una **TS de Sabiduría (CD 8 + competencia + Carisma)** o quedar **intimidadas** hasta el final de su siguiente turno.
+
+## 🐲 **Evolución Avanzada: Forma Primordial**
+
+Cuando hayas obtenido **5 o más evoluciones primigenias**, puedes despertar tu **Forma Primordial** —la culminación de tu linaje wyveriano y la fusión de toda sangre ancestral absorbida—.  
+Esta forma representa el límite de la existencia mortal: un ser que desafía el orden natural, un eco viviente del primer dragón del mundo.
+
+---
+
+### ⚔️ **Forma Primordial (Forma Final)**
+
+Transformarte requiere una acción.  
+Esta forma dura **1 minuto (10 turnos)** y puede usarse **una vez por descanso prolongado**.  
+Al entrar en ella, un estruendo de energía rasga el cielo, alterando el entorno a tu alrededor en un radio de 30 metros:  
+el aire vibra, las nubes giran y la tierra tiembla bajo tu presencia.
+
+Tu cuerpo alcanza su máximo potencial, y obtienes los siguientes beneficios:
+
+---
+
+### 🌌 **Aspecto de los Primeros**
+
+Tu tamaño aumenta a **Grande**.  
+Tu piel o escamas se fusionan con energía elemental pura, irradiando un resplandor de color variable (según el tipo de poder dominante: dorado, escarlata, obsidiana, zafiro, etc.).  
+Tus ojos se vuelven antorchas de fuego estelar.
+
+- Tu **CA base aumenta a 26.**
+    
+- Tu velocidad de vuelo se duplica.
+    
+- Tu alcance con ataques cuerpo a cuerpo aumenta en **1,5 metros.**
+    
+- Tus ataques con armas naturales (garras, cola, mordida) infligen **2d8 adicionales de daño elemental (a elección).**
     
 
 ---
 
-### **Nuevos Rasgos Avanzados**
+### 🌩️ **Aura de Trascendencia**
 
-#### 🔥 **Aura Dracónica**
+Mientras estés en tu Forma Primordial, emanas una energía viva que altera el campo de batalla.  
+Al inicio de cada uno de tus turnos, elige un efecto activo que dura hasta el inicio de tu siguiente turno:
 
-Mientras estés en tu Forma Verdadera, emanas una energía elemental.  
-Elige un tipo de daño (fuego, frío, trueno, ácido o necrótico) al entrar en la forma.  
-Todas las criaturas hostiles que comiencen su turno a 3 metros o menos de ti reciben **daño igual a tu bonificador de competencia** de ese tipo.  
-Además, tus ataques cuerpo a cuerpo infligen **1d4 adicional del mismo tipo de daño**.
-
-#### ⚡ **Parpadeo de Niebla de Sangre (Mejorado)**
-
-Como acción adicional, puedes teletransportarte 9 metros.  
-Después del salto, puedes realizar un **ataque de cola o garra** con ventaja.  
-A partir del nivel 5, puedes teletransportarte 18 metros y realizar **dos ataques cuerpo a cuerpo**.
-
-#### 🩸 **Crecimiento Primigenio**
-
-Como acción, obtienes **1d4 + tu nivel + tu modificador de Constitución + 10** puntos de golpe temporales.  
-Mientras los tengas, tus ojos brillan con poder elemental.  
-A nivel 5, las criaturas que te golpeen con ataques cuerpo a cuerpo sufren **20 de daño por frío o fuego** (a elección).  
-Usable una vez por descanso prolongado.
-
-#### 🛡️ **Abrigo Primigenio y Armadura Metálica**
-
-Mientras no lleves armadura, tu CA es **13 + tu modificador de Destreza**.  
-Durante un descanso prolongado, puedes generar una **armadura metálica** fundiendo minerales del entorno en tu piel:
-
-- CA: **25**
+1. **Furia del Dragón** – Todas las criaturas hostiles a 9 metros sufren **1d8 + tu nivel** de daño de fuego.
     
-- Velocidad reducida en 3 metros.
+2. **Llamado de la Tormenta** – Una ráfaga de relámpagos cae en un punto que elijas a 18 metros; todas las criaturas en un radio de 3 metros deben hacer una TS de Destreza o recibir **4d10 de daño de rayo.**
     
-- Inmunidad a daño perforante no mágico.
+3. **Lamento del Vacío** – Todas las criaturas hostiles a 6 metros tienen **desventaja** en ataques cuerpo a cuerpo hasta tu próximo turno.
     
-- Vulnerabilidad al rayo.
+4. **Pulso de Restauración** – Tú y los aliados a 9 metros recuperan **2d8 + tu modificador de Constitución** puntos de golpe.
     
-
-**Sobrecalentamiento:**  
-Como acción, puedes romper tu armadura para liberar calor interno durante 5 turnos.  
-Durante este tiempo, todos tus ataques infligen **daño de fuego adicional igual a tu nivel**, y tu velocidad vuelve a la normalidad.  
-Al terminar, sufres 2 niveles de agotamiento leve hasta descansar.
+5. **Eclipse del Alma** – Una neblina dorada y oscura envuelve el área; la visión se reduce a 3 metros y las criaturas hostiles tienen **desventaja en tiradas de Sabiduría y Percepción.**
+    
 
 ---
 
-### 🌀 **Evolución Primordial: Virus del Origen** _(nivel 5+)_
+### 🔥 **Aliento del Fin**
 
-Cuando tus puntos de golpe temporales se agotan y activas el **Abrigo Primigenio**, puedes liberar el **Virus Primigenio**, despertando tu forma más poderosa.  
-Este estado dura 10 turnos.
+Como acción, puedes liberar el poder completo de tu sangre ancestral.  
+Exhalas una llamarada o descarga pura de energía primordial en un cono de **18 metros**.  
+Las criaturas dentro del área deben hacer una tirada de salvación de Destreza (CD = 8 + competencia + Constitución).  
+En fallo, sufren **12d10 de daño combinado de fuego y necrótico**, o la mitad en éxito.  
+Este ataque **arrastra y desintegra** terreno no mágico débil (rocas, vegetación, estructuras menores).  
+Una vez que lo uses, no puedes volver a hacerlo hasta el próximo descanso prolongado.
 
-Mientras dure:
+---
 
-- Tus ojos, cuernos y alas brillan con luz dorada.
-    
-- Tu **Constitución aumenta en 2 (máx. 22)**.
-    
-- Tus ataques críticos ocurren con **18–20**.
-    
-- Infliges **1d6 adicional de daño necrótico y fuego** por ataque.
-    
-- Tus hechizos y ataques naturales infectan con el **Virus del Frenesí**.
-    
-- Puedes realizar un **rugido dracónico** (1/descanso prolongado): todas las criaturas hostiles a 9 metros deben superar una TS de Sabiduría (CD 8 + competencia + Carisma) o quedar **Atemorizadas** por 1 minuto.
-    
-- Obtienes **Resistencia al fuego, frío y necrótico.**
-    
-- Al final de cada turno, una ola de energía se propaga 3 metros a tu alrededor, infligiendo:
-    
-    - Daño de fuego igual a tu nivel.
-        
-    - Daño necrótico igual a tu bonificador de competencia.
-        
+### 🩸 **Trono del Origen**
 
-**Supernova Primigenia:**  
-Como acción, puedes gastar todas tus cargas acumuladas (1 por turno) para liberar una explosión masiva de energía.  
-Cada criatura a 6 metros debe hacer una tirada de Destreza (CD = 8 + competencia + Constitución).  
-En fallo, sufre **1d12 de fuego + 1d12 de necrótico por cada carga acumulada + tu nivel**.  
-En éxito, la mitad.  
-Tras usar este poder, vuelves a tu forma humanoide y quedas con un nivel de agotamiento.
+Cada vez que reduces a una criatura legendaria o dracónica a 0 PG mientras estés en tu Forma Primordial, recuperas **toda tu vida temporal** y obtienes una carga llamada **Sangre del Trono**.  
+Puedes acumular hasta 3 cargas.  
+Como acción adicional, puedes consumir todas las cargas para liberar una **Explosión Apocalíptica**:
+
+- Todas las criaturas a 12 metros deben realizar una TS de Constitución.
+    
+- En fallo, sufren **10d12 de daño del tipo elemental predominante** y quedan **aturdidas** hasta el final de su siguiente turno.
+    
+- En éxito, sufren la mitad y no quedan aturdidas.  
+    Tras usar este poder, vuelves automáticamente a tu **Forma Verdadera** y no puedes transformarte de nuevo hasta después de un descanso prolongado.
+    
+
+---
+
+### 🌠 **Ecos del Eterno**
+
+Cuando tu Forma Primordial termina, conservas una fracción de su energía:  
+durante 24 horas, obtienes **resistencia a todos los daños no mágicos** y **ventaja en todas las tiradas de Sabiduría (Percepción) y Constitución.**

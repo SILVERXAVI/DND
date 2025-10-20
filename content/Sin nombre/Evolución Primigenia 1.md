@@ -1,3 +1,4 @@
+haz mas sinergias
 ## 🌫️ **Evolución Primigenia — La Sangre que Cambia el Mundo**
 
 Cada vez que derrotes a una **criatura legendaria, dracónica o de poder mítico equivalente**, la energía de su alma se funde con tu sangre ancestral.  
