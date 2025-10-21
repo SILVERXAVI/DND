@@ -89,7 +89,7 @@ En el primer nivel, eliges un dominio determinado por tu elección de Deidad y l
 | Dominio                    |
 | -------------------------- |
 | [[Arcanos]]                |
-| [[Muerte]]                 |
+| [[mis cosas/DND/SXdnd/Monster Hunter/clases/subclases/Clérigo/Muerte]]                 |
 | [[Forjar]]                 |
 | [[Tumba]]                  |
 | [[Conocimiento (clerigo)]] |

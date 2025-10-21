@@ -8,6 +8,22 @@ Ganas **una mejora permanente** de la siguiente lista (elige o tira aleatoriamen
 Cada opción puede ser elegida solo una vez, a menos que indique lo contrario.
 
 ---
+fisica
+magica
+sangre
+movimiento
+control
+presencia
+aura
+divinas
+
+haz las siguientes sinergias
+fisico-control
+fisico-movimiento
+fisico-aura
+fisico-presencia
+fisico-divino
+
 
 ### ⚡ **Evoluciones Físicas**
 
