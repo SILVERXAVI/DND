@@ -1,3 +1,6 @@
+***El Heraldo de la Vida es el protector del equilibrio entre la existencia y la muerte, el portador de la llama que no quema y el guardián de la chispa inmortal que habita en todos los seres. Donde pisa, brota la hierba; donde habla, los corazones se encienden con esperanza.***  
+***Sus enemigos se desvanecen ante la pureza de su luz, y sus aliados renacen bajo el resplandor de su poder.***
+
 Se desbloquea al tener multibuild de clerigo [[Vida]] y [[Hechicero]]
 
 no puede pasar de mas de 12 de constitucion (+1)

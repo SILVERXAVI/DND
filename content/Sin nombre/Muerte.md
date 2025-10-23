@@ -12,28 +12,28 @@ Se desbloquea al conseguir **nivel 5 en Mago de Nigromancia** y **nivel 5 en Bru
 
 ---
 
-|Nivel|Vida|Rasgos de Clase|lv 1|lv 2|lv 3|lv 4|lv 5|
-|---|---|---|---|---|---|---|---|
-|1|14|Toque Mortífero|—|—|—|—|—|
-|2|+4|Magia de la Oscuridad|2|—|—|—|—|
-|3|+4|Sendero de la No-Vida|3|—|—|—|—|
-|4|+4|Mejora de Característica|3|—|—|—|—|
-|5|+4|Ataque Extra|4|2|—|—|—|
-|6|+4|Aura de Corrupción|4|2|—|—|—|
-|7|+4|Rasgo del Sendero|4|3|—|—|—|
-|8|+4|Mejora de Característica|4|3|—|—|—|
-|9|+4|—|4|3|2|—|—|
-|10|+4|Llamado del Sepulcro|4|3|2|—|—|
-|11|+4|Aura de la Tumba (3 m)|4|3|3|—|—|
-|12|+4|Mejora de Característica|4|3|3|—|—|
-|13|+4|—|4|3|3|1|—|
-|14|+4|Rasgo del Sendero|4|3|3|1|—|
-|15|+4|—|4|3|3|2|—|
-|16|+4|Mejora de Característica|4|3|3|2|—|
-|17|+4|—|4|3|3|3|1|
-|18|+4|Señor de la No-Vida|4|3|3|3|1|
-|19|+4|Mejora de Característica|4|3|3|3|2|
-|20|+4|Avatar de la Muerte|4|3|3|3|2|
+| Nivel | Vida | Rasgos de Clase          | lv 1 | lv 2 | lv 3 | lv 4 | lv 5 |
+| ----- | ---- | ------------------------ | ---- | ---- | ---- | ---- | ---- |
+| 1     | 14   | Toque Mortífero          | —    | —    | —    | —    | —    |
+| 2     | +4   | Magia de la Oscuridad    | 2    | —    | —    | —    | —    |
+| 3     | +4   | Sendero de la No-Vida    | 3    | —    | —    | —    | —    |
+| 4     | +4   | Mejora de Característica | 3    | —    | —    | —    | —    |
+| 5     | +4   | Ataque Extra             | 4    | 2    | —    | —    | —    |
+| 6     | +4   | Aura de Corrupción       | 4    | 2    | —    | —    | —    |
+| 7     | +4   | Rasgo del Sendero        | 4    | 3    | —    | —    | —    |
+| 8     | +4   | Mejora de Característica | 4    | 3    | —    | —    | —    |
+| 9     | +4   | —                        | 4    | 3    | 2    | —    | —    |
+| 10    | +4   | Llamado del Sepulcro     | 4    | 3    | 2    | —    | —    |
+| 11    | +4   | Aura de la Tumba (3 m)   | 4    | 3    | 3    | —    | —    |
+| 12    | +4   | Mejora de Característica | 4    | 3    | 3    | —    | —    |
+| 13    | +4   | —                        | 4    | 3    | 3    | 1    | —    |
+| 14    | +4   | Rasgo del Sendero        | 4    | 3    | 3    | 1    | —    |
+| 15    | +4   | —                        | 4    | 3    | 3    | 2    | —    |
+| 16    | +4   | Mejora de Característica | 4    | 3    | 3    | 2    | —    |
+| 17    | +4   | —                        | 4    | 3    | 3    | 3    | 1    |
+| 18    | +4   | Señor de la No-Vida      | 4    | 3    | 3    | 3    | 1    |
+| 19    | +4   | Mejora de Característica | 4    | 3    | 3    | 3    | 2    |
+| 20    | +4   | Avatar de la Muerte      | 4    | 3    | 3    | 3    | 2    |
 
 ---
 
