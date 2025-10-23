@@ -45,28 +45,28 @@ Un monstruo tiene los mismos tipos de movimiento que el monstruo original en el 
 
 ## Monstie
 
-|Nivel|Bonificación de Competencia|Rasgos de Clase|
-|---|---|---|
-|1.º|+2|Competencia de Monstie, Ataque Único de Monstie|
-|2.º|+2|Rasgo de Monstie|
-|3.º|+2|Criatura|
-|4.º|+2|Mejora de Puntuación de Característica, Mejora de Competencia de Monstie|
-|5.º|+3|—|
-|6.º|+3|Ataque o Daño Extra, Aumento de Tamaño|
-|7.º|+3|Tiradas de Salvación|
-|8.º|+3|Mejora de Puntuación de Característica, Mejora de Competencia de Monstie|
-|9.º|+4|—|
-|10.º|+4|Mejora de Rasgo de Monstie|
-|11.º|+4|Mejora de Criatura|
-|12.º|+4|Mejora de Puntuación de Característica, Mejora de Competencia de Monstie|
-|13.º|+5|—|
-|14.º|+5|Mejora de Puntuación de Característica, Mejora de Competencias de Monstie|
-|15.º|+5|Ataque o Daño Extra, Aumento de Tamaño|
-|16.º|+5|Mejora de Puntuación de Característica, Mejora de Competencias de Monstie|
-|17.º|+6|—|
-|18.º|+6|Mejora de Criatura|
-|19.º|+6|Mejora de Puntuación de Característica, Mejora de Competencias de Monstie|
-|20.º|+6|Mejora de Rasgo de Monstie|
+| Nivel | Bonificación de Competencia | Rasgos de Clase                                 |
+| ----- | --------------------------- | ----------------------------------------------- |
+| 1.º   | +2                          | Competencia de Monstie, Ataque Único de Monstie |
+| 2.º   | +2                          | Rasgo de Monstie                                |
+| 3.º   | +2                          | Criatura                                        |
+| 4.º   | +2                          | Mejora de Puntuación de Característica          |
+| 5.º   | +3                          | Mejora de Competencia de Monstie                |
+| 6.º   | +3                          | Ataque o Daño Extra, Aumento de Tamaño          |
+| 7.º   | +3                          | Tiradas de Salvación                            |
+| 8.º   | +3                          | Mejora de Puntuación de Característica          |
+| 9.º   | +4                          | Mejora de Competencia de Monstie                |
+| 10.º  | +4                          | Mejora de Rasgo de Monstie                      |
+| 11.º  | +4                          | Mejora de Criatura                              |
+| 12.º  | +4                          | Mejora de Puntuación de Característica          |
+| 13.º  | +5                          | Mejora de Competencia de Monstie                |
+| 14.º  | +5                          | Mejora de Puntuación de Característica          |
+| 15.º  | +5                          | Ataque o Daño Extra, Aumento de Tamaño          |
+| 16.º  | +5                          | Mejora de Puntuación de Característica          |
+| 17.º  | +6                          | Mejora de Competencias de Monstie               |
+| 18.º  | +6                          | Mejora de Criatura                              |
+| 19.º  | +6                          | Mejora de Puntuación de Característica          |
+| 20.º  | +6                          | Mejora de Rasgo de Monstie                      |
 
 ## Competencias de Monstie
 
