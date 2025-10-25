@@ -36,10 +36,10 @@ CON: Ataques de aliento, enfermedad, venenos, rugidos
 CAR: Presencia aterradora
 
 ## Sentidos
-El monstie obtiene los mismos sentidos que el bloque de estadísticas principal (visión en la oscuridad, vista ciega, visión verdadera, sentido de temblores), pero tiene un alcance máximo de 9 metros. Si el sentido del monstruo original es inferior a 9 metros, el sentido de tu monstruo es igual a ese. A medida que el tamaño del monstruo aumenta a nivel 6, el alcance de sus sentidos aumenta a 18 metros, o al alcance máximo del sentido del monstruo original (el que sea menor). Este alcance aumenta a 36 metros a nivel 15, o al alcance máximo del sentido del monstruo original (el que sea menor).
+El monstie obtiene los mismos sentidos que el bloque de estadísticas principal (visión en la oscuridad, vista ciega, visión verdadera, sentido de temblores), pero tiene un alcance máximo de 6 casillas. Si el sentido del monstruo original es inferior a 6 casillas, el sentido de tu monstruo es igual a ese. A medida que el tamaño del monstruo aumenta a nivel 6, el alcance de sus sentidos aumenta a 12 casillas, o al alcance máximo del sentido del monstruo original (el que sea menor). Este alcance aumenta a 24 casillas a nivel 15, o al alcance máximo del sentido del monstruo original (el que sea menor).
 
 ## Velocidad
-Un monstruo tiene los mismos tipos de movimiento que el monstruo original en el que se basa, pero inicialmente no es tan rápido. Su velocidad base al caminar es de 7,6 metros. Cualquier otro tipo de movimiento (volar, excavar, trepar, etc.) es de 4,5 metros. Cada vez que el monstruo sube de nivel, obtiene 1,5 metros adicionales de cada tipo de movimiento, hasta alcanzar su movimiento original de bloques de estadísticas para cada tipo.
+Un monstruo tiene los mismos tipos de movimiento que el monstruo original en el que se basa, pero inicialmente no es tan rápido. Su velocidad base al caminar es de 5 casillas. Cualquier otro tipo de movimiento (volar, excavar, trepar, etc.) es de 3 casillas. Cada vez que el monstruo sube de nivel, obtiene 1 casilla adicionales de cada tipo de movimiento, hasta alcanzar su movimiento original de bloques de estadísticas para cada tipo.
 
 # ![[monstie.jpg]]
 
@@ -82,8 +82,8 @@ El daño de estos ataques se reduce. Al usar el mismo dado de daño que el origi
 
 El alcance de estas acciones también es diferente. Si el tipo de alcance del ataque no se encuentra en la lista a continuación, tú y tu DM pueden ajustarlo. El alcance de este ataque no puede superar el alcance máximo del monstruo original.
 
-- **Cono.** Un cono tiene un alcance de 4,5 metros a nivel 1. Su alcance aumenta a 9 metros a nivel 6, a 13,7 metros a nivel 11 y a 18 metros a nivel 16.
-- **Línea.** Una línea mide 9 metros de largo y 1,5 metros de ancho a nivel 1. Su longitud aumenta a 13,7 metros a nivel 6 y a 18 metros a nivel 11. A nivel 16, su longitud aumenta a 27 metros y su anchura a 3 metros.
+- **Cono.** Un cono tiene un alcance de 3 casillas a nivel 1. Su alcance aumenta a 6 casillas a nivel 6, a 9 casillas a nivel 11 y a 12 casillas a nivel 16.
+- **Línea.** Una línea mide 6 casillas de largo y 1 casilla de ancho a nivel 1. Su longitud aumenta a 9 casillas a nivel 6 y a 12 casillas a nivel 11. A nivel 16, su longitud aumenta a18 casillas y su anchura a 2 casillas.
 - **Criatura o punto objetivo**. Una acción que tiene como objetivo un punto dentro del alcance reduce su alcance en un 75% del alcance original del monstruo a nivel 1. Su alcance aumenta al 50% a nivel 6, al 75% a nivel 11 y al 100% a nivel 16.
 
 ## Rasgo de Monstie

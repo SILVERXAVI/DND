@@ -1,4 +1,4 @@
-**[[Rathalos]]** 
+**[[Rathalos (CR 10)]]** 
 # lv1
 **Wyvern volador pequeño**
 **Nivel:** 1
