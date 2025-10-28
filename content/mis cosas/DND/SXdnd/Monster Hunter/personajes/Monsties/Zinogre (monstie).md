@@ -13,11 +13,11 @@
 | +2  | +1  | +2  | -1  | +1  | 0   |
 ##### habilidades:
 - **habilidades**: 
-	- atletismo +9 
-	- percepcion +5
+	- supervivencia +6 
+	- percepcion +6
 - **Sentidos:** 
 	- visión en la oscuridad 6 casillas
-	- percepción pasiva 15
+	- percepción pasiva 16
 - **Idiomas:** —
 - **Competencia:** +2
 ##### Acciones:
