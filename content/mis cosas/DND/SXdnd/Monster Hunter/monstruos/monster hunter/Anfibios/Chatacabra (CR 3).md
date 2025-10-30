@@ -1,22 +1,26 @@
 **_El chatacabra es un anfibio con extremidades anteriores fuertes y voluminosas, y una postura similar a la de las bestias con colmillos simiescos. Su cuerpo escamoso de color turquesa y su mandíbula puntiaguda esconden una larga lengua, que utiliza tanto para atacar como para cubrir sus extremidades anteriores con saliva adhesiva. Esto le permite adherir piedras y tierra a sus brazos para obtener una armadura adicional y asestar golpes más potentes. Al ser un depredador más pequeño, el chatacabra prefiere la seguridad de valles y cañones donde los depredadores más grandes no pueden llegar, evitando las zonas abiertas siempre que sea posible. Se alimentan principalmente de enjambres de bulaqchi, utilizando su lengua adhesiva para atrapar docenas de estos neopterones a la vez. A pesar de no ser muy agresivos, atacarán si permaneces en su proximidad durante demasiado tiempo._**
 
-
+---
 ## Chatacabra 
-**Bestia grande (anfibio), sin alineamiento**
-**Clase de armadura:** 15 (armadura natural)
-**Puntos de golpe:** 68 (8d10 + 24)
-Velocidad 9 m, natación 9 m. 
+- **Bestia grande (anfibio), sin alineamiento**
+- **Clase de armadura:** 15 (armadura natural)
+- **Puntos de golpe:** 68 (8d10 + 24)
+- Velocidad 9 m.
+- natación 9 m. 
 
 | FUE | DES | CON | INT | SAB | CAR |
 | --- | --- | --- | --- | --- | --- |
 | 14  | 10  | 16  | 5   | 10  | 6   |
 | +2  | +0  | +3  | -3  | +0  | -2  |
 
-**Inmunidad al daño:** ácido
-**Sentidos:** Percepción pasiva 9
-**Idiomas** —
-**Desafío:** 3 (700 XP)
-**Competencia** +2
+- **Inmunidad al daño:** ácido
+- **Sentidos:** Percepción pasiva 9
+- **Idiomas** —
+
+- **Desafío:** 3 (700 XP)
+- **Competencia** +2
+
+---
 **Anfibio.** El chatacabra puede respirar aire y agua.
 
 **Salto de pie.** El chatacabra puede saltar en longitud hasta 6 metros y en altura hasta 4,5 metros, sin necesidad de correr. Además, no provoca ataques de oportunidad mientras se mueve con un salto.
