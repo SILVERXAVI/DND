@@ -1,6 +1,7 @@
 ## **NPC**
 - [[lamar ionetta]]
 - [[furina de fontine]]
+- [[SX]]
 
 
 ## **jugadores**

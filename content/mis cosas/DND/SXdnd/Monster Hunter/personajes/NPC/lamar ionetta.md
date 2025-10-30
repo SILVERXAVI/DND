@@ -80,7 +80,7 @@ _"Quienes rompen la ley… no merecen clemencia. No hay razón, no hay matiz, no
 ### [[Avatar de la Eternidad]]
 **El Avatar de la Eternidad es un ser tocado por la Eternidad, un guerrero capaz de blandir espada y relámpago con la misma maestría. Forjado entre el deber y la fuerza, este héroe canaliza la energía de tormentas y controla el flujo de la batalla como un semidiós en el campo de combate. Mientras combina ataques cuerpo a cuerpo con control de energía eléctrica y habilidades mágicas. Protege a sus aliados mientras destruye a sus enemigos al mismo tiempo, capaz de castigar enemigos y resurgir más fuerte cuando la batalla parece perdida.**
 
-Como luchador, obtienes las siguientes características de clase.
+Obtienes las siguientes características de clase.
 ##### Competencias
 - **Armas:** [[Espada larga]]
 - **Armadura:** [[acolchada]], [[cuero]], [[cuero tachonado]]
