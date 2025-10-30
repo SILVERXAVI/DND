@@ -7,10 +7,10 @@
 **Puntos de golpe:** 68 (8d10 + 24)
 Velocidad 9 m, natación 9 m. 
 
-| FUE  | DES  | CON  | INT  | SAB  | CAR  |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-| 14   | 10   | 16   | 5    | 10   | 6    |
-| (+2) | (+0) | (+3) | (-3) | (+0) | (-2) |
+| FUE | DES | CON | INT | SAB | CAR |
+| --- | --- | --- | --- | --- | --- |
+| 14  | 10  | 16  | 5   | 10  | 6   |
+| +2  | +0  | +3  | -3  | +0  | -2  |
 
 **Inmunidad al daño:** ácido
 **Sentidos:** Percepción pasiva 9

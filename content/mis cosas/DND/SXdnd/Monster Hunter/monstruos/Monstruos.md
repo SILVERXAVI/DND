@@ -41,6 +41,8 @@
 - [[Yian Kut-Ku (CR 3)]]
 	- [[Yian Kut-Ku Temperamental (CR 10)]]
 	- [[Yian Kut-Ku Azul (CR 5)]]
+#### Extras
+- [[Dodo-Ya-Ku (CR 8)]]
 
 ### Wyverns Brutos
 **Los Wyverns Brutos se consideran Wyverns adaptados a la vida terrestre, e incluso a veces se les llama terópodos por su gran parecido con algunos dinosaurios depredadores. Estos monstruos suelen ser terópodos grandes y bípedos, propensos a vivir en zonas con abundantes fuentes de alimento. Los Wyverns Brutos presentan una amplia variedad de hábitos alimenticios; algunos son estrictamente herbívoros o carnívoros, mientras que otros se alimentan de insectos o incluso minerales. Estos monstruos suelen usar sus cuerpos pesados ​​y musculosos para embestir a ciegas por el entorno y dañar a sus atacantes o presas, e incluyen numerosas adaptaciones defensivas, como garrotes en la cola, cuernos e incluso barbillas y puños con forma de martillo. Los Wyverns Brutos se pueden encontrar en casi cualquier tipo de entorno.**
@@ -70,7 +72,8 @@
 	- [[Steel Uragaan (CR 18)]]
 #### Extras
 - [[Brachinas (CR 21)]]
-- 
+- [[Deviljhodra (CR 22)]]
+- [[Glavenus de Doble Hoja (CR 10)]]
 ### Carapaceon
 Los Carapaceon son monstruos parecidos a crustáceos que tienen caparazones duros y exoesqueletos o cuerpos similares a los de los cangrejos. Cuando se debilitan por daños físicos, muestran hemorragias internas a través de la espuma de burbujas moradas que salen de sus bocas. Se sabe que los Carapaceon se esconden bajo tierra y atacan a sus presas cuando están al alcance. La mayoría de estos crustáceos se asemejan a cangrejos, langostas o escorpiones.
 - [[Ceanataur (CR 1/2)]]
@@ -156,6 +159,9 @@ Los cefalópodos se encuentran en la cima de sus ecosistemas y se caracterizan p
 #### extras
 - [[Oltura (CR 28)]]
 - [[Tormenta de Sangre Amatsu (CR 13)]]
+- [[Nakarkos de escombros (CR 4)]]
+- [[Gen Diabolico Nergigante (CR 30)]]
+- [[Eruzereion (CR 21)]]
 ### Bestias de colmillos
 **_Antiguamente conocidas como Pelagus, las bestias con colmillos son criaturas mamíferas sin alas. Suelen ser mucho más rápidas que otras amenazas mayores, pero no todas son agresivas. Muchas ignoran a los aventureros a menos que se den a conocer o las asusten. Otras, en cambio, atacan en el lugar, aprovechando el entorno y la velocidad. Las bestias con colmillos presentan una amplia variedad de hábitos alimenticios; algunas son estrictamente herbívoras o carnívoras, mientras que otras se alimentan de insectos. La mayoría posee atributos únicos para la supervivencia, como poderosas extremidades anteriores o grandes colmillos, y están bien adaptadas al entorno en el que viven. Otras forman manadas, siendo la más fuerte la del Alfa._**
 - [[Ajarakan (CR 10)]]
@@ -203,33 +209,42 @@ Los cefalópodos se encuentran en la cima de sus ecosistemas y se caracterizan p
 - [[Blangalala (CR 12)]]
 - [[Arzuros Empapado de Sangre (CR 11)]]
 - [[Buroking (CR 9)]]
+- [[Caeserber (CR 4)]]
+- [[Volvidon encañonado (CR 12)]]
+- [[Volvidon Navideño (CR 5)]]
+- [[Volvidon Navideño Templado (CR 10)]]
+- [[Volvidon Navideño Super-Templado (CR 10)]]
+- [[Rajang Divino (CR 21)]]
+- 
 ### Wyverns de Colmillos
 **_Los Wyverns Colmilludos son conocidos por ser monstruos Wyvern similares a Bestias Colmilludas, con extremidades muy desarrolladas. Suelen ser ignorados por pueblos y ciudades debido a que sus territorios preferidos están alejados de la civilización. Hasta hace poco, los estudiosos solo clasificaban al Zinogre como la única especie conocida de estos wyverns. Se han descubierto nuevas especies en regiones remotas, aunque su naturaleza es más reptiliana que la de sus parientes._**
 - [[Dodogama (CR 7)]]
-	- [[Dodogama, Juvenile (CR 1)]]
+	- [[Dodogama joven (CR 1)]]
 - [[Girros (CR 1)]]
-	- [[Girros Pup (CR 1/8)]]
-	- [[Great Girros (CR 6)]]
+	- [[Cría de Girros (CR 1/8)]]
+	- [[Gran Girros (CR 6)]]
 - [[Jagras (CR 1/2)]]
-	- [[Jagras Pup (CR 1/8)]]
+	- [[Cría de Jagras (CR 1/8)]]
 - [[Great Jagras (CR 4)]]
 - [[Lunagaron (CR 19)]]
 - [[Magnamalo (CR 17)]]
 	- [[Scorned Magnamalo (CR 21)]]
 - [[Odogaron (CR 8)]]
-	- [[Young Odogaron (CR 4)]]
-	- [[Ebony Odogaron (CR 12)]]
-	- [[Tempered Ebony Odogaron (CR 17)]]
+	- [[Odogaron joven (CR 4)]]
+	- [[Odogaron de Ébano (CR 12)]]
+	- [[Odogaron de Ébano Templado (CR 17)]]
 - [[Shamos (CR 1)]]
-	- [[Shamos Pup (CR 0)]]
+	- [[Cría de Shamos (CR 0)]]
 - [[Tobi-Kadachi (CR 6)]]
 	- [[Tobi-Kitachi (CR 2)]]
 - [[Viper Tobi-Kadachi (CR 9)]]
 	- [[Viper Tobi-Kitachi (CR 3)]]
 - [[Zinogre (CR 10)]]
-	- [[Juvenile Zinogre (CR 3)]]
-	- [[Thunderlord Zinogre (CR 16)]]
-	- [[Stygian Zinogre (CR 20)]]
+	- [[Zinogre joven (CR 3)]]
+	- [[Zinogre señor del trueno (CR 16)]]
+	- [[Zinogre estigio (CR 20)]]
+#### Extras
+- [[Gran Girros Capt'N (CR 8)]]
 ### Wyverns Voladores
 
 - [[Akantor (CR 20)]]
@@ -306,6 +321,9 @@ Los cefalópodos se encuentran en la cima de sus ecosistemas y se caracterizan p
 - [[Bazelgeuse pajaro negro (CR 14)]]
 - [[Tejedor de cuchillas Seregios (CR 14)]]
 - [[Nargacuga Parpadeante (CR 21)]]
+- [[Rosa del Desierto Ukanlos (CR 17)]]
+- [[Devilgrex (CR 21)]]
+- [[Bazelgeuse Extremo (CR 27)]]
 ### Leviatanes
 
 - [[Almudron (CR 15)]]
@@ -435,6 +453,11 @@ Los cefalópodos se encuentran en la cima de sus ecosistemas y se caracterizan p
 	- [[Qurio Swarm (CR 2)]]
 #### Extras
 - [[Big Zam(trios) (CR 14)]]
+- [[Proto-EDW Dañado (CR 10)]]
+- [[Arma de Dragon Igual (CR 30)]]
+- [[Arma de Dragon Igual de Segunda Generación (CR 9)]]
+- [[Arma de Dragon Igual de Septima Generación (CR 27)]]
+- [[Quimera de los cuatro destinados (CR 20)]]
 ### Herbívoros
 
 - [[Apceros (CR 1-4)]]
