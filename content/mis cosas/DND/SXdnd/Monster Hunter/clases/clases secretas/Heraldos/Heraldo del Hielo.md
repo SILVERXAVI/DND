@@ -10,7 +10,7 @@ El Heraldo del Hielo no teme la soledad ni la muerte: son el invierno que duerme
 
 ### ❄️ **Desbloqueo**
 
-Se desbloquea al conseguir **nivel 5 en paladín del [[Juramento de los Antiguos]]** y **nivel 5 en hechicero de la [[Sangre Helada]]**.
+Se desbloquea al conseguir **nivel 5 en paladín del Juramento de la [[Corona]] ** y **nivel 5 en hechicero de la [[Hechicería marina]]**.
 
 ---
 

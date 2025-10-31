@@ -1,3 +1,4 @@
+Alma Divina
 **_A veces, la chispa de magia que alimenta a un hechicero proviene de una fuente divina que brilla dentro del alma. Tener un alma tan bendita es una señal de que tu magia innata podría provenir de una conexión familiar distante pero poderosa con un ser divino. Quizás tu antepasado fue un ángel, transformado en mortal y enviado a luchar en nombre de un dios. O tu nacimiento podría alinearse con una profecía antigua, marcándote como un sirviente de los dioses o un recipiente elegido de magia divina._**
 
 **_Un Alma Divina, con magnetismo natural, es vista como una amenaza por algunas jerarquías religiosas. Como forastero que domina el poder celestial, estos hechiceros pueden socavar el orden existente al reclamar un vínculo directo con lo divino._**
@@ -19,6 +20,16 @@ Además, elige una afinidad por la fuente de tu poder divino: el bien, el mal, l
 |Ley|[Bendición](http://dnd5e.wikidot.com/spell:bless)|
 |Caos|[Perdición](http://dnd5e.wikidot.com/spell:bane)|
 |Neutralidad|[Protección contra el mal y el bien](http://dnd5e.wikidot.com/spell:protection-from-evil-and-good)|
+Además, consulta la tabla Manifestaciones de orden y elige o determina aleatoriamente una forma en que tu conexión con el orden se manifiesta mientras lanzas cualquiera de tus hechizos de hechicero.
+
+| d6  | Manifestación                                                                                               |
+| --- | ----------------------------------------------------------------------------------------------------------- |
+| 1   | Un halo translúcido y apenas visible brilla detrás de tu cabeza cuando lanzas un hechizo.                   |
+| 2   | Pequeñas plumas luminosas caen lentamente a tu alrededor cada vez que usas tu magia.                        |
+| 3   | Tus ojos se tornan dorados o plateados, reflejando la luz.                                                  |
+| 4   | Ecos de cánticos angelicales o coros distantes acompañan tus hechizos.                                      |
+| 5   | Una leve fragancia de incienso o azucena emana de ti cuando canalizas energía mágica.                       |
+| 6   | Un símbolo divino —una estrella, ala o runa luminosa— aparece brevemente sobre tu corazón al usar tu poder. |
 
 ### Favorecido por los dioses
 

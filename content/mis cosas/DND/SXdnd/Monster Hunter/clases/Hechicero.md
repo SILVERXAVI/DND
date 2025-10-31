@@ -2,9 +2,9 @@
 
 _Debes tener una puntuación de Carisma de 13 o superior para poder realizar múltiples clases dentro o fuera de esta clase._
 
-| El hechicero |      |                    |                                                                           |                    |                    | Tragamonedas de hechizos por nivel de hechizo |     |     |     |     |     |     |     |     |
-| ------------ | ---- | ------------------ | ------------------------------------------------------------------------- | ------------------ | ------------------ | --------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+
 | Nivel        | vida | Puntos de brujería | Características                                                           | Cantrips conocidos | Hechizos conocidos | 1o                                            | 2do | 3o  | 4to | 5to | 6to | 7mo | 8vo | 9no |
+| ------------ | ---- | ------------------ | ------------------------------------------------------------------------- | ------------------ | ------------------ | --------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1o           | 10   | -                  | Lanzamiento de hechizos, origen hechicero                                 | 4                  | 2                  | 2                                             | -   | -   | -   | -   | -   | -   | -   | -   |
 | 2do          | +1   | 2                  | Fuente de Magia                                                           | 4                  | 3                  | 3                                             | -   | -   | -   | -   | -   | -   | -   | -   |
 | 3o           | +1   | 3                  | Metamágico                                                                | 4                  | 4                  | 4                                             | 2   | -   | -   | -   | -   | -   | -   | -   |
@@ -82,24 +82,24 @@ Puedes usar un enfoque arcano como foco de lanzamiento de hechizos para tus hech
 
 Elige un origen hechicero, que describe la fuente de tu poder mágico innato. Tu elección te otorga funciones cuando las eliges en el nivel 1 y nuevamente en los niveles 6, 14 y 18.
 
-| Origen                        |
-| ----------------------------- |
-| [[Mente aberrante]]           |
-| [[Alma mecánica]]             |
-| [[Linaje dracónico]]          |
-| [[Alma Divina]]               |
-| [[Hechicería Lunar]]          |
-| [[Magia de las Sombras]]      |
-| [[Hechicería de tormenta]]    |
-| [[Magia Salvaje (Hechicero)]] |
-| [[Piromancia]]                |
-| [[Alma gigante]]              |
-| [[Mago de Prismari]]          |
-| [[Mago de Quandrix]]          |
-| [[Hechicería Fénix]]          |
-| [[Alma psiónica]]             |
-| [[Hechicería marina]]         |
-| [[Hechicería de piedra]]      |
+| Origen                        |                  |
+| ----------------------------- | ---------------- |
+| [[Mente aberrante]]           |                  |
+| [[Alma mecánica]]             |                  |
+| [[Linaje dracónico]]          |                  |
+| [[Alma Divina]]               |                  |
+| [[Hechicería Lunar]]          |                  |
+| [[Magia de las Sombras]]      |                  |
+| [[Hechicería de tormenta]]    |                  |
+| [[Magia Salvaje (Hechicero)]] |                  |
+| [[Piromancia]]                |                  |
+| [[Alma gigante]]              |                  |
+| [[Mago de Prismari]]          | mago de prisdrix |
+| [[Mago de Quandrix]]          |                  |
+| [[Hechicería Fénix]]          |                  |
+| [[Alma psiónica]]             |                  |
+| [[Hechicería marina]]         |                  |
+| [[Hechicería de piedra]]      |                  |
 
 ### Fuente de Magia
 

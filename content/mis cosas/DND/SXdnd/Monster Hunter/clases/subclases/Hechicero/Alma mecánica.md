@@ -1,7 +1,4 @@
 **_La fuerza cósmica del orden te ha impregnado de magia. Ese poder surge de Mechanus o de un reino como él: un plano de existencia moldeado enteramente por la eficiencia del mecanismo de relojería. Tú, o alguien de tu linaje, podrías haberte enredado en las maquinaciones de los modrones, los seres ordenados que habitan en Mechanus. Quizás su antepasado incluso participó en la Gran Marcha Modron. Cualquiera que sea su origen dentro de ti, el poder del orden puede parecer extraño a los demás, pero para ti es parte de un sistema vasto y glorioso._**
-
-Fuente: Caldero de todo de Tasha
-
 ### Magia mecánica
 
 Aprendes hechizos adicionales cuando alcanzas ciertos niveles en esta clase, como se muestra en la tabla Hechizos mecánicos. Cada hechizo cuenta como un hechizo hechicero para ti, pero no cuenta contra la cantidad de hechizos hechiceros que conoces. Estos hechizos no se pueden reemplazar cuando obtienes un nivel en esta clase.
@@ -19,15 +16,14 @@ Cada vez que obtienes un nivel de hechicero, puedes reemplazar un hechizo que ob
 
 Además, consulta la tabla Manifestaciones de orden y elige o determina aleatoriamente una forma en que tu conexión con el orden se manifiesta mientras lanzas cualquiera de tus hechizos de hechicero.
 
-|Manifestaciones de orden|
-|---|---|
-|d6|Manifestación|
-|1|Ruedas dentadas espectrales flotan detrás de ti.|
-|2|Las manecillas de un reloj giran en tus ojos.|
-|3|Tu piel brilla con un brillo cobrizo.|
-|4|Ecuaciones flotantes y objetos geométricos se superponen a tu cuerpo.|
-|5|Su enfoque de lanzamiento de hechizos toma temporalmente la forma de un pequeño mecanismo de relojería.|
-|6|Usted y aquellos afectados por su magia pueden escuchar el tictac de los engranajes o el repique de un reloj.|
+| d6  | Manifestación                                                                                                 |
+| --- | ------------------------------------------------------------------------------------------------------------- |
+| 1   | Ruedas dentadas espectrales flotan detrás de ti.                                                              |
+| 2   | Las manecillas de un reloj giran en tus ojos.                                                                 |
+| 3   | Tu piel brilla con un brillo cobrizo.                                                                         |
+| 4   | Ecuaciones flotantes y objetos geométricos se superponen a tu cuerpo.                                         |
+| 5   | Su enfoque de lanzamiento de hechizos toma temporalmente la forma de un pequeño mecanismo de relojería.       |
+| 6   | Usted y aquellos afectados por su magia pueden escuchar el tictac de los engranajes o el repique de un reloj. |
 
 ### Restaurar saldo
 

@@ -8,7 +8,7 @@
 
 ## 🌌 **Desbloqueo**
 
-Se desbloquea al obtener **nivel 5 en mago de la [[Gravitación]]** y **nivel 5 en brujo del [[Abismo Estelar]]**.
+Se desbloquea al obtener **nivel 5 en mago de la [[Graviturgia]]** y **nivel 5 en brujo del [[Hoja Hexagonal]]**.
 
 ---
 

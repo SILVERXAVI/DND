@@ -1,12 +1,17 @@
 
 ## normales
-[[Humano]]
-[[Elfo]]
-[[Semiorco]]
-[[Enano]]
-[[Draconico]]
-[[Gnomo]]
-[[Mediano]]
+- [[Humano]]
+- [[Elfo]]
+- [[Semiorco]]
+- [[Enano]]
+- [[Draconico]]
+- [[Gnomo]]
+- [[Mediano]]
+- [[Semielfo]]
+- [[Tiefling]]
+- [[Tritons]]
+
+
 
 ## MH
 - [[Wyverianos]]

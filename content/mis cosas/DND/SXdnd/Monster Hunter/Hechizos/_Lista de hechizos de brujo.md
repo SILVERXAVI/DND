@@ -1,7 +1,7 @@
 ---
 title: hechizos de brujo
 ---
-trucos
+### trucos
 - [[descarga sobrenatural]]
 - [[Ilusión menor]]
 - [[impacto certero]]
@@ -9,7 +9,7 @@ trucos
 - [[Prestidigitación]]
 - [[rociada venenosa]]
 - [[toque helado]]
-nivel 1 de hechizo
+### nivel 1 de hechizo
 - [[entender idioma]]
 - [[Hechizar persona]]
 - [[protección contra el bien y el mal]]
@@ -17,7 +17,7 @@ nivel 1 de hechizo
 - [[retirada expeditiva]]
 - [[sirviente invisible]]
 - [[texto ilusorio]]
-nivel 2 de hechizo
+### nivel 2 de hechizo
 - [[embelesar]]
 - [[hacer añicos]]
 - [[imagen multiple]]
@@ -28,5 +28,11 @@ nivel 2 de hechizo
 - [[rayo debilitador]]
 - [[sugestión]]
 - [[trepar cual arácnido]]
-nivel 3 de hechizo
+### nivel 3 de hechizo
 - [[]]
+
+
+
+
+### nivel 7 de hechizo
+- [[Dedo de la Muerte]]

@@ -1,9 +1,6 @@
 **_En muchos mundos, la luna es un cuerpo celeste venerado con propiedades mágicas. En Krynn, los dioses de la magia están asociados con las tres lunas del mundo. En el mundo de Toril, el dios Seleune usa la luz de la luna para luchar contra la oscuridad. En Eberron, los eruditos de la Profecía Dracónica descifran secretos antiguos del aumento y disminución de las doce lunas de ese mundo._**
 
 **_Tú o alguien de tu linaje ha estado expuesto a la magia concentrada de la luna (o lunas) de tu mundo, imbuyéndote de magia lunar. Quizás tu antepasado estuvo involucrado en un ritual druídico que involucraba un eclipse, o tal vez un fragmento místico de una luna se estrelló cerca de ti. Independientemente de cómo hayas llegado a tener tu magia, tu conexión con la luna es obvia cuando lanzas hechizos de hechicero, tal vez haciendo que tus pupilas brillen con el color de una luna de tu mundo, provocando que manifestaciones espectrales de las fases lunares te orbiten, o algún otro efecto._**
-
-Fuente: Dragonlance: Sombra de la Reina Dragón
-
 ### Encarnación lunar
 
 Aprendes hechizos adicionales cuando alcanzas ciertos niveles en esta clase, como se muestra en la tabla de hechizos lunares. Cada uno de estos hechizos cuenta como un hechizo hechicero para ti, pero no cuenta contra la cantidad de hechizos hechiceros que conoces.
@@ -18,6 +15,17 @@ Aprendes hechizos adicionales cuando alcanzas ciertos niveles en esta clase, com
 |9no|[El vínculo telepático de Rary](https://dnd5e.wikidot.com/spell:rarys-telepathic-bond)|[Sostener monstruo](https://dnd5e.wikidot.com/spell:hold-monster)|[Engañar](https://dnd5e.wikidot.com/spell:mislead)|
 
 Siempre que termines un largo descanso, podrás elegir qué fase lunar manifiesta su poder a través de tu magia: Luna Llena, Luna Nueva o Luna Creciente. Mientras estás en la fase elegida, puedes lanzar un hechizo de primer nivel de la fase asociada en la tabla de hechizos lunares una vez sin gastar un espacio de hechizo. Una vez que lanzas un hechizo de esta manera, no puedes volver a hacerlo hasta que termines un largo descanso.
+
+Además, consulta la tabla Manifestaciones de orden y elige o determina aleatoriamente una forma en que tu conexión con el orden se manifiesta mientras lanzas cualquiera de tus hechizos de hechicero.
+
+| d6  | Manifestación                                                                                                    |
+| --- | ---------------------------------------------------------------------------------------------------------------- |
+| 1   | Un tenue resplandor plateado envuelve tu silueta, como si la luz de la luna te siguiera incluso en la oscuridad. |
+| 2   | Tus pupilas cambian de forma con las fases lunares: llenas, crecientes o nuevas.                                 |
+| 3   | Fragmentos espectrales de lunas en miniatura orbitan alrededor de tu cabeza cuando lanzas hechizos.              |
+| 4   | Tu sombra se distorsiona y se mueve con un leve retraso, como si la luna dictara su ritmo.                       |
+| 5   | Tu voz resuena con un eco suave y distante, como si hablara bajo la bóveda de una noche estrellada.              |
+| 6   | La luz que emites cambia de tono —de blanco frío a azul profundo— según tu estado emocional o el momento lunar.  |
 
 ### Fuego Luna
 

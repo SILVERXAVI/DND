@@ -1,7 +1,7 @@
 ***El Heraldo del Tiempo camina entre los latidos del universo. Donde otros ven el presente, él percibe el eco del pasado y la sombra del futuro.*** 
 ***Su poder no destruye ni cura, sino reordena. Puede acelerar el devenir de los acontecimientos o congelarlos en el instante perfecto. Es la personificación del reloj cósmico y del equilibrio entre causa y consecuencia.***
 
-Se desbloquea al tener **Mago de Cronomancia** y **Brujo del Pacto del Eco**.
+Se desbloquea al tener **Mago de [[Cronurgia]]** y **Hechicero del [[Alma Divina]]**.
 
 ---
 

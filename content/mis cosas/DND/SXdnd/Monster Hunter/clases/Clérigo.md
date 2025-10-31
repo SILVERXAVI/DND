@@ -86,30 +86,30 @@ Puedes usar un símbolo sagrado como foco de lanzamiento de hechizos para tus he
 
 En el primer nivel, eliges un dominio determinado por tu elección de Deidad y los obsequios que te otorgan. Tu elección te otorga hechizos de dominio y otras características cuando lo eliges en el primer nivel. También le otorga formas adicionales de usar Channel Divinity cuando obtiene esa función en el segundo nivel y beneficios adicionales en los niveles 6, 8 y 17.
 
-| Dominio                    |
-| -------------------------- |
-| [[Arcanos]]                |
-| [[mis cosas/DND/SXdnd/Monster Hunter/clases/subclases/Clérigo/Muerte]]                 |
-| [[Forjar]]                 |
-| [[Tumba]]                  |
-| [[Conocimiento (clerigo)]] |
-| [[Vida]]                   |
-| [[Luz]]                    |
-| [[Naturaleza]]             |
-| [[Orden]]                  |
-| [[Paz]]                    |
-| [[Tempestad]]              |
-| [[Engaño]]                  |
-| [[Crepúsculo (clerigo)]]   |
-| [[Guerra]]                 |
-| [[Solidaridad]]            |
-| [[Fuerza]]                 |
-| [[Ambición]]               |
-| [[Celo]]                   |
-| [[Destino]]                |
-| [[Ciudad]]                 |
-| [[Protección]]             |
-| [[Unidad]]                 |
+| Dominio                                                                |
+| ---------------------------------------------------------------------- |
+| [[Arcanos]]                                                            |
+| [[mis cosas/DND/SXdnd/Monster Hunter/clases/subclases/Clérigo/Muerte]] |
+| [[Forja]]                                                             |
+| [[Tumba]]                                                              |
+| [[Conocimiento (clerigo)]]                                             |
+| [[Vida]]                                                               |
+| [[Luz]]                                                                |
+| [[Naturaleza]]                                                         |
+| [[Orden]]                                                              |
+| [[Paz]]                                                                |
+| [[Tempestad]]                                                          |
+| [[Engaño]]                                                             |
+| [[Crepúsculo (clerigo)]]                                               |
+| [[Guerra]]                                                             |
+| [[Solidaridad]]                                                        |
+| [[Fuerza]]                                                             |
+| [[Ambición]]                                                           |
+| [[Celo]]                                                               |
+| [[Destino]]                                                            |
+| [[Ciudad]]                                                             |
+| [[Protección]]                                                         |
+| [[Unidad]]                                                             |
 
 ##### Hechizos de dominio
 

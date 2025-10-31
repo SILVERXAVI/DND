@@ -9,7 +9,7 @@ El Heraldo de la Tierra es el guardián del equilibrio y la firmeza, capaz de cr
 
 ### 🪨 **Desbloqueo**
 
-Se desbloquea al conseguir **nivel 5 en clérigo del Dominio de la Naturaleza** y **nivel 5 en bárbaro del Camino de la Roca** (o cualquier subclase similar centrada en fortaleza física).
+Se desbloquea al conseguir nivel 5 en **clérigo de la [[Forja]]** y nivel 5 en **bárbaro [[Gigante]]**.
 
 ---
 

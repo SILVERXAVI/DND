@@ -116,7 +116,7 @@ Mientras la llevas:
     
 - Tu **velocidad se reduce en 3 m**.
     
-- Eres **resistente al daño cortante, perforante y contundente no mágico.**
+- Eres resistente al daño cortante, perforante y contundente no mágico.
     
 
 #### **Sobrecalentamiento**

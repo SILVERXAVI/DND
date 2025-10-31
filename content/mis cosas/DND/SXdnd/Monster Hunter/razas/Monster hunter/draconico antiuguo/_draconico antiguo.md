@@ -28,3 +28,4 @@ Se han realizado los siguientes cambios al arma de aliento estándar de los Drag
 - [[Valstrax]]
 - [[Velkhana]]
 - [[Zorah Magdaros]]
+- [[Jhen Mohran]]

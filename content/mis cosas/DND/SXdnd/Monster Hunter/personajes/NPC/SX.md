@@ -41,7 +41,7 @@ Obtienes las siguientes características de clase.
 - **Herramientas:** herramientas de herrero  
 - **Habilidades:** acrobacia, percepción y perspicacia
 ##### Equipo
-**Espada larga legendaria**
+**Hacha Cargada legendaria**
 - **modificadores:** +3 daño y tirada
 - 
 - 

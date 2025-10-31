@@ -2,29 +2,29 @@
 
 _Debe tener una puntuación de Inteligencia de 13 o superior para poder realizar múltiples clases dentro o fuera de esta clase._
 
-| El mago |      |                                              |                    | Tragamonedas de hechizos por nivel de hechizo |     |     |     |     |     |     |     |     |
-| ------- | ---- | -------------------------------------------- | ------------------ | --------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nivel   | vida | Características                              | Cantrips conocidos | 1o                                            | 2do | 3o  | 4to | 5to | 6to | 7mo | 8vo | 9no |
-| 1o      |      | Lanzamiento de hechizos, recuperación arcana | 3                  | 2                                             | -   | -   | -   | -   | -   | -   | -   | -   |
-| 2do     |      | Tradición Arcana                             | 3                  | 3                                             | -   | -   | -   | -   | -   | -   | -   | -   |
-| 3o      |      | _Fórmulas Cantrip (Opcional)_                | 3                  | 4                                             | 2   | -   | -   | -   | -   | -   | -   | -   |
-| 4to     |      | Mejora de la puntuación de habilidad         | 4                  | 4                                             | 3   | -   | -   | -   | -   | -   | -   | -   |
-| 5to     |      |                                              | 4                  | 4                                             | 3   | 2   | -   | -   | -   | -   | -   | -   |
-| 6to     |      | Característica de la tradición arcana        | 4                  | 4                                             | 3   | 3   | -   | -   | -   | -   | -   | -   |
-| 7mo     |      |                                              | 4                  | 4                                             | 3   | 3   | 1   | -   | -   | -   | -   | -   |
-| 8vo     |      | Mejora de la puntuación de habilidad         | 4                  | 4                                             | 3   | 3   | 2   | -   | -   | -   | -   | -   |
-| 9no     |      |                                              | 4                  | 4                                             | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
-| 10o     |      | Característica de la tradición arcana        | 5                  | 4                                             | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
-| 11      |      |                                              | 5                  | 4                                             | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
-| 12      |      | Mejora de la puntuación de habilidad         | 5                  | 4                                             | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
-| 13      |      |                                              | 5                  | 4                                             | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
-| 14      |      | Característica de la tradición arcana        | 5                  | 4                                             | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
-| 15      |      |                                              | 5                  | 4                                             | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-| 16      |      | Mejora de la puntuación de habilidad         | 5                  | 4                                             | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-| 17      |      |                                              | 5                  | 4                                             | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
-| 18      |      | Dominio de hechizos                          | 5                  | 4                                             | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-| 19      |      | Mejora de la puntuación de habilidad         | 5                  | 4                                             | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 20      |      | Hechizos característicos                     | 5                  | 4                                             | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+
+| Nivel | vida | Características                              | Cantrips conocidos | 1o  | 2do | 3o  | 4to | 5to | 6to | 7mo | 8vo | 9no |
+| ----- | ---- | -------------------------------------------- | ------------------ | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1o    |      | Lanzamiento de hechizos, recuperación arcana | 3                  | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 2do   |      | Tradición Arcana                             | 3                  | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 3o    |      | _Fórmulas Cantrip (Opcional)_                | 3                  | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
+| 4to   |      | Mejora de la puntuación de habilidad         | 4                  | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 5to   |      |                                              | 4                  | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
+| 6to   |      | Característica de la tradición arcana        | 4                  | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
+| 7mo   |      |                                              | 4                  | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
+| 8vo   |      | Mejora de la puntuación de habilidad         | 4                  | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
+| 9no   |      |                                              | 4                  | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
+| 10o   |      | Característica de la tradición arcana        | 5                  | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
+| 11    |      |                                              | 5                  | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 12    |      | Mejora de la puntuación de habilidad         | 5                  | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 13    |      |                                              | 5                  | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 14    |      | Característica de la tradición arcana        | 5                  | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 15    |      |                                              | 5                  | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 16    |      | Mejora de la puntuación de habilidad         | 5                  | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 17    |      |                                              | 5                  | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18    |      | Dominio de hechizos                          | 5                  | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19    |      | Mejora de la puntuación de habilidad         | 5                  | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20    |      | Hechizos característicos                     | 5                  | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
 # Características de la clase
 
@@ -130,7 +130,7 @@ Cuando llegas al segundo nivel, eliges una tradición arcana, dando forma a tu p
 | [[Orden de los Escribas]]   |
 | [[Transmutación]]           |
 | [[Magia de guerra]]         |
-| [[Creador de runas]]      |
+| [[Creador de runas]]        |
 | [[Artífice]]                |
 | [[Invención]]               |
 | [[Dominio de la tradición]] |
