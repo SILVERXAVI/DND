@@ -46,7 +46,7 @@ Obtienes las siguientes características de clase.
 - 
 - 
 - 
-- **cola cristalina de Zoh Shia:** *agitador* el alcance del golpe critico de tus ataques con arma aumenta en 1 y tu arma inflige 1d6 de daño adicional (Este material cuenta como material de ojo critico y como material de "tu arma inflige daño adicional")
+- 
 - **Gema de Dragón Luminoso:** 
 	***Filo Metamórfico***. Al colocar este material en un arma, aparece una segunda gema en tu mano. Esta gema solo puede colocarse en la ranura de material de otra arma. Mientras estés vinculado a un arma con este material, puedes usar una acción para intercambiar mágicamente el arma con la otra y te vincularás inmediatamente a la nueva arma. No es necesario que tengas equipada la nueva arma, pero sí que esté en el mismo plano de existencia que tú para que el efecto funcione. 
 
@@ -55,8 +55,9 @@ Obtienes las siguientes características de clase.
 - 
 - 
 - 
-- **cola cristalina de Zoh Shia:** *agitador* el alcance del golpe critico de tus ataques con arma aumenta en 1 y tu arma inflige 1d6 de daño adicional (Este material cuenta como material de ojo critico y como material de "tu arma inflige daño adicional")
-- **Gema de Dragón Luminoso:** *Filo Metamórfico*. Al colocar este material en un arma, aparece una segunda gema en tu mano. Esta gema solo puede colocarse en la ranura de material de otra arma. Mientras estés vinculado a un arma con este material, puedes usar una acción para intercambiar mágicamente el arma con la otra y te vincularás inmediatamente a la nueva arma. No es necesario que tengas equipada la nueva arma, pero sí que esté en el mismo plano de existencia que tú para que el efecto funcione. 
+- 
+- **Gema de Dragón Luminoso:** 
+	***Filo Metamórfico***. Al colocar este material en un arma, aparece una segunda gema en tu mano. Esta gema solo puede colocarse en la ranura de material de otra arma. Mientras estés vinculado a un arma con este material, puedes usar una acción para intercambiar mágicamente el arma con la otra y te vincularás inmediatamente a la nueva arma. No es necesario que tengas equipada la nueva arma, pero sí que esté en el mismo plano de existencia que tú para que el efecto funcione. 
 
 **cuero legendario**
 modificadores: (5) +3AC
