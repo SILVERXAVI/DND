@@ -1,0 +1,65 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"dnd/monster hunter/Razas\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15167743
+      }
+    },
+    {
+      "query": "path:\"dnd/monster hunter/Monstruos\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"dnd/monster hunter/Habilidades\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:\"dnd/monster hunter/Clases\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15791141
+      }
+    },
+    {
+      "query": "path:\"dnd/monster hunter/Hechizos\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "path:\"dnd/monster hunter/Informacion\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 2.1802270461082585,
+  "close": true
+}

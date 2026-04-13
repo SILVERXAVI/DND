@@ -1,0 +1,28 @@
+- [ ] Rehacer todas las clases para que en vez de por niveles las habilidades sean de la siguiente forma. 
+	- [ ] artificiero
+	- [ ] barbaro
+	- [ ] bardo
+	- [ ] brujo
+	- [ ] clerigo
+	- [ ] druida
+	- [ ] guardabosques
+	- [ ] hechicero
+	- [ ] luchador
+	- [ ] mago
+	- [ ] monje
+	- [ ] paladin
+	- [ ] picaro
+- [ ] La clase da la vida inicial, la vida por nivel, armas, armaduras y herramientas que sabes usar, las tiradas de salvación en las que tienes ventaja y las tiradas de habilidad donde tienes un +n°
+- [ ] Las acciones de cada clase se obtendrán en los siguientes niveles: 1, 3, 6, 9, 12, 15, 18 y 20
+- [ ] Un ejemplo sería el bárbaro donde obtiene ira al nivel 1, al nivel 3 puede tener Defensa desarmada, ataque inprudente o Sentido peligroso y eliges subclase, en el nivel 6 puedes elegir una de las habilidades que no has elegido en los niveles anteriores o de habilidades que habrías desbloqueado con el método normal
+- [ ] aparte de las reglas anteriores, los usuarios magicos funcionan de forma un poco diferente, por cada nivel pueden elegir un hechizo y desbloqueas hechizo de nivel superior al nivel 5, 9, 13, 17 y 20, cada hechizo tiene un nivel de coste igual a su nivel de hechizo y depende del bastón los hechizos que hayas metido dentro y del número de cargas que tiene siendo común 4 cargas, poco común 8, raro 12, muy raro 16 y legendario 20, estás cargas se cargan después de un descanso largo de forma natural, además cada clase tiene su estilo de usarlos.
+- [ ] El mago puede cambiar hechizos en cualquier momento permitiendo que pueda usar cualquiera de los hechizos aprendidos saltándose la necesidad de meter los hechizos en el bastón
+- [ ] El brujo pueden recuperar cargas matando a los enemigos
+- [ ] El hechicero tiene la capacidad de aumentar el coste del hechizo en 1 pero darle efectos adicionales 
+- [ ] El clérigo tiene la capacidad de usar una acción para rezar y lanzar un d20 para recuperar cargas
+- [ ] El paladín puede o usar un hechizo o gastar un numero de cargas para aumentar el daño de smite o reducir el daño recibido 
+- [ ] El artificiero puede usar las cargas para mejorar armas añadiendo cargas o haciendo que cueste menos o crear cosas
+- [ ] el druida tiene la capacidad de usar las cargas para aumentar la duración de la transformación
+- [ ] El guardabosques puede gastar las cargas para marcar a un enemigo y obtener las bonificaciones de enemigo favorito
+- [ ] El bardo puede usar recuperar cargas haciendo un espectáculo y dependiendo del publico recupera cargas pudiendo exceder el limite
+- [ ] El monje puede usar una accion adicional para recuperar la mitad de su modificador de estadística mas alto

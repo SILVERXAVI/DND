@@ -1,0 +1,9 @@
+## Transformación en 2D
+Raro
+Tipo: Emisor
+
+**Descripción:** El usuario puede absorber personas y objetos en un espacio bidimensional, transformándolos en pinturas 2D. Mientras están atrapados, los afectados pueden moverse dentro de los límites de su nueva forma, pero no pueden escapar.
+
+**Debilidad:** Las pinturas pueden sufrir daños. Si una pintura recibe daño igual al **triple** del modificador de Constitución del usuario, la persona atrapada queda liberada e inconsciente durante 1d4 asaltos. Cada vez que el usuario activa el Don, debe superar una tirada de salvación de Constitución (CD 15). Si falla, sufre un nivel de agotamiento debido al esfuerzo de mantener las formas 2D.
+
+**Absorción:** Como acción, el usuario puede seleccionar dos criaturas u objetos a 10,5 metros (35 pies) e intentar absorberlos en una pintura. El objetivo debe superar una tirada de salvación de Destreza contra la CD de tu peculiaridad o será transformado en una pintura bidimensional. Mientras esté transformado, puede moverse libremente dentro de los límites de la pintura, pero no puede salir ni interactuar con el exterior. La pintura es una habitación de 7,6 metros por 7,6 metros (25 pies por 25 pies) completamente coloreada. La pintura permanece en posesión del usuario y puede liberarse si este queda incapacitado o la deja ir voluntariamente como acción gratuita. Las personas atrapadas pueden comunicarse telepáticamente con el usuario mientras se encuentran dentro de la pintura, lo que permite entablar conversaciones estratégicas o suplicar su liberación. El usuario puede tener un número de pinturas igual a su bonificación por competencia a la vez.

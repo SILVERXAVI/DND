@@ -1,0 +1,437 @@
+## CR 0
+- Altaroth
+- Escarabajo bomba
+- Tiro de Bullfango
+- Escarabajo pelotero
+- Gecko del bosque
+- Avispa vigorosa gigante
+- Cangrejo Yelmo de Hierro
+- Kelbi
+- Mufa
+- vino de musgo
+- nitrosapo
+- Parasapo
+- Cachorro Shamos
+- sapo dormido
+- Helmcrab soldado
+- Vigoravispa Wiggler
+## CR 1/8
+- Anteka
+- Aptonoth
+- Cachorro de Arzuros
+- Bebé Ludroth
+- Bombardeo
+- Bulaqchi
+- ceratonoth
+- Delex
+- Epíoth
+- Gajalaka
+- Gelidrón
+- Cachorro de Girros
+- bata de cabra
+- Cachorro Jagras
+- Qurio
+- Shakalaka
+- Escoria
+- Melynx salvaje
+- Wingdrakes
+- cachorro wulg
+## CR 1/4
+- Apceros
+- Bebé Barroth
+- Bebé Nargacuga
+- Bnahabra
+- Boaboa
+- Bullfango
+- Gargwa
+- Gran Insecto Trueno
+- Hornetauro
+- kestodón
+- Konchu
+- Larinoth
+- Maccao
+- Piragil
+- Popo
+- Taliot
+- Velociprey
+- Vespoide
+## CR 1/2
+- Blango
+- Ceanatauro
+- Comaqchi
+- Dalthydón
+- Gajíos
+- Genprey
+- Giaprey
+- Gigi
+- Hermitauro
+- Ioprey
+- Jaggi
+- Jagras
+ - Cachorro Khezu
+- Equipo Lagombi
+- Palamute
+- pluma de cerdo
+- Rafma
+- Remobra
+- Seikret
+- Uroktor
+- Princesa Vespoide
+- Cachorro Volvidon
+- zamita
+## CR 1
+- Bebé Basarios
+- Baggi
+- Boggi
+- Conga
+- Doshaguma
+- Felyne
+- Gajau
+- Gastodonte
+- Giros
+- Grimalkyne
+- Iodrome
+- Izuchi
+- Jaggia
+- Dodogama juvenil
+- Rey Shakalaka
+- Kranodath
+- Ludroth
+- Melynx
+- Racnoideo
+- Shamos
+- Velocidromo
+- Reina Vespoide
+- Wroggi Wulg
+- Joven Arzuros
+- Joven Kecha Wacha
+## CR 2
+- Bulldromo
+- Cefalos
+- gendromo
+- Giadrome
+- Gran Baggi
+- Gran Jaggi
+- Gran Maccao
+- Gran Wroggi
+- Cachorro Paolumu
+- Enjambre de Qurio
+- Renoplos
+- Tobi-Kitachi
+- Seregios jóvenes
+## CR 3
+- Balahara
+- Chatacabra
+- Gobling
+- Gran Izuchi
+- Ástalos juvenil
+- Uragaan juvenil
+- Zinogre juvenil
+- Lagombi Seltas
+- Víbora Tobi-Kitachi
+- Velociprey blanco
+- Yian Kut-ku``
+## CR 4
+- Arzuros
+- Barroth
+- Seltas del desierto
+- Cachorro de Diablos
+- Legiana incipiente
+- Grandes Jagras
+- hipnocatrice
+- Kulu-Ya-Ku
+- Pukei-Pukei
+- Tetsucabra
+- Joven (Ébano) Odogaron
+- Joven Hirabami
+- Joven Nibelsnarf
+## CR 5
+- Alfa Doshaguma
+- Yian Kut-ku azul
+- Quematrice
+- Ludroth real
+- Volvidon
+- Joven Magala
+- Joven Mizutsune
+- Joven Nargacuga
+- Zamtrios
+## CR6
+- Agnaktor
+- Aknosom
+- Basarios
+- Congalala
+- Qurupeco carmesí
+- Grandes Girros
+- Kecha Wacha
+- Nerscylla
+- Qurupeco
+- Tetranadon
+- Tobi-Kadachi
+- Tzitzi-Ya-Ku
+- Uragaan
+- Joven Barioth
+- Joven Espinas
+- Gammoth joven
+## CR7
+- Anjanath
+- Bishatén
+- Cefalódromo
+- Dodogama
+- Gobul Paolumu
+- Seregios
+- Kulu-Ya-Ku templado
+- Yian Garuga
+## CR 8
+- Adolescente Rajang
+- Tetsucabra enloquecido
+- Gypceros
+- Jade Barroth
+- Lala Barina
+- Nibelsnarf
+- Odogaron
+- Rathian
+- Yelmo Rojo Arzuros
+- Rompopolo
+- El barón de las nieves Lagombi
+- Joven Lagiacrus
+## CR 9
+- Ástalos
+- Blangonga
+- Cristal Basarios
+- Daimyo Hermitaur
+- Duramboros
+- Fey Nerscylla
+- Agnaktor glacial
+- Hirabami
+- Malfestio
+- Najarala
+- Plesioth
+- Víbora Tobi-Kadachi
+## CR 10
+- Ajarakan
+- Ceniza Kecha Wacha
+- Bazelgeusling
+- Coral Pukei-Pukei
+- Gigginox
+- Khezu
+- Calabaza Uragaan
+- Radoban
+- Rathalos
+- Somnacanto
+- Yian templado kut-ku
+- Zamtrios rayado de tigre
+- Zinogre
+## CR 11
+- Adolescente Akantor
+- Adolescente Magala
+- Arzuros empapado de sangre
+- Dire Miralis
+- Esmeralda Congalala
+- Jyuratodus
+- Mizutsune
+- Nargacuga
+- Seltas Reina
+- Congalala templada
+- Variante: Mizutsune mítico
+## CR 12
+- Banbaro
+- Beotodus
+- Bishaten de naranja sanguina
+- Tetsucabra colmillo perforador
+- Ébano Odogaron
+- Espinas
+- Kirin
+- Leshen
+- Lunastra
+- Monoblos
+- Belladona Paolumu
+- Ludroth Púrpura
+- Uth Duna
+## CR 13
+- Glavenus
+- Verde
+- Plesioth
+- Lavasioth
+- Legiana
+- Nu Udra
+- Shogun Ceanatauro
+- Cubierto
+- Nerscylla
+- Teostra
+- Gypceros templado
+## CR 14
+- Aurora Somnacanto
+- Rathalos azur
+- camaleones
+- Gigginox caótico
+- Uragaan Barba de Cristal
+- Nargacuga verde
+- Lagiacrus
+- Namielle
+- Capa Nocturna Malfestio
+- Gypceros morado
+- Rey Dau
+- Rubí Basarios
+- Óxido Duramboros
+- Blangonga Templada
+- Nerscylla templada
+## CR 15
+- Almudrón
+- Bariot
+- Blangonga de Cobre
+- Reina de las Seltas del Desierto
+- Espinas llameantes
+- Fulgur Anjanath
+- Gravios
+- Kushala Daora
+- Rathian rosa
+- Ciruela Daimyo Hermitaur
+- Rajang
+- Templado sergios
+- Violeta Mizutsune
+- Xu Wu
+## CR 16
+- Garangolm
+- Jin Dahaad
+- Yian Garuga con cicatrices
+- Vidente de almas Mizutsune
+- Astalos templado
+- Señor del Trueno Zinogre
+- Tigrex Valstrax
+## CR 17
+- Amatsumagatsuchi
+- Arkveld
+- Siniestro Gigginox
+- Bazelgeuse
+- Braquidios
+- Gamut
+- Lagiacrus de marfil
+- Magma Almudrón
+- Magnamalo
+- Rakna-Kadaki
+- Kushala Daora resucitada
+- Barioth de arena
+- Gritando Legiana
+- Odogaron de ébano templado
+- Shogun Ceanatauro templado
+- Veljana
+- Monoblos blancos
+## CR 18
+- Dalamadur
+- Deviljho
+- diablos
+- Goss Harag
+- Oroshi
+- Kirin
+- Khezu rojo
+- Uragaan de acero
+- Hermitaur Puño de Piedra
+- Daimyo Hermitaur templado
+- Miralis terrible templada
+- Espinas Templadas
+- Marea Najarala
+- Yama Tsukami
+## CR 19
+- Glavenus ácido
+- Rey Dau architemperado
+- Gravios negros
+- Gogmazios
+- Lunagarón
+- Pira Rakna-Kadaki
+- Rustrazor Ceanatauro
+- Viento Argénteo Nargacuga
+- Camaleos Templados
+- Templado Fulgur Anjanath
+- Temperado Kirin
+- Lunastra Templada
+- Namielle templada
+- Serpiente del Trueno Narwa
+- Serpiente del viento Ibushi
+## CR 20
+- Akantor
+- Tigrex Bruto
+- Deadeye Yian Garuga
+- Gammoth Escarcha mayor
+- Barioth Colmillo Escarchado
+- Rathian dorado
+- Hoja Infernal Glavenus
+- Malzeno
+- Nakarkos
+- Onimusha
+- Kushala Daora oxidada
+- Zinogre estigio
+- Teostra Templada
+- Terra Shogun Ceanatauro
+- Ukanlos
+## CR 21
+- Lagiacrus abisal
+- Alatreón
+- Leshen antiguo
+- Rajang furioso
+- Gore Magala
+- Kulve Taroth
+- Lucent Nargacuga
+- Camaleos resucitados
+- Magnamalo despreciado
+- Bazelgeuse hirviente
+- Rathalos de plata
+- Gore Magala templado (mítico)
+- Gravios Templados
+## CR 22
+- Diablos Negros
+- Boltreaver Astalos
+- Resplandor carmesí Valstrax
+- Grimclaw Tigrex
+- Brachydios furioso
+- Teostra resucitada
+- Deviljho salvaje
+- Arkveld templado
+- Velkhana templado
+## CR 23
+- Ahtal-Ka
+- Ahtal-Neset
+- Reina aterradora Rathian
+- Tigrex fundido
+- Nergigante
+## CR 24
+- Namielle archtemplada
+- Caótico Gore Magala
+- El temible Rathalos
+- Vaal Hazak
+## CR 25
+- Diablos del baño de sangre
+- Malzeno primordial
+- Shagaru Magala
+- Shara Ishvalda (Concha)
+- Amatsu templado
+- Xeno'jiiva
+## CR 26
+- Miralis Dire Templada
+- Velo Negro Vaal Hazak
+- Ceadeo
+- Jhen Mohran
+- Shara Ishvalda (forma verdadera)
+- Zoh Shia
+## CR 27
+- Velkhana archtemperada
+- gigante
+- Dah'ren Mohran
+## CR 28
+- Fatalis
+- Gaismagorm
+## CR 29
+- Safi'jiiva
+## CR 30
+- Ashen Lao-Shan Lung
+- Ceadeus Barba Dorada
+- Santificado Jhen Mohran
+- Pulmón de Lao-Shan
+- Narwa la Madre de Todo
+- Shagaru Magala resucitado
+- Ruiner Nergigante
+- Shah Dalamadur
+- Shen Gaoren
+- Alatreon Templado
+- Fatalis templado
+- Shagaru Magala templado
+- Zorah Magdaros

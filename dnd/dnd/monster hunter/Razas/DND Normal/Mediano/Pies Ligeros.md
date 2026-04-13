@@ -1,0 +1,4 @@
+***Tras su resurgimiento, el clan de los Pies Ligeros se ha extendido por todas partes. Sus tradiciones aún se mantienen vigentes en todo el clan, y la mayoría de ellos utilizan sus conocimientos para convertirse en alquimistas, herbolarios, investigadores, clérigos y druidas. Tienden a evitar la lucha directa y prefieren huir en peligro antes que luchar. Los Pies Ligeros aún guardan rencor a los demás clanes medianos, pero colaboran con ellos si es necesario, aunque a regañadientes. Tampoco les importa mencionar cualquier fallo en los planes o problemas causados ​​por sus hermanos medianos.***
+
+- **Aumento de Puntuación de Característica.** Tu puntuación de Carisma aumenta en 1.
+- **Naturalmente Sigiloso.** Puedes intentar ocultarte incluso cuando solo te oculta una criatura al menos un tamaño mayor que tú.

@@ -1,0 +1,10 @@
+## Hongo
+Rareza: Poco común
+**Tipo:** Emisor
+**Descripción:** Hongo permite al usuario generar y manipular esporas que crecen rápidamente hasta convertirse en estructuras fúngicas. Estas esporas pueden propagarse desde el usuario, otras superficies o criaturas. Prosperan en ambientes húmedos y los hongos pueden interferir con el movimiento, la visión y las funciones físicas.
+
+**Debilidad:** El uso prolongado de Hongo sobrecarga el cuerpo del usuario con esporas tóxicas. Tras usar habilidades basadas en esporas durante un número de asaltos igual a tu bonificación por competencia × 2, el usuario debe superar una tirada de salvación de Constitución CD 13 o sufrir un nivel de la condición de Mareo.
+
+**Nube de esporas:** Como acción, liberas esporas en un radio de 3 metros dentro de un alcance de 18 metros. Las criaturas en el área deben realizar una tirada de salvación de Constitución o quedar envenenadas y sufrir un nivel de la condición de Mareo. Al comienzo de cada uno de sus turnos, las criaturas afectadas reciben 1d6 de daño por veneno. Pueden usar su acción para eliminar las esporas. En los niveles 5, 10 y 15, el radio aumenta en 3 metros y el dado de daño en +1.
+
+**Asfixia por Branquias Partidas.** Como acción de turno completo, eliges una criatura a 18 metros o menos. Las esporas irrumpen en la boca y garganta del objetivo, bloqueando el flujo de aire. El objetivo debe realizar una tirada de salvación de Constitución contra la CD de tu Don. Si falla, recibe 4d6 de daño por veneno al comienzo de cada uno de sus turnos y comienza a asfixiarse. Una criatura asfixiada puede sobrevivir durante un número de asaltos igual a 1 + su modificador de Constitución (mínimo 1) antes de caer a 0 PV. Al comienzo de cada uno de sus turnos, una criatura asfixiada puede intentar una tirada de salvación de Constitución contra la CD de tu Don para expulsar las esporas. Si tiene éxito, la condición termina inmediatamente. Si la criatura falla y se queda sin rondas, sus puntos de vida caen a 0.

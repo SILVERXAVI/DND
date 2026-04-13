@@ -1,0 +1,13 @@
+**_Dado que no todos los tieflings son de la sangre de Asmodeo, algunos tienen rasgos que difieren de los de la_ Manual del jugador. _El Dungeon Master puede permitir las siguientes variantes para tu personaje tiefling, aunque Devil's Tongue, Hellfire y Winged son mutuamente excluyentes._**
+
+- **Aumento de la puntuación de habilidad.** Aumenta una puntuación de habilidad en 1.
+
+- **Apariencia.** Es posible que su tiefling no se parezca a otros tieflings. En lugar de tener las características físicas descritas en el _Manual del Jugador_, elija 1d4 + 1 de las siguientes características: cuernos pequeños; colmillos o dientes afilados; una lengua bífida; ojos de gato; seis dedos en cada mano; patas de cabra; pezuñas hendidas; una cola bifurcada; piel correosa o escamosa; piel roja o azul oscuro; no proyectar sombra ni reflejo; exuda un olor a azufre.
+
+- **Salvaje.** Tu puntuación de Carisma aumenta en 1 y tu puntuación de destreza aumenta en 2. Este rasgo reemplaza al rasgo Aumento de puntuación de habilidad
+
+- **Lengua del diablo.** Ya conoces el cantrip [de la burla viciosa](http://dnd5e.wikidot.com/spell:vicious-mockery). Una vez que alcances el nivel 3, puedes lanzar el hechizo [Charm Person](http://dnd5e.wikidot.com/spell:charm-person) una vez como un hechizo de nivel 2. Una vez que alcances el nivel 5, también puedes lanzar el hechizo [Cautivar](http://dnd5e.wikidot.com/spell:enthrall) una vez. Debes terminar un largo descanso para volver a lanzar estos hechizos con este rasgo. El carisma es tu habilidad de lanzamiento de hechizos para estos hechizos. Este rasgo reemplaza al rasgo Legado infernal
+
+- **Hellfire.** Una vez que alcances el nivel 3, puedes lanzar el hechizo [Manos ardientes](http://dnd5e.wikidot.com/spell:burning-hands) una vez como un hechizo de nivel 2. Este rasgo reemplaza al hechizo [Reprimenda infernal](http://dnd5e.wikidot.com/spell:hellish-rebuke) del rasgo Legado infernal.
+
+- **Alado.** Tienes alas de murciélago brotando de tus hombros. Tienes una velocidad de vuelo de 30 pies mientras no llevas una armadura pesada. Este rasgo reemplaza al rasgo Legado infernal.

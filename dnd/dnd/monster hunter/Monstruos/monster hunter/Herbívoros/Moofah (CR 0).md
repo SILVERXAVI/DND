@@ -1,0 +1,5 @@
+***Moofah are docile alpaca-like creatures known for their long shaggy fur. Males have longer horns than females. Domesticated Moofah have lighter-colored fur than their wild counterparts and wear colored bows and bells.***
+
+Moofah Moofah Small beast, unaligned Armor Class 10 Hit Points 3 (1d6) Speed 30 ft. STR DEX CON INT WIS CHA 10 (+0) 10 (+0) 11 (+0) 2 (-4) 10 (+0) 5 (-3) Senses passive Perception 10 Languages — Challenge 0 (10 XP) Proficiency +2 Sure-Footed. The moofah has advantage on Strength and Dexterity saving throws made against effects that would knock it prone. Actions Actions Headbutt. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage. 
+
+Moofah Moofah Challenge Rating 0 Carves 1 Carve Material Slots 1-5 Raw Meat (O) 6-13 Moofah Fur (A) 14-20 Moofah Horn (W) ARMOR MATERIAL EFFECTS Moofah Fur You reduce cold damage you take by 2 while you wear this armor. WEAPON MATERIAL EFFECTS Moofah Horn Your weapon attacks deal an extra 1 lightning damage. OTHER MATERIAL EFFECTS Raw Meat Provides 2 days rations when cooked.

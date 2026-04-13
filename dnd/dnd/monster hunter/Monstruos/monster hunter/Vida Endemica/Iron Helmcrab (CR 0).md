@@ -1,0 +1,3 @@
+Iron Helmcrab Iron Helmcrab Tiny beast, unaligned Armor Class 11 (natural armor) Hit Points 2 (1d4) Speed 20 ft., burrow 5 ft. STR DEX CON INT WIS CHA 2 (-4) 11 (+0) 10 (+0) 1 (-5) 8 (-1) 2 (-4) Senses blindsight 30 ft., passive Perception 9 Languages — Challenge 0 (10 XP) Proficiency +2 Amphibious. The helmcrab can breathe air and water. Actions Actions Claw. Melee Weapon Attack: +2 to hit, Reach 5 ft., one target. Hit: 1 bludgeoning damage
+
+>A iron helmcrab typically lives near swamp-like areas. They are often sought after by bowgun users, for an iron helmcrab eat needleberries which can often be found intact inside its stomach.

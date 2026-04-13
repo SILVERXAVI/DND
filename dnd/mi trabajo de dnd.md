@@ -1,0 +1,101 @@
+buenas quiero hacer una aplicación la cual me permita crear, modificar, ver, etc **personajes**, clases, subclases, monstruos, estructuras, lugares, mapas, objetos, notas de historia, eventos, etc. lo estoy creando para tener un lugar con toda la información para un dnd, la intención es que yo y mis amigos podamos meternos desde distintas localizaciones y dependiendo de si metes un usuario u otro, entrarías como admin o como usuario y que todo lo que hagan se guarde para la siguiente sesión. quiero empezar a usar visual studio. por supuesto tambien tiene que tener una integracion con la IA por que quiero añadir que en la historia los usuarios puedan hablar con distintos npcs los cuales tengan tienen personalidad, forma de hablar y una informacion especifica y que dependiendo que tipo de preguntas le hagan puedan ser respondidos de una forma u otra, el final de este proyecto tengo pensado que sea una aplicacion que funcione como un dungeon master, con una posible mejora a futuro de un modulo de virtual tabletop
+
+- [ ] **creación de personajes**
+	- [ ] imagen
+	- [ ] nombre
+	- [ ] nivel
+	- [ ] raza
+	- [ ] habilidad
+	- [ ] clase
+		- [ ] subclase
+	- [ ] equipamiento
+	- [ ] transfundo
+	- [ ] personalidad
+	- [ ] estadísticas
+- [ ] **modificación de personajes**
+	- [ ] imagen
+	- [ ] nombre
+	- [ ] nivel
+	- [ ] clase
+	- [ ] equipamiento
+	- [ ] estadísticas
+- [ ] **ver personajes personajes**
+	- [ ] imagen
+	- [ ] nombre
+	- [ ] descripción
+	- [ ] nivel
+	- [ ] armadura
+	- [ ] vida
+	- [ ] velocidad
+	- [ ] estadísticas
+	- [ ] personalidad
+	- [ ] raza
+	- [ ] clase
+	- [ ] acciones
+- [ ] **creación de monstruos**
+	- [ ] imagen
+	- [ ] nombre
+		- [ ] descripción
+		- [ ] tipo y alineamiento
+		- [ ] armadura
+		- [ ] vida
+		- [ ] velocidad
+	- [ ] estadísticas
+		- [ ] tiradas de salvación
+		- [ ] tiradas de habilidades
+		- [ ] inmunidades
+		- [ ] vulnerabilidades
+		- [ ] resistencias
+		- [ ] sentidos
+		- [ ] idiomas
+	- [ ] rasgos
+	- [ ] acciones
+	- [ ] acciones legendarias
+	- [ ] botin
+- [ ] **creación de npcs**
+	- [ ] imagen
+	- [ ] nombre
+	- [ ] nivel
+	- [ ] raza
+	- [ ] habilidad
+	- [ ] clase
+		- [ ] subclase
+	- [ ] equipamiento
+	- [ ] transfundo
+	- [ ] conocimiento
+	- [ ] personalidad
+	- [ ] estadísticas
+- [ ] **creación y modificación de estructuras**
+	- [ ] imagen
+	- [ ] nombre
+	- [ ] información
+	- [ ] vida
+	- [ ] armadura
+	- [ ] resistencias
+	- [ ] vulnerabilidades
+- [ ] **creación de lugares**
+	- [ ] zonas
+	- [ ] tiendas
+	- [ ] npcs
+	- [ ] eventos
+- [ ] **creación de objetos**
+	- [ ] imagen
+	- [ ] nombre
+	- [ ] información
+	- [ ] efecto
+- [ ] **notas de historia para DM**
+	- [ ] id campaña
+	- [ ] fecha de creación y modificación
+	- [ ] mensaje
+- [ ] **historia**
+	- [ ] id campaña
+	- [ ] información para los npcs
+	- [ ] eventos
+		- [ ] combates
+		- [ ] encuentros
+
+
+
+
+
+

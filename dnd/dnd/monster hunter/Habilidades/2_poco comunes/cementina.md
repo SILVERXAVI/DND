@@ -1,0 +1,10 @@
+## Cemedine
+Don, Poco común
+**Tipo:** Mutante
+**Descripción:** Cemedine permite al usuario rociar un líquido pegajoso desde los orificios de su cabeza. Al entrar en contacto con algo, el pegamento se endurece y atrapa lo que toca, o lo vuelve pegajoso y peligroso al tacto. El usuario puede ajustar la velocidad de secado.
+
+**Debilidad:** Cemedine es vulnerable al ácido, al calor extremo o a la deshidratación prolongada. Tras usar su Don un número de veces igual al doble de su bonificación por competencia, debe realizar una tirada de salvación de Constitución CD 13 o sufrirá 1 rango de Náuseas mientras su cuerpo se deshidrata. Para recuperarse, debe beber agua o descansar durante al menos 10 minutos. Trampa Pegajosa: Como acción, rocía adhesivo en un cuadrado de 4,5 metros (15 pies) dentro del alcance. El terreno se convierte en terreno difícil, y cualquier criatura que entre o comience su turno allí debe realizar una tirada de salvación de Fuerza contra la CD de salvación de tu Don o quedar Inmovilizada durante 1 minuto. Una criatura inmovilizada puede repetir la salvación al final de su turno. En los niveles 5, 10, 15 y 20, el área aumenta 1,5 metros por lado.
+
+**Vínculo Endurecido** Como acción, puedes solidificar rápidamente tu pegamento en una densa y endurecida red en un radio de 6 metros centrada en un punto a 9 metros o menos. Cada criatura en el área debe realizar una tirada de salvación de Destreza o quedar Inmovilizada y Derribada bajo la masa endurecida. La red de pegamento tiene 25 puntos de golpe, vulnerabilidad al ácido y resistencia a los golpes contundentes y perforantes.
+
+**Escudo Adhesivo** A partir del nivel 5, como reacción, puedes endurecer instantáneamente pegamento frente a ti o un aliado a 3 metros o menos, formando una barrera semitransparente. El escudo otorga +2 a la CA y resistencia a los ataques con armas a distancia hasta el inicio de tu siguiente turno. Puedes usar esta característica un número de veces igual a tu bonificador de competencia, recuperando todos los usos tras un descanso corto o largo.

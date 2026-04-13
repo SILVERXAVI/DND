@@ -1,0 +1,1 @@
+![[MHW-Armadura_Malla.webp]]
