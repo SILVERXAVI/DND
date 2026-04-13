@@ -1,5 +1,0 @@
-**_Los tieflings con un vínculo de sangre con Zariel son más fuertes que los tiefling típicos y reciben habilidades mágicas que los ayudan en la batalla._**
-
-- **Aumento de la puntuación de habilidad.** Tu puntuación de Fuerza aumenta en 1.
-
-- **Legado de Averno.** Ya conoces el cantrip de [la taumaturgia](http://dnd5e.wikidot.com/spell:thaumaturgy). Una vez que alcances el nivel 3, puedes lanzar el hechizo [Castigo abrasador](http://dnd5e.wikidot.com/spell:searing-smite) una vez como un hechizo de nivel 2. Una vez que alcances el nivel 5, también puedes lanzar el hechizo [Branding Smite](http://dnd5e.wikidot.com/spell:branding-smite) una vez como un hechizo de nivel 3. Debes terminar un largo descanso para volver a lanzar estos hechizos con este rasgo. El carisma es tu habilidad de lanzamiento de hechizos para estos hechizos.

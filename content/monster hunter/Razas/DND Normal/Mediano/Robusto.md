@@ -1,5 +1,0 @@
-***El clan Pies Fuertes adoptó un nuevo nombre tras su resurgimiento.***
-***Cansados ​​de tener un nombre similar al de los tradicionalistas que no estaban dispuestos a cambiar, el clan Pies Fuertes pasó a ser conocido como el clan Guardias Fuertes. Los Guardias Fuertes son muy conocidos en los asentamientos del Viejo Mundo. Muchos no se dedican a la caza, sino que eligen proteger las aldeas, ciudades y pueblos donde nacieron. En raras ocasiones, se sabe que un Guardia Fuerte ha entrado en las filas de caballeros del gremio. Quienes alcanzan este logro son considerados héroes y leyendas en sus comunidades de medianos.***
-
-- **Aumento de puntuación de característica.** Tu puntuación de Constitución aumenta en 1.
-- **Resistencia robusta.** Tienes ventaja en las tiradas de salvación contra veneno y resistencia al daño por veneno.

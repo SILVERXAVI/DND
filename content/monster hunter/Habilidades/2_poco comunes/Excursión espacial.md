@@ -1,8 +1,0 @@
-## Excursión espacial
-Rareza, Poco común
-Tipo: Emisor
-**Descripción:** Excursión espacial permite al usuario alterar libremente la posición, orientación y velocidad de cualquier objeto o criatura dentro de su línea de visión. Al distorsionar el espacio local, el usuario puede levantar, lanzar o suspender objetivos como si la gravedad no existiera, desplazándolos sin esfuerzo por el aire o incluso rotándolos en pleno movimiento. Los usuarios avanzados pueden manipular la trayectoria de proyectiles, redirigir ataques o moverse instantáneamente distancias cortas.
-
-**Debilidades:** Esta Rareza requiere línea de visión directa para funcionar; las obstrucciones como paredes, humo u oscuridad impiden la manipulación. Mantener múltiples objetivos exige concentración al usuario. Cada vez que usa Control básico o recibe daño, debe realizar una prueba de Constitución CD 13. Si pierde la concentración, todos los objetos y criaturas suspendidos caerán inmediatamente o volverán a su trayectoria original. El uso excesivo causa vértigo, migrañas o hemorragias nasales debido a la desorientación espacial. Si usan Control Básico más de tres veces en un asalto, obtienen un rango de sangrado.
-
-**Control Básico:** Como acción adicional, el usuario puede manipular hasta tres objetos o criaturas simultáneamente dentro de un radio de 30 metros, moviendo cada uno hasta 18 metros en cualquier dirección. El movimiento es instantáneo e ignora la gravedad. Las criaturas movidas deben superar una tirada de salvación de Fuerza contra la CD de salvación de Rasgo o serán reposicionadas a la fuerza. Si una criatura es lanzada contra otro objeto o si lanza un objeto o criatura, ambos reciben 4d10 de daño de fuerza + el tamaño del objeto (si corresponde).

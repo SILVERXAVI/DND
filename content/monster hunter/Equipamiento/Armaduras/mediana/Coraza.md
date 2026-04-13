@@ -1,1 +1,0 @@
-![[MHW-Armadura_Aleaci%3Fn.webp]]

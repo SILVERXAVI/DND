@@ -1,9 +1,0 @@
-***Los enanos de las colinas son individuos robustos y resistentes como sus hermanos de las montañas, pero de naturaleza menos desagradable y brusca. Son una raza profundamente materialista que cree que los recursos del mundo natural existen únicamente para servir al propósito de los seres conscientes. Para un enano de las colinas, no hay mayor propósito que transformar los minerales de la tierra en objetos bellos. Los enanos de las colinas fueron en su día enanos de las montañas que fueron exiliados de sus hogares o que vieron sus hogares destruidos y trasladados a la superficie en lugar de a las profundidades, como sus primos duergar. Con el paso de las generaciones, estos enanos se asentaron en la superficie, abandonando las viejas costumbres y, a cambio, encontraron nuevos amigos, nuevas oportunidades de negocio, iluminación espiritual e incluso conocimiento arcano.***
-
-- **Aumento de la puntuación de habilidad.** Tu puntuación de Sabiduría aumenta en 1.
-
-- **Dureza enana.** Tu punto máximo de acierto aumenta en 1 y aumenta en 1 cada vez que ganas un nivel.
-
-- **Resiliencia enana.** Tienes ventaja en guardar lanzamientos contra el veneno y tienes resistencia contra el daño del veneno.
-
-- **Experiencia artesanal.** Obtienes competencia con una verificación de (Historia) relacionada con el origen de cualquier construcción arquitectónica (incluidos edificios, obras públicas como canales y acueductos, y el enorme trabajo conjunto que subyace a gran parte de la construcción), se le considera competente. en la habilidad Historia y agregue el doble de su bonificación de competencia a la verificación, en lugar de su bonificación de competencia normal.

@@ -1,8 +1,0 @@
-## Teletransportación
-Don, Poco común
-Tipo: Emisor
-**Descripción:** Este Don permite al usuario teletransportarse a sí mismo y a cualquier material o ser vivo con el que esté en contacto a una ubicación designada dentro de su línea de visión. El usuario puede cambiar instantáneamente de posición, tanto él como sus objetivos, lo que permite movimientos estratégicos durante el combate o una rápida huida del peligro.
-
-**Debilidades:** La teletransportación requiere línea de visión. El usuario no puede teletransportarse a áreas que no puede ver directamente, incluyendo detrás de paredes, dentro de objetos o en la oscuridad que impide la visión. Además, para teletransportar a otra criatura, se requiere contacto físico en el momento de la teletransportación. Si el usuario está cegado, inmovilizado o incapacitado para ver o tocar a su objetivo, no puede activar este Don.
-
-**Teletransportación:** Este Don permite al usuario reubicarse instantáneamente a sí mismo o a un objetivo a una ubicación visible dentro de un rango fijo. Puede usarse de forma ofensiva, defensiva o táctica para reposicionar aliados o evitar el peligro. El usuario puede teletransportarse a sí mismo o a una criatura que esté tocando físicamente a una ubicación a 12 casillas de distancia que pueda ver. El destino debe estar en terreno estable y despejado, fuera de zonas peligrosas como fuego, pinchos o barreras mágicas, y fuera de terreno difícil. Teletransportarse puede usarse como acción o reacción. El usuario también obtiene reacciones y acciones adicionales iguales a su modificador de Destreza + bonificador de competencia, pero estas acciones y reacciones adicionales solo pueden usarse para activar Teletransportarse.

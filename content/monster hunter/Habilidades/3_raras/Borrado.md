@@ -1,9 +1,0 @@
-## Borrado
-_Rareza: Rara_
-**Tipo:** Emisor
-
-**Descripción:** Borrado permite al usuario anular la Habilidad de cualquier persona que observe directamente. Al enfocar su mirada en un objetivo, puede desactivar sus habilidades durante un tiempo limitado.
-
-**Debilidades:** Para activar Borrado, el usuario debe tener una línea de visión directa al cuerpo físico del objetivo. Los objetivos pueden evadir el efecto ocultándose tras obstáculos o bloqueando la visión del usuario. Mantener la concentración tras recibir daño es difícil; si el usuario es alcanzado, debe superar una tirada de salvación de Constitución CD 13 para mantener los ojos abiertos y el efecto activo.
-
-**Borrar:** Como acción adicional, puedes mirar a criaturas dentro de un cono de 45 metros (150 pies) centrado en ti. Para objetivos más allá de este alcance, realiza una prueba de Percepción contra CD 14. Si tiene éxito, los objetivos no pueden usar su Rareza ni sus habilidades durante **4 asaltos**. Puedes mantener la concentración durante un número de asaltos igual a tu **bonificador de competencia** sin parpadear. Tras este tiempo, sufres **2 puntos de daño** en los ojos al inicio de tu turno debido al esfuerzo. Parpadear o cerrar los ojos interrumpe el efecto; dejas de recibir daño, pero no puedes usar Borrar durante **2 asaltos**. Si te vierten agua lentamente en los ojos, puedes extender la duración de Borrar en **1 asalto adicional por uso**, y ya no necesitas parpadear ni cerrar los ojos para mantener el efecto, lo que te permite concentrarte indefinidamente sin sufrir daño ocular. A nivel 8, puedes elegir qué objetivos dentro del cono se ven afectados por Borrar, lo que permite la anulación selectiva de Rasgos.

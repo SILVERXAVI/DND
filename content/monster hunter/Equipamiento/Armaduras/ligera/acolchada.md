@@ -1,1 +1,0 @@
-![[MHW-Armadura_Ori%3Fn.webp]]
