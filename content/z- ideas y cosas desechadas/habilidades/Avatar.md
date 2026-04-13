@@ -1,1 +1,0 @@
-Tienes piel azul y puedes conectar con la naturaleza 
