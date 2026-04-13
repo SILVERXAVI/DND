@@ -1,1 +1,0 @@
-Se desbloquea al tener multibuild de magos de [[Nigromancia]] y brujos [[No-muertos]] o [[Eterno]]
