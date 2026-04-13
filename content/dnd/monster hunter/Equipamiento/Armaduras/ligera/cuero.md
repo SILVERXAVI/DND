@@ -1,0 +1,1 @@
+![[MHW-Armadura_Cuero 1.webp]]

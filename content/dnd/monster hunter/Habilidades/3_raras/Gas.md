@@ -1,0 +1,10 @@
+## Gas
+_Peculiaridad, Rara_
+**Tipo:** Emisor
+**Descripción:** El usuario puede producir un gran volumen de gas púrpura que induce el sueño en quien lo inhale. Este gas llena el área circundante, creando un entorno difícil de recorrer y permitiendo al usuario percibir el movimiento en su interior.
+
+**Debilidad:** El gas puede filtrarse a través de cualquier tipo de máscara antigás, lo que lo vuelve ineficaz contra quienes estén preparados. Las concentraciones más bajas del gas son menos potentes y pueden no inducir el sueño. Si el usuario pierde la consciencia, el gas se disipa por completo, lo que indica que produce más gas del que se disipa naturalmente. Sin el usuario para mantenerlo, el gas tiene una duración muy corta. El gas puede dispersarse fácilmente. Vientos de leves a fuertes o habilidades que crean corrientes de aire pueden diluir el gas, reduciendo su efectividad y dificultando que el usuario perciba el movimiento.
+
+**Gas Somnífero:** Como acción, el usuario puede liberar una nube de gas en un radio de 30 metros (100 pies) centrado en sí mismo. Cualquier criatura que comience su turno dentro del gas o entre en él debe realizar una tirada de salvación de Constitución. Si falla, cae dormida durante 1d4 horas o hasta recibir tratamiento. Este efecto puede repetirse para cualquier criatura dentro del gas en turnos posteriores. El gas dificulta la visión, crea terreno difícil y ciega a los oponentes. Cualquier criatura que se desplace a través del gas debe superar una tirada de salvación de Sabiduría para evitar desorientarse, lo que le dificulta realizar acciones con eficacia.
+
+**Detección de Movimiento:** El usuario puede percibir la presencia y la velocidad de movimiento de cualquier criatura dentro de su gas al detectar fluctuaciones en su flujo. Esto le otorga ventaja en las tiradas de ataque contra objetivos dentro del gas.

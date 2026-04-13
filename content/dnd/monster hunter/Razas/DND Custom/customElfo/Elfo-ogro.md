@@ -1,0 +1,1 @@
+***Los Elfo-ogro son individuos nacidos de la combinación de un elfo y un ogro junto a una mutación que hace que hereden las habilidades de ambos padres, estos se caracterizan por tener una musculatura mas prominente y unos colmillos inferiores de mayor tamaño, unas orejas puntiagudas y una piel con un tono de piel verdoso***

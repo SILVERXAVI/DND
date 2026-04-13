@@ -1,0 +1,59 @@
+- [ ] tutel mago lv20
+- [ ] kitsune bárbaro monje pícaro lv15
+- [ ] tiefling druida lv11
+- [ ] wyberiano antiguo artificiero pícaro lv20
+- [ ] githzerai mago monje pícaro lv15
+- [ ] goliath druida lv19
+- [ ] enano clérigo luchador clase secreta lv16
+- [ ] Tritón clase secreta lv6
+- [ ] tiefling paladín lv7
+- [ ] gnomo hechicero druida lv17
+- [ ] liefling monje luchador lv17
+- [ ] humano picaro luchador clérigo lv7
+- [ ] neopreroid pícaro clase secreta lv18
+- [ ] gnomo bárbaro monje mago lv19
+- [ ] draconico antigua clase secreta lv10
+- [ ] enano bardo lv4
+- [ ] enano bardo paladín hechicero lv5
+- [ ] mediano clase secreta lv5
+- [ ] tutel guardabosques mago lv5
+- [ ] eneno bardo lv15
+- [ ] mediano luchador guardabosques bárbaro lv16
+- [ ] tutel paladín bárbaro mago lv12
+- [ ] tutel clase secreta druida bardo guardabosques lv19
+- [ ] draconico antiguo bardo lv16
+- [ ] dhampir monje guardabosques lv11
+- [ ] lynian luchador lv3
+- [ ] tiefling bárbaro luchador lv18
+- [ ] goliath brujo lv18
+- [ ] draconico antiguo magala brujo picaro luchador lv11
+- [ ] warforge brujo druida lv7
+- [ ] gnomo monje bruja bárbaro lv16
+- [ ] enano artificiero clase secreta lv16
+- [ ] Tritón druida lv12
+- [ ] neopreroid hechicero lv2
+- [ ] mediano brujo lv6
+- [ ] goliath bardo guardabosques paladin lv4
+- [ ] mediano mago lv8
+- [ ] mediano hechicero luchador lv19
+- [ ] draconico druida lv19
+- [ ] draconico antiguo malzeno paladín heroísmo lv20
+- [ ] kitsune luchador secreta brujo lv17
+- [ ] tutel brujo hechicero lv8
+- [ ] kitsune hechicero monje lv4
+- [ ] trovierianos artificiero lv6
+- [ ] neopreroid artificiero mago clérigo lv17
+- [ ] wyberiano hechicero lv11
+- [ ] trovierianos luchador pícaro lv20
+- [ ] tiefling clerigo clase secreta hechicero Lv11
+- [ ] draconico antiguo fatalis paladín Rompejuramentos lv19
+- [ ] githyanki monje lv11
+- [ ] elfo clerigo hechicero guardabosques 14
+- [ ] elfo artificiero 19
+- [ ] elfo druida 2
+- [ ] humano mago 16
+- [ ] dhampir mago 18
+- [ ] kitsune bardo 6
+- [ ] warforge paladín luchador 15
+- [ ] draconico antiguo nergigante bárbaro corazón salvaje 20
+- [ ] warforge mago druida 20

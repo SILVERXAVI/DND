@@ -1,0 +1,17 @@
+***Los Malfestian Dragonborn es un Dragonborn, los cuales están cubiertos de una fascinante mezcla de brillantes plumas azules, verdes y violetas. Poseen ojos afilados y penetrantes y bocas con forma de pico. Sus brazos, similares a alas, terminan en manos con garras, y sus piernas fuertes y musculosas terminan en patas con garras para agarrarse a las superficies. Se mueven con un silencio inquietante, lo que los convierte en hábiles cazadores y presas escurridizas. Conocidos por su gran inteligencia y sigilo, a menudo usan los vibrantes colores de sus plumas para mimetizarse con el entorno o crear deslumbrantes exhibiciones para confundir tanto a depredadores como a presas.***
+
+*Un dracónido Malfestian usa los rasgos de dracónido del Manual del Jugador, con los siguientes rasgos reemplazando el Aumento de Puntuación de Característica y el Arma de Aliento*
+
+- **Aumento de la Puntuación de Característica.** Tu puntuación de Sabiduría aumenta en 2 y tu Destreza en 1.
+- **Edad.** Los Malfestianos suelen alcanzar la edad adulta y obtener la designación de adulto alrededor de los 18 años, aunque pueden vivir hasta 250 años, lo que les da tiempo suficiente para acumular sabiduría y experiencia a lo largo de sus largas vidas.
+- **Alineamiento.** Los Malfestianos podrían inclinarse por alineamientos que priorizan los objetivos personales y la toma de decisiones basada en la inteligencia. Legal Neutral o Neutral Maligno podrían ser alineamientos comunes.
+- **Tamaño.** Los Malfestianos suelen medir entre 1,20 y 1,50 metros de altura; su físico se asemeja al de un búho, con complexiones esbeltas, plumas de diversos tonos y rasgos faciales distintivos que incluyen grandes ojos adaptados para la visión nocturna. Su tamaño es Mediano.
+- **Velocidad.** Su velocidad base al caminar es de 9 metros.
+- **Visión en la oscuridad.** Puede ver con poca luz a menos de 18 metros de usted como si fuera luz brillante, y en la oscuridad como si fuera luz tenue. No puede discernir colores en la oscuridad, solo tonos de gris.
+- **Vuelo.** Tiene una velocidad de vuelo igual a su velocidad al caminar. No puede usar esta velocidad de vuelo si lleva armadura media o pesada.
+- **Genética de Malfestio.** Al alcanzar el nivel 3, elija una de las opciones genéticas a continuación.
+
+	- **Capa de la Noche.** Puedes lanzar el hechizo de invisibilidad con este rasgo. Al usar esta versión de Invisibilidad, no dejas evidencia física de tu paso, por lo que solo puedes ser rastreado por magia. Debes completar un descanso prolongado para volver a lanzar este hechizo con este rasgo.
+	- **Ondas Sónicas.** Puedes lanzar el hechizo de confusión con este rasgo. Al usar esta versión de Confusión, puedes seleccionar una criatura dentro del alcance en lugar de un área. Debes completar un descanso prolongado para volver a lanzar este hechizo con este rasgo. Inteligencia, Sabiduría o Carisma son tus habilidades de lanzamiento de hechizos cuando lo lanzas con este rasgo (elige esta opción al seleccionar esta raza).
+- **Alas.** Tus alas son armas naturales que puedes usar para realizar ataques sin armas. Si impactas con ellas, infliges daño cortante igual a 1d6 + tu modificador de Fuerza, en lugar del daño contundente normal para un ataque sin armas.
+- **Idiomas.** Puedes hablar, leer y escribir en común.

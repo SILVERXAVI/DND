@@ -1,0 +1,87 @@
+Aquí tienes una lista de unas cuantas habilidades que tiene:
+- **"origen del todo" ---:** la habilidad personal de --- ---, la máxima expresión creada por si mismo de todas las habilidades que ha obtenido
+	- **"El núcleo" AI-rin:** es una especie de núcleo inteligente creado por --- para que sirva como una segundo conciencia completamente leal a ---, después de un tiempo se convirtió en un núcleo inteligente con sentimientos la cual actúa solo para la utilidad para su maestro. AI-rin es astuta y traviesa pero amable con su maestro, AI-rin siempre quiere el mejoramiento de su maestro, Por lo tanto, busca la solución más óptima sin causarle desagrado. da acceso a las siguientes habilidades:
+		- Super Aceleramiento del Pensamiento: Aumenta la velocidad de procesamiento del pensamiento un millón de veces.
+		-  Experto en análisis
+		-  Procesamiento paralelo: la capacidad de separar pensamientos y análisis del fenómeno.
+		-  Fusión: la capacidad de fusionarse en un solo ser con el sujeto objetivo.
+		-  Separación: la habilidad de separarse y ser poseer de a alguien (si el objetivo que se está separando carece de una forma física, podría desaparecer).
+		-  Canto descartado: cuando se usa magia, el canto ya no es necesario.
+		-  Toda la creación: la habilidad comprende cualquier fenómeno
+		-  Cadena alimentaria: es posible adquirir habilidades de los subordinados.
+		-  Corredor del Alma: conexión continua con sus subordinados en los que puede transferir, mejorar y regalar habilidades.
+		-  Habilidades de la especie (habilidades básicas de la sabiduría)
+		- Uso de la “Voz del mundo” (game master).
+		- Síntesis de habilidades: combinando habilidades para crear las más poderosas.
+		- Promoción de habilidades: Fortalecimiento de los subordinados mediante la evolución de sus habilidades.
+		- Visión futura
+		- Precognición
+		- Telekinesis
+		- Evolución Reactiva
+	- **"Lord de la Creación y la Cosecha" Shahubra Niggmazduratha:** 
+		- Creación Total: Objetos, Habilidades, Vida, Universos, Mundos
+		- Manipulación de todas las cosas: permite manipular cualquier cosa desde almas, realidades, metafísicas, caos, información, vida o muerte, evolución, origen, tiempo, casualidad, historia, etc. (literalmente todo)
+		- Creación de magia: permite crear tu propia magia
+		- Creación de Habilidades: permite crear tus propias habilidades
+		- Duplicación de Habilidades: permite duplicar habilidades
+		- Traspaso de Habilidades: permite pasar habilidades a otros
+		- Banco de Habilidades: permite guardar habilidades, como información para duplicarlas o usarlas
+		- Creación de ilusiones
+		- Control sobre la Materia
+		- Duplicación en Masa  
+		- 
+	- **"libro del conocimiento" Registros Akáshicos:** 
+		- Información completa: contiene toda la información habida y por haber
+		- Acasualidad: permite estar fuera de la casualidad
+		- conciencia cósmica
+		- proyección astral
+		- generación infinita de: Energía Mágica Energía infinita Energía de las Estrellas / Energía de la Creación
+		- Percepción Omniversal  
+	- **"dios del espacio-tiempo" -.-.-:**
+		- Consumo de alma: puede devorar el alma del objetivo ignorando el espacio-tiempo.
+		- Colapso Nihilista  (Turn Null): La energía destructiva definitiva que llena el mundo de caos.
+		- Espacio imaginario: tamaño ilimitado. Es una prisión donde los que necesitan ser puestos en cuarentena están encerrados.
+		- Dominación del espacio-tiempo: Manipular y doblar el tiempo y el espacio a los usuarios, pudiendo moverse en un instante con solo pensar conscientemente en ello. Incluso permite al usuario interferir con el tiempo.
+		- Barrera multidimensional: La defensa absoluta se logra mediante la separación de las dimensiones espaciales y varias barreras poderosas. Capaz de bloquear cualquier cosa.
+		- Teletransportación (Time warp): La capacidad de trascender el tiempo y el espacio para llegar a la ubicación que el usuario desea.
+		- Absorción de Habilidades
+		- Existencia Abstracta
+		- Separación de la Realidad
+		- Interacción no física
+		- Borrado existencial
+		- Viaje dimensionales
+		- Existencia paralela
+		- Existencia Paradójica
+		- Existencia Más Allá de las Dimensiones
+		- Anulación de poderes
+		- One Hit Kill
+	- **"resistencia":**
+		- Denegación a los Ataques Físicos  
+		- Inmune a los Elementos
+		- Negación a los ataque de energía/energía vital 
+		- Denegación a los Estados
+		- Denegación a Ataques Espiritual
+		- Resistencia Híbrida
+		- Resistencia ataques de alma
+		- Negación mágica
+		- Negación a los ataque mágicos
+		- inmune a los ataques físicos
+		- Invulnerabilidad
+		- Inmune a los ataques de elementos
+		- Inmune al borrado existencial
+		- Inmortalidad tipo (1,2,3,4,5,6,7,8,9)
+	- Magia
+		- Magia divina
+		- Magia de espíritu Celestiales
+		- Magia demoniaca
+		- Magia Curativa
+		- Magia Nuclear
+		- Magia Física
+		- Magia Original
+		- Magia Nihilista
+		- Magia de Estrellas / Magia de la Creación
+		- Magia nigromancía
+		- Magia de Resurrección
+		- Antimagia
+		- Magia primitiva
+		- Magia de polvo de estrellas
